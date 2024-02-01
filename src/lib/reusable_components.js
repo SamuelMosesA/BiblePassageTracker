@@ -48,7 +48,7 @@ function HeaderAndFooterWrapper(props) {
                     <div>
                     {userInfoContent}
                     <a
-                    href="https://github.com/SamuelMosesA/BiblePassageNextJsApp"
+                    href="https://github.com/SamuelMosesA/BiblePassageTracker"
                     target="_blank"
                     rel="noopener noreferrer"
                     >
