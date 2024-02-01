@@ -1,0 +1,254 @@
+[
+    {
+        "title": "The Proclamation of Cyrus",
+        "book": "EZR",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 182,
+        "numChars": 995
+    },
+    {
+        "title": "Cyrus Restores the Holy Vessels",
+        "book": "EZR",
+        "chapter": 1,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 96,
+        "numChars": 534
+    },
+    {
+        "title": "The List of Returning Exiles",
+        "book": "EZR",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 67,
+        "numWords": 598,
+        "numChars": 3426
+    },
+    {
+        "title": "Offerings by the Exiles",
+        "book": "EZR",
+        "chapter": 2,
+        "startVerse": 68,
+        "endVerse": 70,
+        "numWords": 127,
+        "numChars": 694
+    },
+    {
+        "title": "Sacrifices Restored",
+        "book": "EZR",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 279,
+        "numChars": 1546
+    },
+    {
+        "title": "Temple Restoration Begins",
+        "book": "EZR",
+        "chapter": 3,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 243,
+        "numChars": 1393
+    },
+    {
+        "title": "Adversaries Hinder the Work",
+        "book": "EZR",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 157,
+        "numChars": 836
+    },
+    {
+        "title": "Opposition under Xerxes and Artaxerxes",
+        "book": "EZR",
+        "chapter": 4,
+        "startVerse": 6,
+        "endVerse": 16,
+        "numWords": 347,
+        "numChars": 1925
+    },
+    {
+        "title": "The Decree of Artaxerxes",
+        "book": "EZR",
+        "chapter": 4,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 175,
+        "numChars": 974
+    },
+    {
+        "title": "Temple Rebuilding Resumes",
+        "book": "EZR",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 175,
+        "numChars": 959
+    },
+    {
+        "title": "Tattenai’s Letter to Darius",
+        "book": "EZR",
+        "chapter": 5,
+        "startVerse": 6,
+        "endVerse": 17,
+        "numWords": 346,
+        "numChars": 1904
+    },
+    {
+        "title": "The Decree of Darius",
+        "book": "EZR",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 314,
+        "numChars": 1637
+    },
+    {
+        "title": "The Temple Completed",
+        "book": "EZR",
+        "chapter": 6,
+        "startVerse": 13,
+        "endVerse": 15,
+        "numWords": 87,
+        "numChars": 509
+    },
+    {
+        "title": "Dedication of the Temple",
+        "book": "EZR",
+        "chapter": 6,
+        "startVerse": 16,
+        "endVerse": 18,
+        "numWords": 90,
+        "numChars": 495
+    },
+    {
+        "title": "The Returned Exiles Keep the Passover",
+        "book": "EZR",
+        "chapter": 6,
+        "startVerse": 19,
+        "endVerse": 22,
+        "numWords": 125,
+        "numChars": 692
+    },
+    {
+        "title": "Ezra Arrives in Jerusalem",
+        "book": "EZR",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 222,
+        "numChars": 1135
+    },
+    {
+        "title": "Artaxerxes’ Letter for Ezra",
+        "book": "EZR",
+        "chapter": 7,
+        "startVerse": 11,
+        "endVerse": 26,
+        "numWords": 547,
+        "numChars": 2911
+    },
+    {
+        "title": "Ezra Blesses God",
+        "book": "EZR",
+        "chapter": 7,
+        "startVerse": 27,
+        "endVerse": 28,
+        "numWords": 45,
+        "numChars": 222
+    },
+    {
+        "title": "The Exiles Who Returned with Ezra",
+        "book": "EZR",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 248,
+        "numChars": 1424
+    },
+    {
+        "title": "Ezra Sends for the Levites",
+        "book": "EZR",
+        "chapter": 8,
+        "startVerse": 15,
+        "endVerse": 20,
+        "numWords": 200,
+        "numChars": 1130
+    },
+    {
+        "title": "Fasting for Protection",
+        "book": "EZR",
+        "chapter": 8,
+        "startVerse": 21,
+        "endVerse": 23,
+        "numWords": 100,
+        "numChars": 501
+    },
+    {
+        "title": "Priests to Guard the Offerings",
+        "book": "EZR",
+        "chapter": 8,
+        "startVerse": 24,
+        "endVerse": 31,
+        "numWords": 283,
+        "numChars": 1514
+    },
+    {
+        "title": "Arrival in Jerusalem",
+        "book": "EZR",
+        "chapter": 8,
+        "startVerse": 32,
+        "endVerse": 36,
+        "numWords": 162,
+        "numChars": 874
+    },
+    {
+        "title": "Intermarriage with Neighboring Peoples",
+        "book": "EZR",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 145,
+        "numChars": 869
+    },
+    {
+        "title": "Ezra’s Prayer of Confession",
+        "book": "EZR",
+        "chapter": 9,
+        "startVerse": 5,
+        "endVerse": 15,
+        "numWords": 401,
+        "numChars": 2038
+    },
+    {
+        "title": "Shecaniah’s Encouragement",
+        "book": "EZR",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 162,
+        "numChars": 866
+    },
+    {
+        "title": "The People’s Confession of Sin",
+        "book": "EZR",
+        "chapter": 10,
+        "startVerse": 6,
+        "endVerse": 17,
+        "numWords": 377,
+        "numChars": 2049
+    },
+    {
+        "title": "Those Guilty of Intermarriage",
+        "book": "EZR",
+        "chapter": 10,
+        "startVerse": 18,
+        "endVerse": 44,
+        "numWords": 195,
+        "numChars": 1183
+    }
+]

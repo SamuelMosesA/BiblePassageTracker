@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Greetings from Paul and Timothy",
+        "book": "PHP",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 22,
+        "numChars": 112
+    },
+    {
+        "title": "Thanksgiving and Prayer",
+        "book": "PHP",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 11,
+        "numWords": 182,
+        "numChars": 865
+    },
+    {
+        "title": "Paul’s Trials Advance the Gospel",
+        "book": "PHP",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 20,
+        "numWords": 238,
+        "numChars": 1252
+    },
+    {
+        "title": "To Live Is Christ",
+        "book": "PHP",
+        "chapter": 1,
+        "startVerse": 21,
+        "endVerse": 26,
+        "numWords": 113,
+        "numChars": 531
+    },
+    {
+        "title": "Worthy of the Gospel",
+        "book": "PHP",
+        "chapter": 1,
+        "startVerse": 27,
+        "endVerse": 30,
+        "numWords": 125,
+        "numChars": 629
+    },
+    {
+        "title": "One in Christ",
+        "book": "PHP",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 80,
+        "numChars": 459
+    },
+    {
+        "title": "The Mind of Christ",
+        "book": "PHP",
+        "chapter": 2,
+        "startVerse": 5,
+        "endVerse": 11,
+        "numWords": 62,
+        "numChars": 292
+    },
+    {
+        "title": "Lights in the World",
+        "book": "PHP",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 18,
+        "numWords": 155,
+        "numChars": 770
+    },
+    {
+        "title": "Timothy and Epaphroditus",
+        "book": "PHP",
+        "chapter": 2,
+        "startVerse": 19,
+        "endVerse": 30,
+        "numWords": 238,
+        "numChars": 1157
+    },
+    {
+        "title": "Righteousness through Faith in Christ",
+        "book": "PHP",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 240,
+        "numChars": 1259
+    },
+    {
+        "title": "Pressing on toward the Goal",
+        "book": "PHP",
+        "chapter": 3,
+        "startVerse": 12,
+        "endVerse": 16,
+        "numWords": 116,
+        "numChars": 591
+    },
+    {
+        "title": "Citizenship in Heaven",
+        "book": "PHP",
+        "chapter": 3,
+        "startVerse": 17,
+        "endVerse": 21,
+        "numWords": 112,
+        "numChars": 598
+    },
+    {
+        "title": "Rejoice in the Lord",
+        "book": "PHP",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 197,
+        "numChars": 1083
+    },
+    {
+        "title": "The Generosity of the Philippians",
+        "book": "PHP",
+        "chapter": 4,
+        "startVerse": 10,
+        "endVerse": 20,
+        "numWords": 241,
+        "numChars": 1266
+    },
+    {
+        "title": "Final Greetings",
+        "book": "PHP",
+        "chapter": 4,
+        "startVerse": 21,
+        "endVerse": 23,
+        "numWords": 36,
+        "numChars": 202
+    }
+]

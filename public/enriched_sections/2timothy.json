@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Paul’s Greeting to Timothy",
+        "book": "2TI",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 26,
+        "numChars": 131
+    },
+    {
+        "title": "Faithfulness under Persecution",
+        "book": "2TI",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 12,
+        "numWords": 273,
+        "numChars": 1366
+    },
+    {
+        "title": "Holding to Sound Teaching",
+        "book": "2TI",
+        "chapter": 1,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 140,
+        "numChars": 759
+    },
+    {
+        "title": "Grace and Perseverance",
+        "book": "2TI",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 191,
+        "numChars": 1025
+    },
+    {
+        "title": "The Lord’s Approved Workman",
+        "book": "2TI",
+        "chapter": 2,
+        "startVerse": 14,
+        "endVerse": 26,
+        "numWords": 303,
+        "numChars": 1708
+    },
+    {
+        "title": "Evil in the Last Days",
+        "book": "2TI",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 175,
+        "numChars": 1009
+    },
+    {
+        "title": "All Scripture Is God-Breathed",
+        "book": "2TI",
+        "chapter": 3,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 154,
+        "numChars": 879
+    },
+    {
+        "title": "Preach the Word",
+        "book": "2TI",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 183,
+        "numChars": 963
+    },
+    {
+        "title": "Personal Concerns",
+        "book": "2TI",
+        "chapter": 4,
+        "startVerse": 9,
+        "endVerse": 15,
+        "numWords": 110,
+        "numChars": 590
+    },
+    {
+        "title": "The Lord Remains Faithful",
+        "book": "2TI",
+        "chapter": 4,
+        "startVerse": 16,
+        "endVerse": 18,
+        "numWords": 83,
+        "numChars": 431
+    },
+    {
+        "title": "Final Greetings",
+        "book": "2TI",
+        "chapter": 4,
+        "startVerse": 19,
+        "endVerse": 22,
+        "numWords": 58,
+        "numChars": 316
+    }
+]

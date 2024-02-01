@@ -1,0 +1,83 @@
+[
+    {
+        "title": "The Invasion of Locusts",
+        "book": "JOL",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 50,
+        "numChars": 238
+    },
+    {
+        "title": "A Call to Mourning",
+        "book": "JOL",
+        "chapter": 1,
+        "startVerse": 8,
+        "endVerse": 12,
+        "numWords": 31,
+        "numChars": 152
+    },
+    {
+        "title": "A Call to Repentance",
+        "book": "JOL",
+        "chapter": 1,
+        "startVerse": 13,
+        "endVerse": 20,
+        "numWords": 49,
+        "numChars": 231
+    },
+    {
+        "title": "The Army of Locusts",
+        "book": "JOL",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 65,
+        "numChars": 327
+    },
+    {
+        "title": "Return with All Your Heart",
+        "book": "JOL",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 42,
+        "numChars": 207
+    },
+    {
+        "title": "Restoration Promised",
+        "book": "JOL",
+        "chapter": 2,
+        "startVerse": 18,
+        "endVerse": 27,
+        "numWords": 84,
+        "numChars": 378
+    },
+    {
+        "title": "I Will Pour Out My Spirit",
+        "book": "JOL",
+        "chapter": 2,
+        "startVerse": 28,
+        "endVerse": 32,
+        "numWords": 47,
+        "numChars": 227
+    },
+    {
+        "title": "The LORD Judges the Nations",
+        "book": "JOL",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 192,
+        "numChars": 1016
+    },
+    {
+        "title": "Blessings for God’s People",
+        "book": "JOL",
+        "chapter": 3,
+        "startVerse": 17,
+        "endVerse": 21,
+        "numWords": 43,
+        "numChars": 196
+    }
+]

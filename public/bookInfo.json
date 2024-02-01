@@ -1,0 +1,398 @@
+[
+    {
+        "id": "GEN",
+        "name": "genesis",
+        "humanReadableName": "Genesis",
+        "maxChapter": 50
+    },
+    {
+        "id": "EXO",
+        "name": "exodus",
+        "humanReadableName": "Exodus",
+        "maxChapter": 40
+    },
+    {
+        "id": "LEV",
+        "name": "leviticus",
+        "humanReadableName": "Leviticus",
+        "maxChapter": 27
+    },
+    {
+        "id": "NUM",
+        "name": "numbers",
+        "humanReadableName": "Numbers",
+        "maxChapter": 36
+    },
+    {
+        "id": "DEU",
+        "name": "deuteronomy",
+        "humanReadableName": "Deuteronomy",
+        "maxChapter": 34
+    },
+    {
+        "id": "JOS",
+        "name": "joshua",
+        "humanReadableName": "Joshua",
+        "maxChapter": 24
+    },
+    {
+        "id": "JDG",
+        "name": "judges",
+        "humanReadableName": "Judges",
+        "maxChapter": 21
+    },
+    {
+        "id": "RUT",
+        "name": "ruth",
+        "humanReadableName": "Ruth",
+        "maxChapter": 4
+    },
+    {
+        "id": "1SA",
+        "name": "1samuel",
+        "humanReadableName": "1 Samuel",
+        "maxChapter": 31
+    },
+    {
+        "id": "2SA",
+        "name": "2samuel",
+        "humanReadableName": "2 Samuel",
+        "maxChapter": 24
+    },
+    {
+        "id": "1KI",
+        "name": "1kings",
+        "humanReadableName": "1 Kings",
+        "maxChapter": 22
+    },
+    {
+        "id": "2KI",
+        "name": "2kings",
+        "humanReadableName": "2 Kings",
+        "maxChapter": 25
+    },
+    {
+        "id": "1CH",
+        "name": "1chronicles",
+        "humanReadableName": "1 Chronicles",
+        "maxChapter": 29
+    },
+    {
+        "id": "2CH",
+        "name": "2chronicles",
+        "humanReadableName": "2 Chronicles",
+        "maxChapter": 36
+    },
+    {
+        "id": "EZR",
+        "name": "ezra",
+        "humanReadableName": "Ezra",
+        "maxChapter": 10
+    },
+    {
+        "id": "NEH",
+        "name": "nehemiah",
+        "humanReadableName": "Nehemiah",
+        "maxChapter": 13
+    },
+    {
+        "id": "EST",
+        "name": "esther",
+        "humanReadableName": "Esther",
+        "maxChapter": 10
+    },
+    {
+        "id": "JOB",
+        "name": "job",
+        "humanReadableName": "Job",
+        "maxChapter": 42
+    },
+    {
+        "id": "PSA",
+        "name": "psalms",
+        "humanReadableName": "Psalms",
+        "maxChapter": 150
+    },
+    {
+        "id": "PRO",
+        "name": "proverbs",
+        "humanReadableName": "Proverbs",
+        "maxChapter": 31
+    },
+    {
+        "id": "ECC",
+        "name": "ecclesiastes",
+        "humanReadableName": "Ecclesiastes",
+        "maxChapter": 12
+    },
+    {
+        "id": "SNG",
+        "name": "song",
+        "humanReadableName": "Song",
+        "maxChapter": 8
+    },
+    {
+        "id": "ISA",
+        "name": "isaiah",
+        "humanReadableName": "Isaiah",
+        "maxChapter": 66
+    },
+    {
+        "id": "JER",
+        "name": "jeremiah",
+        "humanReadableName": "Jeremiah",
+        "maxChapter": 52
+    },
+    {
+        "id": "LAM",
+        "name": "lamentations",
+        "humanReadableName": "Lamentations",
+        "maxChapter": 5
+    },
+    {
+        "id": "EZK",
+        "name": "ezekiel",
+        "humanReadableName": "Ezekiel",
+        "maxChapter": 48
+    },
+    {
+        "id": "DAN",
+        "name": "daniel",
+        "humanReadableName": "Daniel",
+        "maxChapter": 12
+    },
+    {
+        "id": "HOS",
+        "name": "hosea",
+        "humanReadableName": "Hosea",
+        "maxChapter": 14
+    },
+    {
+        "id": "JOL",
+        "name": "joel",
+        "humanReadableName": "Joel",
+        "maxChapter": 3
+    },
+    {
+        "id": "AMO",
+        "name": "amos",
+        "humanReadableName": "Amos",
+        "maxChapter": 9
+    },
+    {
+        "id": "OBA",
+        "name": "obadiah",
+        "humanReadableName": "Obadiah",
+        "maxChapter": 1
+    },
+    {
+        "id": "JON",
+        "name": "jonah",
+        "humanReadableName": "Jonah",
+        "maxChapter": 4
+    },
+    {
+        "id": "MIC",
+        "name": "micah",
+        "humanReadableName": "Micah",
+        "maxChapter": 7
+    },
+    {
+        "id": "NAM",
+        "name": "nahum",
+        "humanReadableName": "Nahum",
+        "maxChapter": 3
+    },
+    {
+        "id": "HAB",
+        "name": "habakkuk",
+        "humanReadableName": "Habakkuk",
+        "maxChapter": 3
+    },
+    {
+        "id": "ZEP",
+        "name": "zephaniah",
+        "humanReadableName": "Zephaniah",
+        "maxChapter": 3
+    },
+    {
+        "id": "HAG",
+        "name": "haggai",
+        "humanReadableName": "Haggai",
+        "maxChapter": 2
+    },
+    {
+        "id": "ZEC",
+        "name": "zechariah",
+        "humanReadableName": "Zechariah",
+        "maxChapter": 14
+    },
+    {
+        "id": "MAL",
+        "name": "malachi",
+        "humanReadableName": "Malachi",
+        "maxChapter": 4
+    },
+    {
+        "id": "MAT",
+        "name": "matthew",
+        "humanReadableName": "Matthew",
+        "maxChapter": 28
+    },
+    {
+        "id": "MRK",
+        "name": "mark",
+        "humanReadableName": "Mark",
+        "maxChapter": 16
+    },
+    {
+        "id": "LUK",
+        "name": "luke",
+        "humanReadableName": "Luke",
+        "maxChapter": 24
+    },
+    {
+        "id": "JHN",
+        "name": "john",
+        "humanReadableName": "John",
+        "maxChapter": 21
+    },
+    {
+        "id": "ACT",
+        "name": "acts",
+        "humanReadableName": "Acts",
+        "maxChapter": 28
+    },
+    {
+        "id": "ROM",
+        "name": "romans",
+        "humanReadableName": "Romans",
+        "maxChapter": 16
+    },
+    {
+        "id": "1CO",
+        "name": "1corinthians",
+        "humanReadableName": "1 Corinthians",
+        "maxChapter": 16
+    },
+    {
+        "id": "2CO",
+        "name": "2corinthians",
+        "humanReadableName": "2 Corinthians",
+        "maxChapter": 13
+    },
+    {
+        "id": "GAL",
+        "name": "galatians",
+        "humanReadableName": "Galatians",
+        "maxChapter": 6
+    },
+    {
+        "id": "EPH",
+        "name": "ephesians",
+        "humanReadableName": "Ephesians",
+        "maxChapter": 6
+    },
+    {
+        "id": "PHP",
+        "name": "philippians",
+        "humanReadableName": "Philippians",
+        "maxChapter": 4
+    },
+    {
+        "id": "COL",
+        "name": "colossians",
+        "humanReadableName": "Colossians",
+        "maxChapter": 4
+    },
+    {
+        "id": "1TH",
+        "name": "1thessalonians",
+        "humanReadableName": "1 Thessalonians",
+        "maxChapter": 5
+    },
+    {
+        "id": "2TH",
+        "name": "2thessalonians",
+        "humanReadableName": "2 Thessalonians",
+        "maxChapter": 3
+    },
+    {
+        "id": "1TI",
+        "name": "1timothy",
+        "humanReadableName": "1 Timothy",
+        "maxChapter": 6
+    },
+    {
+        "id": "2TI",
+        "name": "2timothy",
+        "humanReadableName": "2 Timothy",
+        "maxChapter": 4
+    },
+    {
+        "id": "TIT",
+        "name": "titus",
+        "humanReadableName": "Titus",
+        "maxChapter": 3
+    },
+    {
+        "id": "PHM",
+        "name": "philemon",
+        "humanReadableName": "Philemon",
+        "maxChapter": 1
+    },
+    {
+        "id": "HEB",
+        "name": "hebrews",
+        "humanReadableName": "Hebrews",
+        "maxChapter": 13
+    },
+    {
+        "id": "JAS",
+        "name": "james",
+        "humanReadableName": "James",
+        "maxChapter": 5
+    },
+    {
+        "id": "1PE",
+        "name": "1peter",
+        "humanReadableName": "1 Peter",
+        "maxChapter": 5
+    },
+    {
+        "id": "2PE",
+        "name": "2peter",
+        "humanReadableName": "2 Peter",
+        "maxChapter": 3
+    },
+    {
+        "id": "1JN",
+        "name": "1john",
+        "humanReadableName": "1 John",
+        "maxChapter": 5
+    },
+    {
+        "id": "2JN",
+        "name": "2john",
+        "humanReadableName": "2 John",
+        "maxChapter": 1
+    },
+    {
+        "id": "3JN",
+        "name": "3john",
+        "humanReadableName": "3 John",
+        "maxChapter": 1
+    },
+    {
+        "id": "JUD",
+        "name": "jude",
+        "humanReadableName": "Jude",
+        "maxChapter": 1
+    },
+    {
+        "id": "REV",
+        "name": "revelation",
+        "humanReadableName": "Revelation",
+        "maxChapter": 22
+    }
+]

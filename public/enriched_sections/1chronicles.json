@@ -1,0 +1,758 @@
+[
+    {
+        "title": "From Adam to Abraham",
+        "book": "1CH",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 340,
+        "numChars": 1962
+    },
+    {
+        "title": "The Descendants of Abraham",
+        "book": "1CH",
+        "chapter": 1,
+        "startVerse": 28,
+        "endVerse": 34,
+        "numWords": 49,
+        "numChars": 281
+    },
+    {
+        "title": "The Descendants of Esau",
+        "book": "1CH",
+        "chapter": 1,
+        "startVerse": 35,
+        "endVerse": 37,
+        "numWords": 44,
+        "numChars": 269
+    },
+    {
+        "title": "The Descendants of Seir",
+        "book": "1CH",
+        "chapter": 1,
+        "startVerse": 38,
+        "endVerse": 42,
+        "numWords": 73,
+        "numChars": 418
+    },
+    {
+        "title": "The Kings of Edom",
+        "book": "1CH",
+        "chapter": 1,
+        "startVerse": 43,
+        "endVerse": 54,
+        "numWords": 182,
+        "numChars": 1027
+    },
+    {
+        "title": "The Sons of Israel",
+        "book": "1CH",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 55,
+        "numWords": 756,
+        "numChars": 4160
+    },
+    {
+        "title": "The Descendants of David",
+        "book": "1CH",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 121,
+        "numChars": 675
+    },
+    {
+        "title": "The Descendants of Solomon",
+        "book": "1CH",
+        "chapter": 3,
+        "startVerse": 10,
+        "endVerse": 16,
+        "numWords": 67,
+        "numChars": 355
+    },
+    {
+        "title": "The Royal Line After the Exile",
+        "book": "1CH",
+        "chapter": 3,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 48,
+        "numChars": 323
+    },
+    {
+        "title": "The Descendants of Judah",
+        "book": "1CH",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 150,
+        "numChars": 826
+    },
+    {
+        "title": "The Prayer of Jabez",
+        "book": "1CH",
+        "chapter": 4,
+        "startVerse": 9,
+        "endVerse": 10,
+        "numWords": 69,
+        "numChars": 350
+    },
+    {
+        "title": "More Descendants of Judah",
+        "book": "1CH",
+        "chapter": 4,
+        "startVerse": 11,
+        "endVerse": 23,
+        "numWords": 203,
+        "numChars": 1152
+    },
+    {
+        "title": "The Descendants of Simeon",
+        "book": "1CH",
+        "chapter": 4,
+        "startVerse": 24,
+        "endVerse": 43,
+        "numWords": 327,
+        "numChars": 1884
+    },
+    {
+        "title": "The Descendants of Reuben",
+        "book": "1CH",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 200,
+        "numChars": 1121
+    },
+    {
+        "title": "The Descendants of Gad",
+        "book": "1CH",
+        "chapter": 5,
+        "startVerse": 11,
+        "endVerse": 22,
+        "numWords": 251,
+        "numChars": 1390
+    },
+    {
+        "title": "The Half-Tribe of Manasseh",
+        "book": "1CH",
+        "chapter": 5,
+        "startVerse": 23,
+        "endVerse": 26,
+        "numWords": 125,
+        "numChars": 714
+    },
+    {
+        "title": "The Descendants of Levi",
+        "book": "1CH",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 30,
+        "numWords": 290,
+        "numChars": 1521
+    },
+    {
+        "title": "The Temple Musicians",
+        "book": "1CH",
+        "chapter": 6,
+        "startVerse": 31,
+        "endVerse": 47,
+        "numWords": 295,
+        "numChars": 1445
+    },
+    {
+        "title": "The Descendants of Aaron",
+        "book": "1CH",
+        "chapter": 6,
+        "startVerse": 48,
+        "endVerse": 53,
+        "numWords": 101,
+        "numChars": 532
+    },
+    {
+        "title": "Territories for the Levites",
+        "book": "1CH",
+        "chapter": 6,
+        "startVerse": 54,
+        "endVerse": 81,
+        "numWords": 487,
+        "numChars": 2939
+    },
+    {
+        "title": "The Descendants of Issachar",
+        "book": "1CH",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 66,
+        "numChars": 351
+    },
+    {
+        "title": "The Descendants of Benjamin",
+        "book": "1CH",
+        "chapter": 7,
+        "startVerse": 6,
+        "endVerse": 12,
+        "numWords": 69,
+        "numChars": 385
+    },
+    {
+        "title": "The Descendants of Naphtali",
+        "book": "1CH",
+        "chapter": 7,
+        "startVerse": 13,
+        "endVerse": 13,
+        "numWords": 4,
+        "numChars": 21
+    },
+    {
+        "title": "The Descendants of Manasseh",
+        "book": "1CH",
+        "chapter": 7,
+        "startVerse": 14,
+        "endVerse": 19,
+        "numWords": 67,
+        "numChars": 369
+    },
+    {
+        "title": "The Descendants of Ephraim",
+        "book": "1CH",
+        "chapter": 7,
+        "startVerse": 20,
+        "endVerse": 29,
+        "numWords": 206,
+        "numChars": 1151
+    },
+    {
+        "title": "The Descendants of Asher",
+        "book": "1CH",
+        "chapter": 7,
+        "startVerse": 30,
+        "endVerse": 40,
+        "numWords": 111,
+        "numChars": 613
+    },
+    {
+        "title": "Genealogy from Benjamin to Saul",
+        "book": "1CH",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 32,
+        "numWords": 346,
+        "numChars": 1956
+    },
+    {
+        "title": "The Family of Saul",
+        "book": "1CH",
+        "chapter": 8,
+        "startVerse": 33,
+        "endVerse": 40,
+        "numWords": 137,
+        "numChars": 742
+    },
+    {
+        "title": "The People of Jerusalem",
+        "book": "1CH",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 34,
+        "numWords": 592,
+        "numChars": 3357
+    },
+    {
+        "title": "The Descendants of Saul",
+        "book": "1CH",
+        "chapter": 9,
+        "startVerse": 35,
+        "endVerse": 44,
+        "numWords": 173,
+        "numChars": 970
+    },
+    {
+        "title": "Saul’s Overthrow and Death",
+        "book": "1CH",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 104,
+        "numChars": 593
+    },
+    {
+        "title": "The Philistines Possess the Towns",
+        "book": "1CH",
+        "chapter": 10,
+        "startVerse": 7,
+        "endVerse": 10,
+        "numWords": 109,
+        "numChars": 579
+    },
+    {
+        "title": "Jabesh-gilead’s Tribute to Saul",
+        "book": "1CH",
+        "chapter": 10,
+        "startVerse": 11,
+        "endVerse": 14,
+        "numWords": 108,
+        "numChars": 553
+    },
+    {
+        "title": "David Anointed King of All Israel",
+        "book": "1CH",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 101,
+        "numChars": 518
+    },
+    {
+        "title": "David Conquers Jerusalem",
+        "book": "1CH",
+        "chapter": 11,
+        "startVerse": 4,
+        "endVerse": 9,
+        "numWords": 107,
+        "numChars": 583
+    },
+    {
+        "title": "David’s Mighty Men",
+        "book": "1CH",
+        "chapter": 11,
+        "startVerse": 10,
+        "endVerse": 47,
+        "numWords": 687,
+        "numChars": 3619
+    },
+    {
+        "title": "The Mighty Men Join David at Ziklag",
+        "book": "1CH",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 439,
+        "numChars": 2359
+    },
+    {
+        "title": "David’s Army Grows at Hebron",
+        "book": "1CH",
+        "chapter": 12,
+        "startVerse": 23,
+        "endVerse": 40,
+        "numWords": 350,
+        "numChars": 1899
+    },
+    {
+        "title": "David Fetches the Ark",
+        "book": "1CH",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 241,
+        "numChars": 1222
+    },
+    {
+        "title": "Uzzah Touches the Ark",
+        "book": "1CH",
+        "chapter": 13,
+        "startVerse": 8,
+        "endVerse": 14,
+        "numWords": 190,
+        "numChars": 1002
+    },
+    {
+        "title": "David’s Family Grows",
+        "book": "1CH",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 115,
+        "numChars": 642
+    },
+    {
+        "title": "Two Victories over the Philistines",
+        "book": "1CH",
+        "chapter": 14,
+        "startVerse": 8,
+        "endVerse": 17,
+        "numWords": 243,
+        "numChars": 1316
+    },
+    {
+        "title": "Preparing to Move the Ark",
+        "book": "1CH",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 263,
+        "numChars": 1422
+    },
+    {
+        "title": "The Priests and Levites Carry the Ark",
+        "book": "1CH",
+        "chapter": 15,
+        "startVerse": 14,
+        "endVerse": 24,
+        "numWords": 305,
+        "numChars": 1909
+    },
+    {
+        "title": "Moving the Ark to Jerusalem",
+        "book": "1CH",
+        "chapter": 15,
+        "startVerse": 25,
+        "endVerse": 28,
+        "numWords": 126,
+        "numChars": 668
+    },
+    {
+        "title": "Michal’s Contempt for David",
+        "book": "1CH",
+        "chapter": 15,
+        "startVerse": 29,
+        "endVerse": 29,
+        "numWords": 37,
+        "numChars": 198
+    },
+    {
+        "title": "A Tent for the Ark",
+        "book": "1CH",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 153,
+        "numChars": 854
+    },
+    {
+        "title": "David’s Psalms of Thanksgiving",
+        "book": "1CH",
+        "chapter": 16,
+        "startVerse": 7,
+        "endVerse": 22,
+        "numWords": 131,
+        "numChars": 650
+    },
+    {
+        "title": "Sing to the LORD, All the Earth",
+        "book": "1CH",
+        "chapter": 16,
+        "startVerse": 23,
+        "endVerse": 36,
+        "numWords": 118,
+        "numChars": 552
+    },
+    {
+        "title": "Worship before the Ark",
+        "book": "1CH",
+        "chapter": 16,
+        "startVerse": 37,
+        "endVerse": 43,
+        "numWords": 181,
+        "numChars": 1030
+    },
+    {
+        "title": "God’s Covenant with David",
+        "book": "1CH",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 418,
+        "numChars": 2049
+    },
+    {
+        "title": "David’s Prayer of Thanksgiving",
+        "book": "1CH",
+        "chapter": 17,
+        "startVerse": 16,
+        "endVerse": 27,
+        "numWords": 361,
+        "numChars": 1876
+    },
+    {
+        "title": "David’s Triumphs",
+        "book": "1CH",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 373,
+        "numChars": 2116
+    },
+    {
+        "title": "David’s Officers",
+        "book": "1CH",
+        "chapter": 18,
+        "startVerse": 14,
+        "endVerse": 17,
+        "numWords": 60,
+        "numChars": 373
+    },
+    {
+        "title": "David’s Messengers Disgraced",
+        "book": "1CH",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 282,
+        "numChars": 1624
+    },
+    {
+        "title": "David Defeats Ammon and Aram",
+        "book": "1CH",
+        "chapter": 19,
+        "startVerse": 10,
+        "endVerse": 19,
+        "numWords": 294,
+        "numChars": 1640
+    },
+    {
+        "title": "The Capture of Rabbah",
+        "book": "1CH",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 171,
+        "numChars": 893
+    },
+    {
+        "title": "Battles against the Philistines",
+        "book": "1CH",
+        "chapter": 20,
+        "startVerse": 4,
+        "endVerse": 8,
+        "numWords": 168,
+        "numChars": 912
+    },
+    {
+        "title": "David’s Military Census",
+        "book": "1CH",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 163,
+        "numChars": 874
+    },
+    {
+        "title": "Judgment for David’s Sin",
+        "book": "1CH",
+        "chapter": 21,
+        "startVerse": 7,
+        "endVerse": 13,
+        "numWords": 201,
+        "numChars": 1030
+    },
+    {
+        "title": "A Plague on Israel",
+        "book": "1CH",
+        "chapter": 21,
+        "startVerse": 14,
+        "endVerse": 17,
+        "numWords": 165,
+        "numChars": 856
+    },
+    {
+        "title": "David Builds an Altar",
+        "book": "1CH",
+        "chapter": 21,
+        "startVerse": 18,
+        "endVerse": 30,
+        "numWords": 353,
+        "numChars": 1807
+    },
+    {
+        "title": "Preparations for the Temple",
+        "book": "1CH",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 145,
+        "numChars": 822
+    },
+    {
+        "title": "Solomon Anointed to Build the Temple",
+        "book": "1CH",
+        "chapter": 22,
+        "startVerse": 6,
+        "endVerse": 19,
+        "numWords": 490,
+        "numChars": 2429
+    },
+    {
+        "title": "The Divisions of the Levites",
+        "book": "1CH",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 121,
+        "numChars": 608
+    },
+    {
+        "title": "The Gershonites",
+        "book": "1CH",
+        "chapter": 23,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 141,
+        "numChars": 783
+    },
+    {
+        "title": "The Kohathites",
+        "book": "1CH",
+        "chapter": 23,
+        "startVerse": 12,
+        "endVerse": 20,
+        "numWords": 142,
+        "numChars": 797
+    },
+    {
+        "title": "The Merarites",
+        "book": "1CH",
+        "chapter": 23,
+        "startVerse": 21,
+        "endVerse": 23,
+        "numWords": 46,
+        "numChars": 266
+    },
+    {
+        "title": "Levite Duties Revised",
+        "book": "1CH",
+        "chapter": 23,
+        "startVerse": 24,
+        "endVerse": 32,
+        "numWords": 256,
+        "numChars": 1404
+    },
+    {
+        "title": "Twenty-Four Divisions of Priests",
+        "book": "1CH",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 265,
+        "numChars": 1519
+    },
+    {
+        "title": "The Rest of the Levites",
+        "book": "1CH",
+        "chapter": 24,
+        "startVerse": 20,
+        "endVerse": 31,
+        "numWords": 177,
+        "numChars": 1039
+    },
+    {
+        "title": "Twenty-Four Divisions of Musicians",
+        "book": "1CH",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 31,
+        "numWords": 573,
+        "numChars": 3299
+    },
+    {
+        "title": "The Divisions of the Gatekeepers",
+        "book": "1CH",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 347,
+        "numChars": 1986
+    },
+    {
+        "title": "The Treasurers, Officers, and Judges",
+        "book": "1CH",
+        "chapter": 26,
+        "startVerse": 20,
+        "endVerse": 32,
+        "numWords": 412,
+        "numChars": 2341
+    },
+    {
+        "title": "Twelve Captains for Twelve Months",
+        "book": "1CH",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 395,
+        "numChars": 2177
+    },
+    {
+        "title": "The Leaders of the Twelve Tribes",
+        "book": "1CH",
+        "chapter": 27,
+        "startVerse": 16,
+        "endVerse": 24,
+        "numWords": 125,
+        "numChars": 660
+    },
+    {
+        "title": "David’s Various Overseers",
+        "book": "1CH",
+        "chapter": 27,
+        "startVerse": 25,
+        "endVerse": 31,
+        "numWords": 93,
+        "numChars": 518
+    },
+    {
+        "title": "The Counselors",
+        "book": "1CH",
+        "chapter": 27,
+        "startVerse": 32,
+        "endVerse": 34,
+        "numWords": 31,
+        "numChars": 183
+    },
+    {
+        "title": "David Commissions Solomon",
+        "book": "1CH",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 401,
+        "numChars": 2016
+    },
+    {
+        "title": "The Plans for the Temple",
+        "book": "1CH",
+        "chapter": 28,
+        "startVerse": 11,
+        "endVerse": 21,
+        "numWords": 308,
+        "numChars": 1602
+    },
+    {
+        "title": "Offerings for the Temple",
+        "book": "1CH",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 411,
+        "numChars": 2221
+    },
+    {
+        "title": "David’s Prayer of Blessing",
+        "book": "1CH",
+        "chapter": 29,
+        "startVerse": 10,
+        "endVerse": 20,
+        "numWords": 288,
+        "numChars": 1500
+    },
+    {
+        "title": "Solomon Anointed King",
+        "book": "1CH",
+        "chapter": 29,
+        "startVerse": 21,
+        "endVerse": 25,
+        "numWords": 125,
+        "numChars": 678
+    },
+    {
+        "title": "David’s Reign and Death",
+        "book": "1CH",
+        "chapter": 29,
+        "startVerse": 26,
+        "endVerse": 30,
+        "numWords": 108,
+        "numChars": 579
+    }
+]

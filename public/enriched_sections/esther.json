@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Xerxes’ Royal Feast",
+        "book": "EST",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 230,
+        "numChars": 1271
+    },
+    {
+        "title": "Queen Vashti’s Refusal",
+        "book": "EST",
+        "chapter": 1,
+        "startVerse": 9,
+        "endVerse": 12,
+        "numWords": 93,
+        "numChars": 539
+    },
+    {
+        "title": "Queen Vashti Deposed",
+        "book": "EST",
+        "chapter": 1,
+        "startVerse": 13,
+        "endVerse": 22,
+        "numWords": 340,
+        "numChars": 1860
+    },
+    {
+        "title": "Seeking Vashti’s Successor",
+        "book": "EST",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 110,
+        "numChars": 600
+    },
+    {
+        "title": "Esther Finds Favor",
+        "book": "EST",
+        "chapter": 2,
+        "startVerse": 5,
+        "endVerse": 16,
+        "numWords": 472,
+        "numChars": 2537
+    },
+    {
+        "title": "Esther Becomes Queen",
+        "book": "EST",
+        "chapter": 2,
+        "startVerse": 17,
+        "endVerse": 20,
+        "numWords": 123,
+        "numChars": 679
+    },
+    {
+        "title": "Mordecai Uncovers a Conspiracy",
+        "book": "EST",
+        "chapter": 2,
+        "startVerse": 21,
+        "endVerse": 23,
+        "numWords": 107,
+        "numChars": 603
+    },
+    {
+        "title": "Haman’s Plot against the Jews",
+        "book": "EST",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 610,
+        "numChars": 3284
+    },
+    {
+        "title": "Mordecai Appeals to Esther",
+        "book": "EST",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 484,
+        "numChars": 2583
+    },
+    {
+        "title": "Esther Approaches the King",
+        "book": "EST",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 233,
+        "numChars": 1213
+    },
+    {
+        "title": "Haman’s Plot against Mordecai",
+        "book": "EST",
+        "chapter": 5,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 186,
+        "numChars": 982
+    },
+    {
+        "title": "Mordecai Is Honored",
+        "book": "EST",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 392,
+        "numChars": 2121
+    },
+    {
+        "title": "Esther Pleads for Her People",
+        "book": "EST",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 169,
+        "numChars": 895
+    },
+    {
+        "title": "The Hanging of Haman",
+        "book": "EST",
+        "chapter": 7,
+        "startVerse": 7,
+        "endVerse": 10,
+        "numWords": 142,
+        "numChars": 769
+    },
+    {
+        "title": "Esther Appeals for the Jews",
+        "book": "EST",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 189,
+        "numChars": 1020
+    },
+    {
+        "title": "The Decree of Xerxes",
+        "book": "EST",
+        "chapter": 8,
+        "startVerse": 7,
+        "endVerse": 17,
+        "numWords": 454,
+        "numChars": 2454
+    },
+    {
+        "title": "The Jews Destroy Their Enemies",
+        "book": "EST",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 238,
+        "numChars": 1328
+    },
+    {
+        "title": "Haman’s Sons Hanged",
+        "book": "EST",
+        "chapter": 9,
+        "startVerse": 11,
+        "endVerse": 17,
+        "numWords": 227,
+        "numChars": 1157
+    },
+    {
+        "title": "The Feast of Purim Instituted",
+        "book": "EST",
+        "chapter": 9,
+        "startVerse": 18,
+        "endVerse": 32,
+        "numWords": 437,
+        "numChars": 2388
+    },
+    {
+        "title": "Tribute to Xerxes and Mordecai",
+        "book": "EST",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 87,
+        "numChars": 502
+    }
+]

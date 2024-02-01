@@ -1,0 +1,425 @@
+[
+    {
+        "title": "Paul Greets the Saints in Rome",
+        "book": "ROM",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 128,
+        "numChars": 664
+    },
+    {
+        "title": "Unashamed of the Gospel",
+        "book": "ROM",
+        "chapter": 1,
+        "startVerse": 8,
+        "endVerse": 17,
+        "numWords": 265,
+        "numChars": 1345
+    },
+    {
+        "title": "God’s Wrath against Sin",
+        "book": "ROM",
+        "chapter": 1,
+        "startVerse": 18,
+        "endVerse": 32,
+        "numWords": 341,
+        "numChars": 1992
+    },
+    {
+        "title": "God’s Righteous Judgment",
+        "book": "ROM",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 347,
+        "numChars": 1887
+    },
+    {
+        "title": "The Jews and the Law",
+        "book": "ROM",
+        "chapter": 2,
+        "startVerse": 17,
+        "endVerse": 29,
+        "numWords": 266,
+        "numChars": 1414
+    },
+    {
+        "title": "God Remains Faithful",
+        "book": "ROM",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 150,
+        "numChars": 806
+    },
+    {
+        "title": "There Is No One Righteous",
+        "book": "ROM",
+        "chapter": 3,
+        "startVerse": 9,
+        "endVerse": 20,
+        "numWords": 139,
+        "numChars": 687
+    },
+    {
+        "title": "Righteousness through Faith in Christ",
+        "book": "ROM",
+        "chapter": 3,
+        "startVerse": 21,
+        "endVerse": 31,
+        "numWords": 222,
+        "numChars": 1179
+    },
+    {
+        "title": "Abraham Justified by Faith",
+        "book": "ROM",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 256,
+        "numChars": 1465
+    },
+    {
+        "title": "Abraham Receives the Promise",
+        "book": "ROM",
+        "chapter": 4,
+        "startVerse": 13,
+        "endVerse": 25,
+        "numWords": 314,
+        "numChars": 1646
+    },
+    {
+        "title": "The Triumph of Faith",
+        "book": "ROM",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 106,
+        "numChars": 574
+    },
+    {
+        "title": "Christ’s Sacrifice for the Ungodly",
+        "book": "ROM",
+        "chapter": 5,
+        "startVerse": 6,
+        "endVerse": 11,
+        "numWords": 128,
+        "numChars": 683
+    },
+    {
+        "title": "Death in Adam, Life in Christ",
+        "book": "ROM",
+        "chapter": 5,
+        "startVerse": 12,
+        "endVerse": 21,
+        "numWords": 291,
+        "numChars": 1548
+    },
+    {
+        "title": "Dead to Sin, Alive to God",
+        "book": "ROM",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 293,
+        "numChars": 1482
+    },
+    {
+        "title": "The Wages of Sin",
+        "book": "ROM",
+        "chapter": 6,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 219,
+        "numChars": 1159
+    },
+    {
+        "title": "Release from the Law",
+        "book": "ROM",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 199,
+        "numChars": 984
+    },
+    {
+        "title": "God’s Law Is Holy",
+        "book": "ROM",
+        "chapter": 7,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 139,
+        "numChars": 759
+    },
+    {
+        "title": "Struggling with Sin",
+        "book": "ROM",
+        "chapter": 7,
+        "startVerse": 13,
+        "endVerse": 25,
+        "numWords": 295,
+        "numChars": 1323
+    },
+    {
+        "title": "Walking by the Spirit",
+        "book": "ROM",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 341,
+        "numChars": 1689
+    },
+    {
+        "title": "Heirs with Christ",
+        "book": "ROM",
+        "chapter": 8,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 129,
+        "numChars": 648
+    },
+    {
+        "title": "Future Glory",
+        "book": "ROM",
+        "chapter": 8,
+        "startVerse": 18,
+        "endVerse": 27,
+        "numWords": 226,
+        "numChars": 1171
+    },
+    {
+        "title": "God Works in All Things",
+        "book": "ROM",
+        "chapter": 8,
+        "startVerse": 28,
+        "endVerse": 34,
+        "numWords": 161,
+        "numChars": 818
+    },
+    {
+        "title": "More than Conquerors",
+        "book": "ROM",
+        "chapter": 8,
+        "startVerse": 35,
+        "endVerse": 39,
+        "numWords": 93,
+        "numChars": 501
+    },
+    {
+        "title": "Paul’s Concern for the Jews",
+        "book": "ROM",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 110,
+        "numChars": 583
+    },
+    {
+        "title": "God’s Sovereign Choice",
+        "book": "ROM",
+        "chapter": 9,
+        "startVerse": 6,
+        "endVerse": 29,
+        "numWords": 419,
+        "numChars": 2179
+    },
+    {
+        "title": "Israel’s Unbelief",
+        "book": "ROM",
+        "chapter": 9,
+        "startVerse": 30,
+        "endVerse": 33,
+        "numWords": 61,
+        "numChars": 328
+    },
+    {
+        "title": "The Word Brings Salvation",
+        "book": "ROM",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 438,
+        "numChars": 2342
+    },
+    {
+        "title": "A Remnant Chosen by Grace",
+        "book": "ROM",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 199,
+        "numChars": 1017
+    },
+    {
+        "title": "The Ingrafting of the Gentiles",
+        "book": "ROM",
+        "chapter": 11,
+        "startVerse": 11,
+        "endVerse": 24,
+        "numWords": 361,
+        "numChars": 1904
+    },
+    {
+        "title": "All Israel Will Be Saved",
+        "book": "ROM",
+        "chapter": 11,
+        "startVerse": 25,
+        "endVerse": 32,
+        "numWords": 151,
+        "numChars": 825
+    },
+    {
+        "title": "A Hymn of Praise",
+        "book": "ROM",
+        "chapter": 11,
+        "startVerse": 33,
+        "endVerse": 36,
+        "numWords": 33,
+        "numChars": 145
+    },
+    {
+        "title": "Living Sacrifices",
+        "book": "ROM",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 217,
+        "numChars": 1128
+    },
+    {
+        "title": "Love, Zeal, Hope, Hospitality",
+        "book": "ROM",
+        "chapter": 12,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 60,
+        "numChars": 349
+    },
+    {
+        "title": "Forgiveness",
+        "book": "ROM",
+        "chapter": 12,
+        "startVerse": 14,
+        "endVerse": 21,
+        "numWords": 114,
+        "numChars": 616
+    },
+    {
+        "title": "Submission to Authorities",
+        "book": "ROM",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 188,
+        "numChars": 1014
+    },
+    {
+        "title": "Love Fulfills the Law",
+        "book": "ROM",
+        "chapter": 13,
+        "startVerse": 8,
+        "endVerse": 10,
+        "numWords": 77,
+        "numChars": 435
+    },
+    {
+        "title": "The Day Is Near",
+        "book": "ROM",
+        "chapter": 13,
+        "startVerse": 11,
+        "endVerse": 14,
+        "numWords": 103,
+        "numChars": 564
+    },
+    {
+        "title": "The Law of Liberty",
+        "book": "ROM",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 286,
+        "numChars": 1435
+    },
+    {
+        "title": "The Law of Love",
+        "book": "ROM",
+        "chapter": 14,
+        "startVerse": 13,
+        "endVerse": 23,
+        "numWords": 278,
+        "numChars": 1458
+    },
+    {
+        "title": "Accept One Another",
+        "book": "ROM",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 123,
+        "numChars": 660
+    },
+    {
+        "title": "Christ the Servant of Jews and Gentiles",
+        "book": "ROM",
+        "chapter": 15,
+        "startVerse": 7,
+        "endVerse": 13,
+        "numWords": 99,
+        "numChars": 493
+    },
+    {
+        "title": "Paul the Minister to the Gentiles",
+        "book": "ROM",
+        "chapter": 15,
+        "startVerse": 14,
+        "endVerse": 22,
+        "numWords": 204,
+        "numChars": 1082
+    },
+    {
+        "title": "Paul’s Travel Plans",
+        "book": "ROM",
+        "chapter": 15,
+        "startVerse": 23,
+        "endVerse": 33,
+        "numWords": 267,
+        "numChars": 1348
+    },
+    {
+        "title": "Personal Greetings and Love",
+        "book": "ROM",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 233,
+        "numChars": 1292
+    },
+    {
+        "title": "Avoid Divisions",
+        "book": "ROM",
+        "chapter": 16,
+        "startVerse": 17,
+        "endVerse": 20,
+        "numWords": 109,
+        "numChars": 571
+    },
+    {
+        "title": "Greetings from Paul’s Fellow Workers",
+        "book": "ROM",
+        "chapter": 16,
+        "startVerse": 21,
+        "endVerse": 23,
+        "numWords": 40,
+        "numChars": 232
+    },
+    {
+        "title": "Doxology",
+        "book": "ROM",
+        "chapter": 16,
+        "startVerse": 25,
+        "endVerse": 27,
+        "numWords": 95,
+        "numChars": 532
+    }
+]

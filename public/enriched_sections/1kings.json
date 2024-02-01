@@ -1,0 +1,848 @@
+[
+    {
+        "title": "Abishag Cares for David",
+        "book": "1KI",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 99,
+        "numChars": 505
+    },
+    {
+        "title": "Adonijah Usurps the Kingdom",
+        "book": "1KI",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 10,
+        "numWords": 149,
+        "numChars": 847
+    },
+    {
+        "title": "Nathan and Bathsheba before David",
+        "book": "1KI",
+        "chapter": 1,
+        "startVerse": 11,
+        "endVerse": 27,
+        "numWords": 443,
+        "numChars": 2333
+    },
+    {
+        "title": "David Renews His Oath to Bathsheba",
+        "book": "1KI",
+        "chapter": 1,
+        "startVerse": 28,
+        "endVerse": 31,
+        "numWords": 97,
+        "numChars": 490
+    },
+    {
+        "title": "Solomon Anointed King",
+        "book": "1KI",
+        "chapter": 1,
+        "startVerse": 32,
+        "endVerse": 40,
+        "numWords": 241,
+        "numChars": 1253
+    },
+    {
+        "title": "Adonijah Learns of Solomon’s Kingship",
+        "book": "1KI",
+        "chapter": 1,
+        "startVerse": 41,
+        "endVerse": 53,
+        "numWords": 345,
+        "numChars": 1805
+    },
+    {
+        "title": "David Instructs Solomon",
+        "book": "1KI",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 391,
+        "numChars": 1953
+    },
+    {
+        "title": "David’s Reign and Death",
+        "book": "1KI",
+        "chapter": 2,
+        "startVerse": 10,
+        "endVerse": 12,
+        "numWords": 48,
+        "numChars": 274
+    },
+    {
+        "title": "The Execution of Adonijah",
+        "book": "1KI",
+        "chapter": 2,
+        "startVerse": 13,
+        "endVerse": 27,
+        "numWords": 394,
+        "numChars": 2049
+    },
+    {
+        "title": "The Execution of Joab",
+        "book": "1KI",
+        "chapter": 2,
+        "startVerse": 28,
+        "endVerse": 35,
+        "numWords": 233,
+        "numChars": 1217
+    },
+    {
+        "title": "The Execution of Shimei",
+        "book": "1KI",
+        "chapter": 2,
+        "startVerse": 36,
+        "endVerse": 46,
+        "numWords": 297,
+        "numChars": 1515
+    },
+    {
+        "title": "Solomon’s Prayer for Wisdom",
+        "book": "1KI",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 439,
+        "numChars": 2356
+    },
+    {
+        "title": "Solomon Judges Wisely",
+        "book": "1KI",
+        "chapter": 3,
+        "startVerse": 16,
+        "endVerse": 28,
+        "numWords": 318,
+        "numChars": 1518
+    },
+    {
+        "title": "Solomon’s Princes",
+        "book": "1KI",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 69,
+        "numChars": 380
+    },
+    {
+        "title": "Solomon’s Twelve Officers",
+        "book": "1KI",
+        "chapter": 4,
+        "startVerse": 7,
+        "endVerse": 19,
+        "numWords": 206,
+        "numChars": 1169
+    },
+    {
+        "title": "Solomon’s Prosperity",
+        "book": "1KI",
+        "chapter": 4,
+        "startVerse": 20,
+        "endVerse": 28,
+        "numWords": 273,
+        "numChars": 1502
+    },
+    {
+        "title": "Solomon’s Wisdom",
+        "book": "1KI",
+        "chapter": 4,
+        "startVerse": 29,
+        "endVerse": 34,
+        "numWords": 130,
+        "numChars": 737
+    },
+    {
+        "title": "Preparations for the Temple",
+        "book": "1KI",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 190,
+        "numChars": 944
+    },
+    {
+        "title": "Hiram’s Reply to Solomon",
+        "book": "1KI",
+        "chapter": 5,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 236,
+        "numChars": 1249
+    },
+    {
+        "title": "Solomon’s Labor Force",
+        "book": "1KI",
+        "chapter": 5,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 127,
+        "numChars": 703
+    },
+    {
+        "title": "Temple Construction Begins",
+        "book": "1KI",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 193,
+        "numChars": 1035
+    },
+    {
+        "title": "The Chambers",
+        "book": "1KI",
+        "chapter": 6,
+        "startVerse": 5,
+        "endVerse": 10,
+        "numWords": 201,
+        "numChars": 1090
+    },
+    {
+        "title": "God’s Promise to Solomon",
+        "book": "1KI",
+        "chapter": 6,
+        "startVerse": 11,
+        "endVerse": 13,
+        "numWords": 63,
+        "numChars": 334
+    },
+    {
+        "title": "The Temple’s Interior",
+        "book": "1KI",
+        "chapter": 6,
+        "startVerse": 14,
+        "endVerse": 22,
+        "numWords": 243,
+        "numChars": 1352
+    },
+    {
+        "title": "The Cherubim",
+        "book": "1KI",
+        "chapter": 6,
+        "startVerse": 23,
+        "endVerse": 30,
+        "numWords": 164,
+        "numChars": 892
+    },
+    {
+        "title": "The Doors",
+        "book": "1KI",
+        "chapter": 6,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 95,
+        "numChars": 557
+    },
+    {
+        "title": "The Courtyard",
+        "book": "1KI",
+        "chapter": 6,
+        "startVerse": 36,
+        "endVerse": 38,
+        "numWords": 92,
+        "numChars": 511
+    },
+    {
+        "title": "Solomon’s Palace Complex",
+        "book": "1KI",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 340,
+        "numChars": 1939
+    },
+    {
+        "title": "The Pillars and Capitals",
+        "book": "1KI",
+        "chapter": 7,
+        "startVerse": 13,
+        "endVerse": 22,
+        "numWords": 315,
+        "numChars": 1736
+    },
+    {
+        "title": "The Molten Sea",
+        "book": "1KI",
+        "chapter": 7,
+        "startVerse": 23,
+        "endVerse": 26,
+        "numWords": 174,
+        "numChars": 955
+    },
+    {
+        "title": "The Ten Bronze Stands",
+        "book": "1KI",
+        "chapter": 7,
+        "startVerse": 27,
+        "endVerse": 37,
+        "numWords": 322,
+        "numChars": 1759
+    },
+    {
+        "title": "The Ten Bronze Basins",
+        "book": "1KI",
+        "chapter": 7,
+        "startVerse": 38,
+        "endVerse": 39,
+        "numWords": 65,
+        "numChars": 336
+    },
+    {
+        "title": "Completion of the Bronze Works",
+        "book": "1KI",
+        "chapter": 7,
+        "startVerse": 40,
+        "endVerse": 47,
+        "numWords": 118,
+        "numChars": 714
+    },
+    {
+        "title": "Completion of the Gold Furnishings",
+        "book": "1KI",
+        "chapter": 7,
+        "startVerse": 48,
+        "endVerse": 51,
+        "numWords": 61,
+        "numChars": 332
+    },
+    {
+        "title": "The Ark Enters the Temple",
+        "book": "1KI",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 364,
+        "numChars": 1954
+    },
+    {
+        "title": "Solomon Blesses the LORD",
+        "book": "1KI",
+        "chapter": 8,
+        "startVerse": 12,
+        "endVerse": 21,
+        "numWords": 230,
+        "numChars": 1115
+    },
+    {
+        "title": "Solomon’s Prayer of Dedication",
+        "book": "1KI",
+        "chapter": 8,
+        "startVerse": 22,
+        "endVerse": 53,
+        "numWords": 988,
+        "numChars": 5138
+    },
+    {
+        "title": "Solomon’s Benediction",
+        "book": "1KI",
+        "chapter": 8,
+        "startVerse": 54,
+        "endVerse": 61,
+        "numWords": 222,
+        "numChars": 1112
+    },
+    {
+        "title": "Sacrifices of Dedication",
+        "book": "1KI",
+        "chapter": 8,
+        "startVerse": 62,
+        "endVerse": 66,
+        "numWords": 192,
+        "numChars": 1043
+    },
+    {
+        "title": "The LORD’s Response to Solomon",
+        "book": "1KI",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 295,
+        "numChars": 1523
+    },
+    {
+        "title": "Solomon’s Additional Achievements",
+        "book": "1KI",
+        "chapter": 9,
+        "startVerse": 10,
+        "endVerse": 28,
+        "numWords": 564,
+        "numChars": 3110
+    },
+    {
+        "title": "The Queen of Sheba",
+        "book": "1KI",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 400,
+        "numChars": 2152
+    },
+    {
+        "title": "Solomon’s Wealth and Splendor",
+        "book": "1KI",
+        "chapter": 10,
+        "startVerse": 14,
+        "endVerse": 29,
+        "numWords": 488,
+        "numChars": 2771
+    },
+    {
+        "title": "Solomon’s Foreign Wives",
+        "book": "1KI",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 208,
+        "numChars": 1168
+    },
+    {
+        "title": "God’s Anger against Solomon",
+        "book": "1KI",
+        "chapter": 11,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 146,
+        "numChars": 747
+    },
+    {
+        "title": "Hadad’s Return",
+        "book": "1KI",
+        "chapter": 11,
+        "startVerse": 14,
+        "endVerse": 22,
+        "numWords": 234,
+        "numChars": 1218
+    },
+    {
+        "title": "Rezon’s Hostility",
+        "book": "1KI",
+        "chapter": 11,
+        "startVerse": 23,
+        "endVerse": 25,
+        "numWords": 76,
+        "numChars": 441
+    },
+    {
+        "title": "Jeroboam’s Rebellion",
+        "book": "1KI",
+        "chapter": 11,
+        "startVerse": 26,
+        "endVerse": 40,
+        "numWords": 477,
+        "numChars": 2439
+    },
+    {
+        "title": "The Death of Solomon",
+        "book": "1KI",
+        "chapter": 11,
+        "startVerse": 41,
+        "endVerse": 43,
+        "numWords": 66,
+        "numChars": 340
+    },
+    {
+        "title": "Rebellion against Rehoboam",
+        "book": "1KI",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 413,
+        "numChars": 2183
+    },
+    {
+        "title": "The Kingdom Divided",
+        "book": "1KI",
+        "chapter": 12,
+        "startVerse": 16,
+        "endVerse": 19,
+        "numWords": 93,
+        "numChars": 508
+    },
+    {
+        "title": "Shemaiah’s Prophecy",
+        "book": "1KI",
+        "chapter": 12,
+        "startVerse": 20,
+        "endVerse": 24,
+        "numWords": 132,
+        "numChars": 708
+    },
+    {
+        "title": "Jeroboam’s Idolatry",
+        "book": "1KI",
+        "chapter": 12,
+        "startVerse": 25,
+        "endVerse": 33,
+        "numWords": 331,
+        "numChars": 1740
+    },
+    {
+        "title": "Jeroboam’s Hand Withers",
+        "book": "1KI",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 328,
+        "numChars": 1596
+    },
+    {
+        "title": "The Old Prophet and the Man of God",
+        "book": "1KI",
+        "chapter": 13,
+        "startVerse": 11,
+        "endVerse": 34,
+        "numWords": 706,
+        "numChars": 3442
+    },
+    {
+        "title": "Ahijah’s Prophecy against Jeroboam",
+        "book": "1KI",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 527,
+        "numChars": 2704
+    },
+    {
+        "title": "Nadab Succeeds Jeroboam",
+        "book": "1KI",
+        "chapter": 14,
+        "startVerse": 19,
+        "endVerse": 20,
+        "numWords": 55,
+        "numChars": 283
+    },
+    {
+        "title": "Rehoboam Reigns in Judah",
+        "book": "1KI",
+        "chapter": 14,
+        "startVerse": 21,
+        "endVerse": 24,
+        "numWords": 124,
+        "numChars": 694
+    },
+    {
+        "title": "Shishak Raids Jerusalem",
+        "book": "1KI",
+        "chapter": 14,
+        "startVerse": 25,
+        "endVerse": 31,
+        "numWords": 186,
+        "numChars": 1011
+    },
+    {
+        "title": "Abijam Reigns in Judah",
+        "book": "1KI",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 281,
+        "numChars": 1506
+    },
+    {
+        "title": "Asa Reigns in Judah",
+        "book": "1KI",
+        "chapter": 15,
+        "startVerse": 9,
+        "endVerse": 15,
+        "numWords": 153,
+        "numChars": 832
+    },
+    {
+        "title": "War between Asa and Baasha",
+        "book": "1KI",
+        "chapter": 15,
+        "startVerse": 16,
+        "endVerse": 22,
+        "numWords": 253,
+        "numChars": 1397
+    },
+    {
+        "title": "Jehoshaphat Succeeds Asa",
+        "book": "1KI",
+        "chapter": 15,
+        "startVerse": 23,
+        "endVerse": 24,
+        "numWords": 73,
+        "numChars": 374
+    },
+    {
+        "title": "Nadab Reigns in Israel",
+        "book": "1KI",
+        "chapter": 15,
+        "startVerse": 25,
+        "endVerse": 32,
+        "numWords": 212,
+        "numChars": 1132
+    },
+    {
+        "title": "Baasha Reigns in Israel",
+        "book": "1KI",
+        "chapter": 15,
+        "startVerse": 33,
+        "endVerse": 34,
+        "numWords": 53,
+        "numChars": 268
+    },
+    {
+        "title": "Jehu’s Prophecy against Baasha",
+        "book": "1KI",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 198,
+        "numChars": 1007
+    },
+    {
+        "title": "Elah Reigns in Israel",
+        "book": "1KI",
+        "chapter": 16,
+        "startVerse": 8,
+        "endVerse": 14,
+        "numWords": 198,
+        "numChars": 1089
+    },
+    {
+        "title": "Zimri Reigns in Israel",
+        "book": "1KI",
+        "chapter": 16,
+        "startVerse": 15,
+        "endVerse": 20,
+        "numWords": 167,
+        "numChars": 892
+    },
+    {
+        "title": "Omri Reigns in Israel",
+        "book": "1KI",
+        "chapter": 16,
+        "startVerse": 21,
+        "endVerse": 28,
+        "numWords": 219,
+        "numChars": 1151
+    },
+    {
+        "title": "Ahab Reigns in Israel, Marries Jezebel",
+        "book": "1KI",
+        "chapter": 16,
+        "startVerse": 29,
+        "endVerse": 34,
+        "numWords": 181,
+        "numChars": 927
+    },
+    {
+        "title": "The Ravens Feed Elijah",
+        "book": "1KI",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 162,
+        "numChars": 835
+    },
+    {
+        "title": "The Widow of Zarephath",
+        "book": "1KI",
+        "chapter": 17,
+        "startVerse": 8,
+        "endVerse": 16,
+        "numWords": 287,
+        "numChars": 1359
+    },
+    {
+        "title": "Elijah Raises the Widow’s Son",
+        "book": "1KI",
+        "chapter": 17,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 202,
+        "numChars": 981
+    },
+    {
+        "title": "Elijah’s Message to Ahab",
+        "book": "1KI",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 401,
+        "numChars": 2025
+    },
+    {
+        "title": "Elijah on Mount Carmel",
+        "book": "1KI",
+        "chapter": 18,
+        "startVerse": 16,
+        "endVerse": 35,
+        "numWords": 540,
+        "numChars": 2801
+    },
+    {
+        "title": "Elijah’s Prayer",
+        "book": "1KI",
+        "chapter": 18,
+        "startVerse": 36,
+        "endVerse": 40,
+        "numWords": 158,
+        "numChars": 821
+    },
+    {
+        "title": "The LORD Sends Rain",
+        "book": "1KI",
+        "chapter": 18,
+        "startVerse": 41,
+        "endVerse": 46,
+        "numWords": 138,
+        "numChars": 668
+    },
+    {
+        "title": "Elijah Flees from Jezebel",
+        "book": "1KI",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 233,
+        "numChars": 1167
+    },
+    {
+        "title": "The LORD Speaks to Elijah at Horeb",
+        "book": "1KI",
+        "chapter": 19,
+        "startVerse": 9,
+        "endVerse": 18,
+        "numWords": 316,
+        "numChars": 1634
+    },
+    {
+        "title": "The Call of Elisha",
+        "book": "1KI",
+        "chapter": 19,
+        "startVerse": 19,
+        "endVerse": 21,
+        "numWords": 99,
+        "numChars": 518
+    },
+    {
+        "title": "Ben-hadad Attacks Samaria",
+        "book": "1KI",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 340,
+        "numChars": 1814
+    },
+    {
+        "title": "Ahab Defeats Ben-hadad",
+        "book": "1KI",
+        "chapter": 20,
+        "startVerse": 13,
+        "endVerse": 25,
+        "numWords": 330,
+        "numChars": 1807
+    },
+    {
+        "title": "Another War with Ben-hadad",
+        "book": "1KI",
+        "chapter": 20,
+        "startVerse": 26,
+        "endVerse": 30,
+        "numWords": 146,
+        "numChars": 789
+    },
+    {
+        "title": "Ahab Spares Ben-hadad",
+        "book": "1KI",
+        "chapter": 20,
+        "startVerse": 31,
+        "endVerse": 34,
+        "numWords": 129,
+        "numChars": 703
+    },
+    {
+        "title": "A Prophet Reproves Ahab",
+        "book": "1KI",
+        "chapter": 20,
+        "startVerse": 35,
+        "endVerse": 43,
+        "numWords": 268,
+        "numChars": 1409
+    },
+    {
+        "title": "Naboth’s Vineyard",
+        "book": "1KI",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 212,
+        "numChars": 1100
+    },
+    {
+        "title": "Jezebel’s Plot",
+        "book": "1KI",
+        "chapter": 21,
+        "startVerse": 8,
+        "endVerse": 16,
+        "numWords": 203,
+        "numChars": 1085
+    },
+    {
+        "title": "Elijah Denounces Ahab and Jezebel",
+        "book": "1KI",
+        "chapter": 21,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 128,
+        "numChars": 640
+    },
+    {
+        "title": "Ahab’s Repentance",
+        "book": "1KI",
+        "chapter": 21,
+        "startVerse": 25,
+        "endVerse": 29,
+        "numWords": 122,
+        "numChars": 651
+    },
+    {
+        "title": "Ahab and the False Prophets",
+        "book": "1KI",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 281,
+        "numChars": 1523
+    },
+    {
+        "title": "Micaiah Prophesies against Ahab",
+        "book": "1KI",
+        "chapter": 22,
+        "startVerse": 13,
+        "endVerse": 28,
+        "numWords": 372,
+        "numChars": 1935
+    },
+    {
+        "title": "Ahab’s Defeat and Death",
+        "book": "1KI",
+        "chapter": 22,
+        "startVerse": 29,
+        "endVerse": 40,
+        "numWords": 327,
+        "numChars": 1758
+    },
+    {
+        "title": "Jehoshaphat Reigns in Judah",
+        "book": "1KI",
+        "chapter": 22,
+        "startVerse": 41,
+        "endVerse": 50,
+        "numWords": 220,
+        "numChars": 1183
+    },
+    {
+        "title": "Ahaziah Reigns in Israel",
+        "book": "1KI",
+        "chapter": 22,
+        "startVerse": 51,
+        "endVerse": 53,
+        "numWords": 76,
+        "numChars": 398
+    }
+]

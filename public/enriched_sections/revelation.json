@@ -1,0 +1,551 @@
+[
+    {
+        "title": "Prologue",
+        "book": "REV",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 87,
+        "numChars": 439
+    },
+    {
+        "title": "John Greets the Seven Churches",
+        "book": "REV",
+        "chapter": 1,
+        "startVerse": 4,
+        "endVerse": 8,
+        "numWords": 113,
+        "numChars": 559
+    },
+    {
+        "title": "John’s Vision on Patmos",
+        "book": "REV",
+        "chapter": 1,
+        "startVerse": 9,
+        "endVerse": 20,
+        "numWords": 337,
+        "numChars": 1685
+    },
+    {
+        "title": "To the Church in Ephesus",
+        "book": "REV",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 162,
+        "numChars": 830
+    },
+    {
+        "title": "To the Church in Smyrna",
+        "book": "REV",
+        "chapter": 2,
+        "startVerse": 8,
+        "endVerse": 11,
+        "numWords": 115,
+        "numChars": 567
+    },
+    {
+        "title": "To the Church in Pergamum",
+        "book": "REV",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 175,
+        "numChars": 897
+    },
+    {
+        "title": "To the Church in Thyatira",
+        "book": "REV",
+        "chapter": 2,
+        "startVerse": 18,
+        "endVerse": 29,
+        "numWords": 254,
+        "numChars": 1350
+    },
+    {
+        "title": "To the Church in Sardis",
+        "book": "REV",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 151,
+        "numChars": 738
+    },
+    {
+        "title": "To the Church in Philadelphia",
+        "book": "REV",
+        "chapter": 3,
+        "startVerse": 7,
+        "endVerse": 13,
+        "numWords": 213,
+        "numChars": 1016
+    },
+    {
+        "title": "To the Church in Laodicea",
+        "book": "REV",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 22,
+        "numWords": 199,
+        "numChars": 984
+    },
+    {
+        "title": "The Throne in Heaven",
+        "book": "REV",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 104,
+        "numChars": 572
+    },
+    {
+        "title": "Worship of the Creator",
+        "book": "REV",
+        "chapter": 4,
+        "startVerse": 5,
+        "endVerse": 11,
+        "numWords": 183,
+        "numChars": 981
+    },
+    {
+        "title": "The Lamb Takes the Scroll",
+        "book": "REV",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 250,
+        "numChars": 1244
+    },
+    {
+        "title": "The Lamb Exalted",
+        "book": "REV",
+        "chapter": 5,
+        "startVerse": 11,
+        "endVerse": 14,
+        "numWords": 86,
+        "numChars": 458
+    },
+    {
+        "title": "The First Seal: The White Horse",
+        "book": "REV",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 55,
+        "numChars": 264
+    },
+    {
+        "title": "The Second Seal: War",
+        "book": "REV",
+        "chapter": 6,
+        "startVerse": 3,
+        "endVerse": 4,
+        "numWords": 52,
+        "numChars": 275
+    },
+    {
+        "title": "The Third Seal: Famine",
+        "book": "REV",
+        "chapter": 6,
+        "startVerse": 5,
+        "endVerse": 6,
+        "numWords": 90,
+        "numChars": 474
+    },
+    {
+        "title": "The Fourth Seal: Death",
+        "book": "REV",
+        "chapter": 6,
+        "startVerse": 7,
+        "endVerse": 8,
+        "numWords": 64,
+        "numChars": 334
+    },
+    {
+        "title": "The Fifth Seal: The Martyrs",
+        "book": "REV",
+        "chapter": 6,
+        "startVerse": 9,
+        "endVerse": 11,
+        "numWords": 96,
+        "numChars": 485
+    },
+    {
+        "title": "The Sixth Seal: Terror",
+        "book": "REV",
+        "chapter": 6,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 162,
+        "numChars": 798
+    },
+    {
+        "title": "144,000 Sealed",
+        "book": "REV",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 146,
+        "numChars": 673
+    },
+    {
+        "title": "Praise from the Great Multitude",
+        "book": "REV",
+        "chapter": 7,
+        "startVerse": 9,
+        "endVerse": 17,
+        "numWords": 148,
+        "numChars": 780
+    },
+    {
+        "title": "The Seventh Seal",
+        "book": "REV",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 126,
+        "numChars": 669
+    },
+    {
+        "title": "The First Four Trumpets",
+        "book": "REV",
+        "chapter": 8,
+        "startVerse": 6,
+        "endVerse": 13,
+        "numWords": 242,
+        "numChars": 1252
+    },
+    {
+        "title": "The Fifth Trumpet",
+        "book": "REV",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 291,
+        "numChars": 1496
+    },
+    {
+        "title": "The Sixth Trumpet",
+        "book": "REV",
+        "chapter": 9,
+        "startVerse": 13,
+        "endVerse": 21,
+        "numWords": 228,
+        "numChars": 1243
+    },
+    {
+        "title": "The Angel and the Small Scroll",
+        "book": "REV",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 312,
+        "numChars": 1541
+    },
+    {
+        "title": "The Two Witnesses",
+        "book": "REV",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 170,
+        "numChars": 900
+    },
+    {
+        "title": "The Witnesses Killed and Raised",
+        "book": "REV",
+        "chapter": 11,
+        "startVerse": 7,
+        "endVerse": 14,
+        "numWords": 210,
+        "numChars": 1128
+    },
+    {
+        "title": "The Seventh Trumpet",
+        "book": "REV",
+        "chapter": 11,
+        "startVerse": 15,
+        "endVerse": 19,
+        "numWords": 80,
+        "numChars": 447
+    },
+    {
+        "title": "The Woman and the Dragon",
+        "book": "REV",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 164,
+        "numChars": 814
+    },
+    {
+        "title": "The War in Heaven",
+        "book": "REV",
+        "chapter": 12,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 99,
+        "numChars": 519
+    },
+    {
+        "title": "The Woman Persecuted",
+        "book": "REV",
+        "chapter": 12,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 140,
+        "numChars": 701
+    },
+    {
+        "title": "The Beast from the Sea",
+        "book": "REV",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 261,
+        "numChars": 1366
+    },
+    {
+        "title": "The Beast from the Earth",
+        "book": "REV",
+        "chapter": 13,
+        "startVerse": 11,
+        "endVerse": 15,
+        "numWords": 154,
+        "numChars": 785
+    },
+    {
+        "title": "The Mark of the Beast",
+        "book": "REV",
+        "chapter": 13,
+        "startVerse": 16,
+        "endVerse": 18,
+        "numWords": 86,
+        "numChars": 422
+    },
+    {
+        "title": "The Lamb and the 144,000",
+        "book": "REV",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 151,
+        "numChars": 784
+    },
+    {
+        "title": "The Three Angels and Babylon’s Fall",
+        "book": "REV",
+        "chapter": 14,
+        "startVerse": 6,
+        "endVerse": 13,
+        "numWords": 251,
+        "numChars": 1297
+    },
+    {
+        "title": "The Harvest of the Earth",
+        "book": "REV",
+        "chapter": 14,
+        "startVerse": 14,
+        "endVerse": 20,
+        "numWords": 236,
+        "numChars": 1193
+    },
+    {
+        "title": "The Song of Moses and the Lamb",
+        "book": "REV",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 83,
+        "numChars": 416
+    },
+    {
+        "title": "Preparation for Judgment",
+        "book": "REV",
+        "chapter": 15,
+        "startVerse": 5,
+        "endVerse": 8,
+        "numWords": 99,
+        "numChars": 545
+    },
+    {
+        "title": "The First Six Bowls of Wrath",
+        "book": "REV",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 360,
+        "numChars": 1824
+    },
+    {
+        "title": "The Seventh Bowl of Wrath",
+        "book": "REV",
+        "chapter": 16,
+        "startVerse": 17,
+        "endVerse": 21,
+        "numWords": 153,
+        "numChars": 838
+    },
+    {
+        "title": "The Woman on the Beast",
+        "book": "REV",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 134,
+        "numChars": 719
+    },
+    {
+        "title": "The Mystery Explained",
+        "book": "REV",
+        "chapter": 17,
+        "startVerse": 6,
+        "endVerse": 13,
+        "numWords": 238,
+        "numChars": 1182
+    },
+    {
+        "title": "The Victory of the Lamb",
+        "book": "REV",
+        "chapter": 17,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 137,
+        "numChars": 707
+    },
+    {
+        "title": "Babylon Is Fallen",
+        "book": "REV",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 89,
+        "numChars": 442
+    },
+    {
+        "title": "Lament over Babylon",
+        "book": "REV",
+        "chapter": 18,
+        "startVerse": 9,
+        "endVerse": 20,
+        "numWords": 230,
+        "numChars": 1222
+    },
+    {
+        "title": "The Doom of Babylon",
+        "book": "REV",
+        "chapter": 18,
+        "startVerse": 21,
+        "endVerse": 24,
+        "numWords": 56,
+        "numChars": 264
+    },
+    {
+        "title": "Rejoicing in Heaven",
+        "book": "REV",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 58,
+        "numChars": 310
+    },
+    {
+        "title": "The Marriage of the Lamb",
+        "book": "REV",
+        "chapter": 19,
+        "startVerse": 6,
+        "endVerse": 10,
+        "numWords": 119,
+        "numChars": 583
+    },
+    {
+        "title": "The Rider on the White Horse",
+        "book": "REV",
+        "chapter": 19,
+        "startVerse": 11,
+        "endVerse": 16,
+        "numWords": 149,
+        "numChars": 755
+    },
+    {
+        "title": "Defeat of the Beast and False Prophet",
+        "book": "REV",
+        "chapter": 19,
+        "startVerse": 17,
+        "endVerse": 21,
+        "numWords": 155,
+        "numChars": 802
+    },
+    {
+        "title": "Satan Bound",
+        "book": "REV",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 215,
+        "numChars": 1103
+    },
+    {
+        "title": "Satan Cast into the Lake of Fire",
+        "book": "REV",
+        "chapter": 20,
+        "startVerse": 7,
+        "endVerse": 10,
+        "numWords": 124,
+        "numChars": 660
+    },
+    {
+        "title": "Judgment before the Great White Throne",
+        "book": "REV",
+        "chapter": 20,
+        "startVerse": 11,
+        "endVerse": 15,
+        "numWords": 104,
+        "numChars": 514
+    },
+    {
+        "title": "A New Heaven and a New Earth",
+        "book": "REV",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 199,
+        "numChars": 1011
+    },
+    {
+        "title": "The New Jerusalem",
+        "book": "REV",
+        "chapter": 21,
+        "startVerse": 9,
+        "endVerse": 27,
+        "numWords": 448,
+        "numChars": 2287
+    },
+    {
+        "title": "The River of Life",
+        "book": "REV",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 152,
+        "numChars": 727
+    },
+    {
+        "title": "Jesus Is Coming",
+        "book": "REV",
+        "chapter": 22,
+        "startVerse": 6,
+        "endVerse": 17,
+        "numWords": 348,
+        "numChars": 1781
+    },
+    {
+        "title": "Nothing May Be Added or Removed",
+        "book": "REV",
+        "chapter": 22,
+        "startVerse": 18,
+        "endVerse": 21,
+        "numWords": 113,
+        "numChars": 569
+    }
+]

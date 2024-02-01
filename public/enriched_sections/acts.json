@@ -1,0 +1,992 @@
+[
+    {
+        "title": "Prologue",
+        "book": "ACT",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 146,
+        "numChars": 769
+    },
+    {
+        "title": "The Ascension",
+        "book": "ACT",
+        "chapter": 1,
+        "startVerse": 6,
+        "endVerse": 11,
+        "numWords": 154,
+        "numChars": 782
+    },
+    {
+        "title": "Matthias Replaces Judas",
+        "book": "ACT",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 26,
+        "numWords": 331,
+        "numChars": 1810
+    },
+    {
+        "title": "The Holy Spirit at Pentecost",
+        "book": "ACT",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 259,
+        "numChars": 1453
+    },
+    {
+        "title": "Peter Addresses the Crowd",
+        "book": "ACT",
+        "chapter": 2,
+        "startVerse": 14,
+        "endVerse": 36,
+        "numWords": 422,
+        "numChars": 2152
+    },
+    {
+        "title": "Three Thousand Believe",
+        "book": "ACT",
+        "chapter": 2,
+        "startVerse": 37,
+        "endVerse": 41,
+        "numWords": 123,
+        "numChars": 681
+    },
+    {
+        "title": "The Fellowship of Believers",
+        "book": "ACT",
+        "chapter": 2,
+        "startVerse": 42,
+        "endVerse": 47,
+        "numWords": 117,
+        "numChars": 660
+    },
+    {
+        "title": "A Lame Man Walks",
+        "book": "ACT",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 233,
+        "numChars": 1194
+    },
+    {
+        "title": "Peter Speaks in Solomon’s Colonnade",
+        "book": "ACT",
+        "chapter": 3,
+        "startVerse": 11,
+        "endVerse": 26,
+        "numWords": 408,
+        "numChars": 2175
+    },
+    {
+        "title": "Peter and John before the Sanhedrin",
+        "book": "ACT",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 238,
+        "numChars": 1243
+    },
+    {
+        "title": "The Name Forbidden",
+        "book": "ACT",
+        "chapter": 4,
+        "startVerse": 13,
+        "endVerse": 22,
+        "numWords": 212,
+        "numChars": 1140
+    },
+    {
+        "title": "The Believers’ Prayer",
+        "book": "ACT",
+        "chapter": 4,
+        "startVerse": 23,
+        "endVerse": 31,
+        "numWords": 196,
+        "numChars": 1073
+    },
+    {
+        "title": "Sharing among Believers",
+        "book": "ACT",
+        "chapter": 4,
+        "startVerse": 32,
+        "endVerse": 37,
+        "numWords": 121,
+        "numChars": 677
+    },
+    {
+        "title": "Ananias and Sapphira",
+        "book": "ACT",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 256,
+        "numChars": 1312
+    },
+    {
+        "title": "The Apostles Heal Many",
+        "book": "ACT",
+        "chapter": 5,
+        "startVerse": 12,
+        "endVerse": 16,
+        "numWords": 106,
+        "numChars": 602
+    },
+    {
+        "title": "The Apostles Arrested and Freed",
+        "book": "ACT",
+        "chapter": 5,
+        "startVerse": 17,
+        "endVerse": 23,
+        "numWords": 144,
+        "numChars": 756
+    },
+    {
+        "title": "The Apostles before the Sanhedrin",
+        "book": "ACT",
+        "chapter": 5,
+        "startVerse": 24,
+        "endVerse": 32,
+        "numWords": 199,
+        "numChars": 1079
+    },
+    {
+        "title": "Gamaliel’s Advice",
+        "book": "ACT",
+        "chapter": 5,
+        "startVerse": 33,
+        "endVerse": 42,
+        "numWords": 268,
+        "numChars": 1429
+    },
+    {
+        "title": "The Choosing of the Seven",
+        "book": "ACT",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 199,
+        "numChars": 1153
+    },
+    {
+        "title": "The Arrest of Stephen",
+        "book": "ACT",
+        "chapter": 6,
+        "startVerse": 8,
+        "endVerse": 15,
+        "numWords": 201,
+        "numChars": 1126
+    },
+    {
+        "title": "Stephen’s Address: The Call of Abraham",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 214,
+        "numChars": 1178
+    },
+    {
+        "title": "Joseph Sold into Egypt",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 129,
+        "numChars": 712
+    },
+    {
+        "title": "Israel Oppressed in Egypt",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 15,
+        "endVerse": 19,
+        "numWords": 99,
+        "numChars": 537
+    },
+    {
+        "title": "The Birth and Adoption of Moses",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 20,
+        "endVerse": 22,
+        "numWords": 75,
+        "numChars": 380
+    },
+    {
+        "title": "The Rejection and Flight of Moses",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 23,
+        "endVerse": 29,
+        "numWords": 146,
+        "numChars": 788
+    },
+    {
+        "title": "The Call of Moses",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 30,
+        "endVerse": 38,
+        "numWords": 260,
+        "numChars": 1336
+    },
+    {
+        "title": "The Rebellion of Israel",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 39,
+        "endVerse": 43,
+        "numWords": 112,
+        "numChars": 556
+    },
+    {
+        "title": "The Tabernacle of the Testimony",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 44,
+        "endVerse": 53,
+        "numWords": 204,
+        "numChars": 1104
+    },
+    {
+        "title": "The Stoning of Stephen",
+        "book": "ACT",
+        "chapter": 7,
+        "startVerse": 54,
+        "endVerse": 60,
+        "numWords": 159,
+        "numChars": 833
+    },
+    {
+        "title": "Saul Persecutes the Church",
+        "book": "ACT",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 41,
+        "numChars": 231
+    },
+    {
+        "title": "Philip in Samaria",
+        "book": "ACT",
+        "chapter": 8,
+        "startVerse": 4,
+        "endVerse": 8,
+        "numWords": 71,
+        "numChars": 393
+    },
+    {
+        "title": "Simon the Sorcerer",
+        "book": "ACT",
+        "chapter": 8,
+        "startVerse": 9,
+        "endVerse": 25,
+        "numWords": 353,
+        "numChars": 1886
+    },
+    {
+        "title": "Philip and the Ethiopian",
+        "book": "ACT",
+        "chapter": 8,
+        "startVerse": 26,
+        "endVerse": 40,
+        "numWords": 311,
+        "numChars": 1646
+    },
+    {
+        "title": "The Road to Damascus",
+        "book": "ACT",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 177,
+        "numChars": 921
+    },
+    {
+        "title": "Ananias Baptizes Saul",
+        "book": "ACT",
+        "chapter": 9,
+        "startVerse": 10,
+        "endVerse": 19,
+        "numWords": 240,
+        "numChars": 1220
+    },
+    {
+        "title": "Saul Preaches at Damascus",
+        "book": "ACT",
+        "chapter": 9,
+        "startVerse": 20,
+        "endVerse": 22,
+        "numWords": 76,
+        "numChars": 409
+    },
+    {
+        "title": "The Escape from Damascus",
+        "book": "ACT",
+        "chapter": 9,
+        "startVerse": 23,
+        "endVerse": 25,
+        "numWords": 58,
+        "numChars": 311
+    },
+    {
+        "title": "Saul in Jerusalem",
+        "book": "ACT",
+        "chapter": 9,
+        "startVerse": 26,
+        "endVerse": 30,
+        "numWords": 117,
+        "numChars": 611
+    },
+    {
+        "title": "The Healing of Aeneas",
+        "book": "ACT",
+        "chapter": 9,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 100,
+        "numChars": 533
+    },
+    {
+        "title": "The Raising of Tabitha",
+        "book": "ACT",
+        "chapter": 9,
+        "startVerse": 36,
+        "endVerse": 43,
+        "numWords": 204,
+        "numChars": 1078
+    },
+    {
+        "title": "Cornelius Sends for Peter",
+        "book": "ACT",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 158,
+        "numChars": 816
+    },
+    {
+        "title": "Peter’s Vision",
+        "book": "ACT",
+        "chapter": 10,
+        "startVerse": 9,
+        "endVerse": 16,
+        "numWords": 156,
+        "numChars": 816
+    },
+    {
+        "title": "Peter Called to Caesarea",
+        "book": "ACT",
+        "chapter": 10,
+        "startVerse": 17,
+        "endVerse": 23,
+        "numWords": 194,
+        "numChars": 1023
+    },
+    {
+        "title": "Peter Visits Cornelius",
+        "book": "ACT",
+        "chapter": 10,
+        "startVerse": 24,
+        "endVerse": 33,
+        "numWords": 249,
+        "numChars": 1274
+    },
+    {
+        "title": "Good News for the Gentiles",
+        "book": "ACT",
+        "chapter": 10,
+        "startVerse": 34,
+        "endVerse": 43,
+        "numWords": 223,
+        "numChars": 1158
+    },
+    {
+        "title": "The Gentiles Receive the Holy Spirit",
+        "book": "ACT",
+        "chapter": 10,
+        "startVerse": 44,
+        "endVerse": 48,
+        "numWords": 94,
+        "numChars": 514
+    },
+    {
+        "title": "Peter’s Report at Jerusalem",
+        "book": "ACT",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 385,
+        "numChars": 2021
+    },
+    {
+        "title": "The Church at Antioch",
+        "book": "ACT",
+        "chapter": 11,
+        "startVerse": 19,
+        "endVerse": 30,
+        "numWords": 259,
+        "numChars": 1423
+    },
+    {
+        "title": "James Killed, Peter Imprisoned",
+        "book": "ACT",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 106,
+        "numChars": 593
+    },
+    {
+        "title": "The Rescue of Peter",
+        "book": "ACT",
+        "chapter": 12,
+        "startVerse": 5,
+        "endVerse": 19,
+        "numWords": 405,
+        "numChars": 2133
+    },
+    {
+        "title": "The Death of Herod",
+        "book": "ACT",
+        "chapter": 12,
+        "startVerse": 20,
+        "endVerse": 25,
+        "numWords": 154,
+        "numChars": 871
+    },
+    {
+        "title": "Paul’s First Missionary Journey Begins",
+        "book": "ACT",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 75,
+        "numChars": 414
+    },
+    {
+        "title": "On Cyprus",
+        "book": "ACT",
+        "chapter": 13,
+        "startVerse": 4,
+        "endVerse": 12,
+        "numWords": 227,
+        "numChars": 1233
+    },
+    {
+        "title": "In Pisidian Antioch",
+        "book": "ACT",
+        "chapter": 13,
+        "startVerse": 13,
+        "endVerse": 41,
+        "numWords": 577,
+        "numChars": 3054
+    },
+    {
+        "title": "A Light for the Gentiles",
+        "book": "ACT",
+        "chapter": 13,
+        "startVerse": 42,
+        "endVerse": 52,
+        "numWords": 228,
+        "numChars": 1272
+    },
+    {
+        "title": "Paul and Barnabas at Iconium",
+        "book": "ACT",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 132,
+        "numChars": 741
+    },
+    {
+        "title": "The Visit to Lystra and Derbe",
+        "book": "ACT",
+        "chapter": 14,
+        "startVerse": 8,
+        "endVerse": 20,
+        "numWords": 305,
+        "numChars": 1625
+    },
+    {
+        "title": "Strengthening the Disciples",
+        "book": "ACT",
+        "chapter": 14,
+        "startVerse": 21,
+        "endVerse": 28,
+        "numWords": 157,
+        "numChars": 873
+    },
+    {
+        "title": "The Dispute over Circumcision",
+        "book": "ACT",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 111,
+        "numChars": 643
+    },
+    {
+        "title": "The Council at Jerusalem",
+        "book": "ACT",
+        "chapter": 15,
+        "startVerse": 5,
+        "endVerse": 21,
+        "numWords": 354,
+        "numChars": 1868
+    },
+    {
+        "title": "The Letter to the Gentile Believers",
+        "book": "ACT",
+        "chapter": 15,
+        "startVerse": 22,
+        "endVerse": 29,
+        "numWords": 181,
+        "numChars": 980
+    },
+    {
+        "title": "The Believers at Antioch Rejoice",
+        "book": "ACT",
+        "chapter": 15,
+        "startVerse": 30,
+        "endVerse": 35,
+        "numWords": 96,
+        "numChars": 563
+    },
+    {
+        "title": "Paul’s Second Missionary Journey Begins",
+        "book": "ACT",
+        "chapter": 15,
+        "startVerse": 36,
+        "endVerse": 41,
+        "numWords": 107,
+        "numChars": 584
+    },
+    {
+        "title": "Timothy Joins Paul and Silas",
+        "book": "ACT",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 105,
+        "numChars": 553
+    },
+    {
+        "title": "Paul’s Vision of the Macedonian",
+        "book": "ACT",
+        "chapter": 16,
+        "startVerse": 6,
+        "endVerse": 10,
+        "numWords": 124,
+        "numChars": 656
+    },
+    {
+        "title": "Lydia’s Conversion in Philippi",
+        "book": "ACT",
+        "chapter": 16,
+        "startVerse": 11,
+        "endVerse": 15,
+        "numWords": 153,
+        "numChars": 829
+    },
+    {
+        "title": "Paul and Silas Imprisoned",
+        "book": "ACT",
+        "chapter": 16,
+        "startVerse": 16,
+        "endVerse": 24,
+        "numWords": 242,
+        "numChars": 1316
+    },
+    {
+        "title": "The Conversion of the Jailer",
+        "book": "ACT",
+        "chapter": 16,
+        "startVerse": 25,
+        "endVerse": 34,
+        "numWords": 200,
+        "numChars": 1061
+    },
+    {
+        "title": "An Official Apology",
+        "book": "ACT",
+        "chapter": 16,
+        "startVerse": 35,
+        "endVerse": 40,
+        "numWords": 141,
+        "numChars": 781
+    },
+    {
+        "title": "The Uproar in Thessalonica",
+        "book": "ACT",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 212,
+        "numChars": 1201
+    },
+    {
+        "title": "The Character of the Bereans",
+        "book": "ACT",
+        "chapter": 17,
+        "startVerse": 10,
+        "endVerse": 15,
+        "numWords": 152,
+        "numChars": 896
+    },
+    {
+        "title": "Paul in Athens",
+        "book": "ACT",
+        "chapter": 17,
+        "startVerse": 16,
+        "endVerse": 21,
+        "numWords": 175,
+        "numChars": 952
+    },
+    {
+        "title": "Paul’s Address in the Areopagus",
+        "book": "ACT",
+        "chapter": 17,
+        "startVerse": 22,
+        "endVerse": 34,
+        "numWords": 346,
+        "numChars": 1872
+    },
+    {
+        "title": "Paul Ministers in Corinth",
+        "book": "ACT",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 255,
+        "numChars": 1322
+    },
+    {
+        "title": "Paul before Gallio",
+        "book": "ACT",
+        "chapter": 18,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 142,
+        "numChars": 751
+    },
+    {
+        "title": "Paul Returns to Antioch",
+        "book": "ACT",
+        "chapter": 18,
+        "startVerse": 18,
+        "endVerse": 22,
+        "numWords": 146,
+        "numChars": 769
+    },
+    {
+        "title": "Paul’s Third Missionary Journey Begins",
+        "book": "ACT",
+        "chapter": 18,
+        "startVerse": 23,
+        "endVerse": 28,
+        "numWords": 167,
+        "numChars": 921
+    },
+    {
+        "title": "The Holy Spirit Received at Ephesus",
+        "book": "ACT",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 110,
+        "numChars": 612
+    },
+    {
+        "title": "Paul Ministers in Ephesus",
+        "book": "ACT",
+        "chapter": 19,
+        "startVerse": 8,
+        "endVerse": 12,
+        "numWords": 136,
+        "numChars": 770
+    },
+    {
+        "title": "Seven Sons of Sceva",
+        "book": "ACT",
+        "chapter": 19,
+        "startVerse": 13,
+        "endVerse": 20,
+        "numWords": 200,
+        "numChars": 1086
+    },
+    {
+        "title": "The Riot in Ephesus",
+        "book": "ACT",
+        "chapter": 19,
+        "startVerse": 21,
+        "endVerse": 41,
+        "numWords": 520,
+        "numChars": 2939
+    },
+    {
+        "title": "Paul in Macedonia and Greece",
+        "book": "ACT",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 163,
+        "numChars": 928
+    },
+    {
+        "title": "Eutychus Revived at Troas",
+        "book": "ACT",
+        "chapter": 20,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 135,
+        "numChars": 706
+    },
+    {
+        "title": "From Troas to Miletus",
+        "book": "ACT",
+        "chapter": 20,
+        "startVerse": 13,
+        "endVerse": 16,
+        "numWords": 145,
+        "numChars": 757
+    },
+    {
+        "title": "Paul’s Farewell to the Ephesians",
+        "book": "ACT",
+        "chapter": 20,
+        "startVerse": 17,
+        "endVerse": 38,
+        "numWords": 500,
+        "numChars": 2578
+    },
+    {
+        "title": "Paul’s Journey to Jerusalem",
+        "book": "ACT",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 166,
+        "numChars": 862
+    },
+    {
+        "title": "Paul Visits Philip the Evangelist",
+        "book": "ACT",
+        "chapter": 21,
+        "startVerse": 8,
+        "endVerse": 16,
+        "numWords": 191,
+        "numChars": 988
+    },
+    {
+        "title": "Paul’s Arrival at Jerusalem",
+        "book": "ACT",
+        "chapter": 21,
+        "startVerse": 17,
+        "endVerse": 26,
+        "numWords": 256,
+        "numChars": 1392
+    },
+    {
+        "title": "Paul Seized at the Temple",
+        "book": "ACT",
+        "chapter": 21,
+        "startVerse": 27,
+        "endVerse": 36,
+        "numWords": 280,
+        "numChars": 1530
+    },
+    {
+        "title": "Paul Addresses the Crowd",
+        "book": "ACT",
+        "chapter": 21,
+        "startVerse": 37,
+        "endVerse": 40,
+        "numWords": 105,
+        "numChars": 571
+    },
+    {
+        "title": "Paul’s Defense to the Crowd",
+        "book": "ACT",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 436,
+        "numChars": 2262
+    },
+    {
+        "title": "Paul the Roman Citizen",
+        "book": "ACT",
+        "chapter": 22,
+        "startVerse": 22,
+        "endVerse": 30,
+        "numWords": 228,
+        "numChars": 1232
+    },
+    {
+        "title": "Paul before the Sanhedrin",
+        "book": "ACT",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 314,
+        "numChars": 1695
+    },
+    {
+        "title": "The Plot to Kill Paul",
+        "book": "ACT",
+        "chapter": 23,
+        "startVerse": 12,
+        "endVerse": 22,
+        "numWords": 276,
+        "numChars": 1454
+    },
+    {
+        "title": "Paul Sent to Felix",
+        "book": "ACT",
+        "chapter": 23,
+        "startVerse": 23,
+        "endVerse": 35,
+        "numWords": 248,
+        "numChars": 1342
+    },
+    {
+        "title": "Tertullus Prosecutes Paul",
+        "book": "ACT",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 196,
+        "numChars": 1081
+    },
+    {
+        "title": "Paul’s Defense to Felix",
+        "book": "ACT",
+        "chapter": 24,
+        "startVerse": 10,
+        "endVerse": 21,
+        "numWords": 299,
+        "numChars": 1555
+    },
+    {
+        "title": "The Verdict Postponed",
+        "book": "ACT",
+        "chapter": 24,
+        "startVerse": 22,
+        "endVerse": 27,
+        "numWords": 153,
+        "numChars": 837
+    },
+    {
+        "title": "Paul’s Trial before Festus",
+        "book": "ACT",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 198,
+        "numChars": 1074
+    },
+    {
+        "title": "Paul Appeals to Caesar",
+        "book": "ACT",
+        "chapter": 25,
+        "startVerse": 10,
+        "endVerse": 12,
+        "numWords": 91,
+        "numChars": 469
+    },
+    {
+        "title": "Festus Consults Agrippa",
+        "book": "ACT",
+        "chapter": 25,
+        "startVerse": 13,
+        "endVerse": 22,
+        "numWords": 239,
+        "numChars": 1234
+    },
+    {
+        "title": "Paul before Agrippa and Bernice",
+        "book": "ACT",
+        "chapter": 25,
+        "startVerse": 23,
+        "endVerse": 27,
+        "numWords": 151,
+        "numChars": 821
+    },
+    {
+        "title": "Paul’s Testimony to Agrippa",
+        "book": "ACT",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 569,
+        "numChars": 2928
+    },
+    {
+        "title": "Festus Interrupts Paul’s Defense",
+        "book": "ACT",
+        "chapter": 26,
+        "startVerse": 24,
+        "endVerse": 32,
+        "numWords": 187,
+        "numChars": 982
+    },
+    {
+        "title": "Paul Sails for Rome",
+        "book": "ACT",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 317,
+        "numChars": 1717
+    },
+    {
+        "title": "The Storm at Sea",
+        "book": "ACT",
+        "chapter": 27,
+        "startVerse": 13,
+        "endVerse": 26,
+        "numWords": 308,
+        "numChars": 1604
+    },
+    {
+        "title": "The Shipwreck",
+        "book": "ACT",
+        "chapter": 27,
+        "startVerse": 27,
+        "endVerse": 44,
+        "numWords": 427,
+        "numChars": 2336
+    },
+    {
+        "title": "Ashore on Malta",
+        "book": "ACT",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 244,
+        "numChars": 1310
+    },
+    {
+        "title": "Paul Arrives in Italy",
+        "book": "ACT",
+        "chapter": 28,
+        "startVerse": 11,
+        "endVerse": 15,
+        "numWords": 152,
+        "numChars": 790
+    },
+    {
+        "title": "Paul Preaches at Rome",
+        "book": "ACT",
+        "chapter": 28,
+        "startVerse": 16,
+        "endVerse": 31,
+        "numWords": 372,
+        "numChars": 2034
+    }
+]

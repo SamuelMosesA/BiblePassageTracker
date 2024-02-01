@@ -1,0 +1,452 @@
+[
+    {
+        "title": "Job’s Character and Wealth",
+        "book": "JOB",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 140,
+        "numChars": 734
+    },
+    {
+        "title": "Satan’s First Attack",
+        "book": "JOB",
+        "chapter": 1,
+        "startVerse": 6,
+        "endVerse": 12,
+        "numWords": 167,
+        "numChars": 844
+    },
+    {
+        "title": "Job Loses His Children and Possessions",
+        "book": "JOB",
+        "chapter": 1,
+        "startVerse": 13,
+        "endVerse": 22,
+        "numWords": 224,
+        "numChars": 1223
+    },
+    {
+        "title": "Job Loses His Health",
+        "book": "JOB",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 241,
+        "numChars": 1228
+    },
+    {
+        "title": "Job’s Three Friends",
+        "book": "JOB",
+        "chapter": 2,
+        "startVerse": 11,
+        "endVerse": 13,
+        "numWords": 106,
+        "numChars": 569
+    },
+    {
+        "title": "Job Laments His Birth",
+        "book": "JOB",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 26,
+        "numWords": 216,
+        "numChars": 983
+    },
+    {
+        "title": "Eliphaz: The Innocent Prosper",
+        "book": "JOB",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 169,
+        "numChars": 809
+    },
+    {
+        "title": "Eliphaz Continues: God Blesses those Who Seek Him",
+        "book": "JOB",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 225,
+        "numChars": 1063
+    },
+    {
+        "title": "Job Replies: My Complaint Is Just",
+        "book": "JOB",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 30,
+        "numWords": 214,
+        "numChars": 1053
+    },
+    {
+        "title": "Job Continues: Life Seems Futile",
+        "book": "JOB",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 167,
+        "numChars": 773
+    },
+    {
+        "title": "Bildad: Job Should Repent",
+        "book": "JOB",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 161,
+        "numChars": 801
+    },
+    {
+        "title": "Job: How Can I Contend with God?",
+        "book": "JOB",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 35,
+        "numWords": 307,
+        "numChars": 1399
+    },
+    {
+        "title": "Job’s Plea to God",
+        "book": "JOB",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 198,
+        "numChars": 955
+    },
+    {
+        "title": "Zophar Rebukes Job",
+        "book": "JOB",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 157,
+        "numChars": 772
+    },
+    {
+        "title": "Job Presents His Case",
+        "book": "JOB",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 173,
+        "numChars": 872
+    },
+    {
+        "title": "Job Prepares His Case",
+        "book": "JOB",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 201,
+        "numChars": 987
+    },
+    {
+        "title": "Job Laments the Finality of Death",
+        "book": "JOB",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 168,
+        "numChars": 770
+    },
+    {
+        "title": "Eliphaz: Job Does Not Fear God",
+        "book": "JOB",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 35,
+        "numWords": 280,
+        "numChars": 1355
+    },
+    {
+        "title": "Job Decries His Comforters",
+        "book": "JOB",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 156,
+        "numChars": 740
+    },
+    {
+        "title": "Job Prepares for Death",
+        "book": "JOB",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 129,
+        "numChars": 597
+    },
+    {
+        "title": "Bildad: God Punishes the Wicked",
+        "book": "JOB",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 152,
+        "numChars": 733
+    },
+    {
+        "title": "Job: My Redeemer Lives",
+        "book": "JOB",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 29,
+        "numWords": 221,
+        "numChars": 1043
+    },
+    {
+        "title": "Zophar: Destruction Awaits the Wicked",
+        "book": "JOB",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 29,
+        "numWords": 234,
+        "numChars": 1139
+    },
+    {
+        "title": "Job: God Will Punish the Wicked",
+        "book": "JOB",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 34,
+        "numWords": 273,
+        "numChars": 1342
+    },
+    {
+        "title": "Eliphaz: Can a Man Be of Use to God?",
+        "book": "JOB",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 30,
+        "numWords": 235,
+        "numChars": 1158
+    },
+    {
+        "title": "Job Longs for God",
+        "book": "JOB",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 137,
+        "numChars": 635
+    },
+    {
+        "title": "Job: Judgment for the Wicked",
+        "book": "JOB",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 187,
+        "numChars": 975
+    },
+    {
+        "title": "Bildad: Man Cannot Be Righteous",
+        "book": "JOB",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 43,
+        "numChars": 200
+    },
+    {
+        "title": "Job: Who Can Understand God’s Majesty?",
+        "book": "JOB",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 104,
+        "numChars": 519
+    },
+    {
+        "title": "Job Affirms His Integrity",
+        "book": "JOB",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 49,
+        "numChars": 243
+    },
+    {
+        "title": "The Wicked Man’s Portion",
+        "book": "JOB",
+        "chapter": 27,
+        "startVerse": 7,
+        "endVerse": 23,
+        "numWords": 143,
+        "numChars": 679
+    },
+    {
+        "title": "Where Can Wisdom Be Found?",
+        "book": "JOB",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 229,
+        "numChars": 1077
+    },
+    {
+        "title": "Job’s Former Blessings",
+        "book": "JOB",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 197,
+        "numChars": 903
+    },
+    {
+        "title": "Job’s Honor Turned to Contempt",
+        "book": "JOB",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 103,
+        "numChars": 480
+    },
+    {
+        "title": "Job’s Prosperity Becomes Calamity",
+        "book": "JOB",
+        "chapter": 30,
+        "startVerse": 15,
+        "endVerse": 31,
+        "numWords": 153,
+        "numChars": 723
+    },
+    {
+        "title": "Job’s Final Appeal",
+        "book": "JOB",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 40,
+        "numWords": 365,
+        "numChars": 1687
+    },
+    {
+        "title": "Elihu Rebukes Job’s Friends",
+        "book": "JOB",
+        "chapter": 32,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 237,
+        "numChars": 1143
+    },
+    {
+        "title": "Elihu Rebukes Job",
+        "book": "JOB",
+        "chapter": 33,
+        "startVerse": 1,
+        "endVerse": 33,
+        "numWords": 247,
+        "numChars": 1108
+    },
+    {
+        "title": "Elihu Confirms God’s Justice",
+        "book": "JOB",
+        "chapter": 34,
+        "startVerse": 1,
+        "endVerse": 37,
+        "numWords": 256,
+        "numChars": 1270
+    },
+    {
+        "title": "Elihu Recalls God’s Justice",
+        "book": "JOB",
+        "chapter": 35,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 136,
+        "numChars": 621
+    },
+    {
+        "title": "Elihu Describes God’s Power",
+        "book": "JOB",
+        "chapter": 36,
+        "startVerse": 1,
+        "endVerse": 33,
+        "numWords": 257,
+        "numChars": 1275
+    },
+    {
+        "title": "Elihu Proclaims God’s Majesty",
+        "book": "JOB",
+        "chapter": 37,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 173,
+        "numChars": 840
+    },
+    {
+        "title": "The LORD Challenges Job",
+        "book": "JOB",
+        "chapter": 38,
+        "startVerse": 1,
+        "endVerse": 41,
+        "numWords": 347,
+        "numChars": 1748
+    },
+    {
+        "title": "The LORD Speaks of His Creation",
+        "book": "JOB",
+        "chapter": 39,
+        "startVerse": 1,
+        "endVerse": 30,
+        "numWords": 242,
+        "numChars": 1201
+    },
+    {
+        "title": "Job Humbles Himself before the LORD",
+        "book": "JOB",
+        "chapter": 40,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 37,
+        "numChars": 193
+    },
+    {
+        "title": "The LORD Challenges Job Again",
+        "book": "JOB",
+        "chapter": 40,
+        "startVerse": 6,
+        "endVerse": 24,
+        "numWords": 151,
+        "numChars": 773
+    },
+    {
+        "title": "The LORD’s Power Shown in Leviathan",
+        "book": "JOB",
+        "chapter": 41,
+        "startVerse": 1,
+        "endVerse": 34,
+        "numWords": 242,
+        "numChars": 1161
+    },
+    {
+        "title": "Job Submits Himself to the LORD",
+        "book": "JOB",
+        "chapter": 42,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 40,
+        "numChars": 180
+    },
+    {
+        "title": "The LORD Rebukes Job’s Friends",
+        "book": "JOB",
+        "chapter": 42,
+        "startVerse": 7,
+        "endVerse": 9,
+        "numWords": 120,
+        "numChars": 641
+    },
+    {
+        "title": "The LORD Blesses Job",
+        "book": "JOB",
+        "chapter": 42,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 179,
+        "numChars": 974
+    }
+]

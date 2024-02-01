@@ -1,0 +1,38 @@
+[
+    {
+        "title": "A Greeting from the Elder",
+        "book": "2JN",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 42,
+        "numChars": 201
+    },
+    {
+        "title": "Walking in the Truth",
+        "book": "2JN",
+        "chapter": 1,
+        "startVerse": 4,
+        "endVerse": 6,
+        "numWords": 73,
+        "numChars": 384
+    },
+    {
+        "title": "Beware of Deceivers",
+        "book": "2JN",
+        "chapter": 1,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 117,
+        "numChars": 613
+    },
+    {
+        "title": "Conclusion",
+        "book": "2JN",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 13,
+        "numWords": 58,
+        "numChars": 288
+    }
+]

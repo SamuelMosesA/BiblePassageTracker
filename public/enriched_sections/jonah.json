@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Jonah Flees from the LORD",
+        "book": "JON",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 81,
+        "numChars": 404
+    },
+    {
+        "title": "The Great Storm",
+        "book": "JON",
+        "chapter": 1,
+        "startVerse": 4,
+        "endVerse": 10,
+        "numWords": 218,
+        "numChars": 1088
+    },
+    {
+        "title": "Jonah Cast into the Sea",
+        "book": "JON",
+        "chapter": 1,
+        "startVerse": 11,
+        "endVerse": 17,
+        "numWords": 192,
+        "numChars": 923
+    },
+    {
+        "title": "Jonah’s Prayer",
+        "book": "JON",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 72,
+        "numChars": 339
+    },
+    {
+        "title": "The Ninevites Repent",
+        "book": "JON",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 201,
+        "numChars": 1069
+    },
+    {
+        "title": "Jonah’s Anger at the LORD’s Compassion",
+        "book": "JON",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 314,
+        "numChars": 1592
+    }
+]

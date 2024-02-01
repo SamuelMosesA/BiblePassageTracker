@@ -1,0 +1,1109 @@
+[
+    {
+        "title": "The Israelites Multiply in Egypt",
+        "book": "EXO",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 94,
+        "numChars": 550
+    },
+    {
+        "title": "Oppression by a New King",
+        "book": "EXO",
+        "chapter": 1,
+        "startVerse": 8,
+        "endVerse": 22,
+        "numWords": 330,
+        "numChars": 1803
+    },
+    {
+        "title": "The Birth and Adoption of Moses",
+        "book": "EXO",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 282,
+        "numChars": 1423
+    },
+    {
+        "title": "The Rejection and Flight of Moses",
+        "book": "EXO",
+        "chapter": 2,
+        "startVerse": 11,
+        "endVerse": 22,
+        "numWords": 316,
+        "numChars": 1674
+    },
+    {
+        "title": "God Hears the Cry of the Israelites",
+        "book": "EXO",
+        "chapter": 2,
+        "startVerse": 23,
+        "endVerse": 25,
+        "numWords": 52,
+        "numChars": 300
+    },
+    {
+        "title": "Moses at the Burning Bush",
+        "book": "EXO",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 740,
+        "numChars": 3804
+    },
+    {
+        "title": "Moses’ Staff",
+        "book": "EXO",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 143,
+        "numChars": 702
+    },
+    {
+        "title": "Moses’ Hand",
+        "book": "EXO",
+        "chapter": 4,
+        "startVerse": 6,
+        "endVerse": 9,
+        "numWords": 141,
+        "numChars": 731
+    },
+    {
+        "title": "The Appointment of Aaron",
+        "book": "EXO",
+        "chapter": 4,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 199,
+        "numChars": 929
+    },
+    {
+        "title": "Moses Leaves for Egypt",
+        "book": "EXO",
+        "chapter": 4,
+        "startVerse": 18,
+        "endVerse": 26,
+        "numWords": 255,
+        "numChars": 1279
+    },
+    {
+        "title": "The People Believe Moses and Aaron",
+        "book": "EXO",
+        "chapter": 4,
+        "startVerse": 27,
+        "endVerse": 31,
+        "numWords": 99,
+        "numChars": 527
+    },
+    {
+        "title": "Pharaoh’s First Refusal",
+        "book": "EXO",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 154,
+        "numChars": 765
+    },
+    {
+        "title": "Bricks and Straw",
+        "book": "EXO",
+        "chapter": 5,
+        "startVerse": 6,
+        "endVerse": 14,
+        "numWords": 198,
+        "numChars": 1061
+    },
+    {
+        "title": "The Cry of the Israelites",
+        "book": "EXO",
+        "chapter": 5,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 207,
+        "numChars": 1106
+    },
+    {
+        "title": "God Promises Deliverance",
+        "book": "EXO",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 342,
+        "numChars": 1747
+    },
+    {
+        "title": "Genealogies of Moses and Aaron",
+        "book": "EXO",
+        "chapter": 6,
+        "startVerse": 14,
+        "endVerse": 30,
+        "numWords": 308,
+        "numChars": 1680
+    },
+    {
+        "title": "God Commands Moses and Aaron",
+        "book": "EXO",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 126,
+        "numChars": 646
+    },
+    {
+        "title": "Aaron’s Staff",
+        "book": "EXO",
+        "chapter": 7,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 163,
+        "numChars": 862
+    },
+    {
+        "title": "The First Plague: Blood",
+        "book": "EXO",
+        "chapter": 7,
+        "startVerse": 14,
+        "endVerse": 25,
+        "numWords": 369,
+        "numChars": 1897
+    },
+    {
+        "title": "The Second Plague: Frogs",
+        "book": "EXO",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 369,
+        "numChars": 1898
+    },
+    {
+        "title": "The Third Plague: Gnats",
+        "book": "EXO",
+        "chapter": 8,
+        "startVerse": 16,
+        "endVerse": 19,
+        "numWords": 129,
+        "numChars": 682
+    },
+    {
+        "title": "The Fourth Plague: Flies",
+        "book": "EXO",
+        "chapter": 8,
+        "startVerse": 20,
+        "endVerse": 32,
+        "numWords": 404,
+        "numChars": 2096
+    },
+    {
+        "title": "The Fifth Plague: Livestock",
+        "book": "EXO",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 175,
+        "numChars": 914
+    },
+    {
+        "title": "The Sixth Plague: Boils",
+        "book": "EXO",
+        "chapter": 9,
+        "startVerse": 8,
+        "endVerse": 12,
+        "numWords": 128,
+        "numChars": 671
+    },
+    {
+        "title": "The Seventh Plague: Hail",
+        "book": "EXO",
+        "chapter": 9,
+        "startVerse": 13,
+        "endVerse": 35,
+        "numWords": 634,
+        "numChars": 3239
+    },
+    {
+        "title": "The Eighth Plague: Locusts",
+        "book": "EXO",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 601,
+        "numChars": 3120
+    },
+    {
+        "title": "The Ninth Plague: Darkness",
+        "book": "EXO",
+        "chapter": 10,
+        "startVerse": 21,
+        "endVerse": 29,
+        "numWords": 209,
+        "numChars": 1093
+    },
+    {
+        "title": "The Plague on the Firstborn Foretold",
+        "book": "EXO",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 280,
+        "numChars": 1480
+    },
+    {
+        "title": "The First Passover",
+        "book": "EXO",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 378,
+        "numChars": 1913
+    },
+    {
+        "title": "The Feast of Unleavened Bread",
+        "book": "EXO",
+        "chapter": 12,
+        "startVerse": 14,
+        "endVerse": 28,
+        "numWords": 438,
+        "numChars": 2288
+    },
+    {
+        "title": "The Tenth Plague: Death of the Firstborn",
+        "book": "EXO",
+        "chapter": 12,
+        "startVerse": 29,
+        "endVerse": 30,
+        "numWords": 71,
+        "numChars": 392
+    },
+    {
+        "title": "The Exodus Begins",
+        "book": "EXO",
+        "chapter": 12,
+        "startVerse": 31,
+        "endVerse": 42,
+        "numWords": 312,
+        "numChars": 1685
+    },
+    {
+        "title": "Instructions for the Passover",
+        "book": "EXO",
+        "chapter": 12,
+        "startVerse": 43,
+        "endVerse": 51,
+        "numWords": 184,
+        "numChars": 950
+    },
+    {
+        "title": "The Dedication of the Firstborn",
+        "book": "EXO",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 463,
+        "numChars": 2361
+    },
+    {
+        "title": "The Pillars of Cloud and Fire",
+        "book": "EXO",
+        "chapter": 13,
+        "startVerse": 17,
+        "endVerse": 22,
+        "numWords": 199,
+        "numChars": 1015
+    },
+    {
+        "title": "Pharaoh Pursues the Israelites",
+        "book": "EXO",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 362,
+        "numChars": 1982
+    },
+    {
+        "title": "Parting the Red Sea",
+        "book": "EXO",
+        "chapter": 14,
+        "startVerse": 15,
+        "endVerse": 31,
+        "numWords": 485,
+        "numChars": 2555
+    },
+    {
+        "title": "The Song at the Sea",
+        "book": "EXO",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 218,
+        "numChars": 1175
+    },
+    {
+        "title": "The Waters of Marah",
+        "book": "EXO",
+        "chapter": 15,
+        "startVerse": 22,
+        "endVerse": 27,
+        "numWords": 173,
+        "numChars": 889
+    },
+    {
+        "title": "Manna and Quail from Heaven",
+        "book": "EXO",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 601,
+        "numChars": 3073
+    },
+    {
+        "title": "The Sabbath Observed",
+        "book": "EXO",
+        "chapter": 16,
+        "startVerse": 22,
+        "endVerse": 30,
+        "numWords": 232,
+        "numChars": 1188
+    },
+    {
+        "title": "The Jar of Manna",
+        "book": "EXO",
+        "chapter": 16,
+        "startVerse": 31,
+        "endVerse": 36,
+        "numWords": 195,
+        "numChars": 1017
+    },
+    {
+        "title": "Water from the Rock",
+        "book": "EXO",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 221,
+        "numChars": 1184
+    },
+    {
+        "title": "The Defeat of the Amalekites",
+        "book": "EXO",
+        "chapter": 17,
+        "startVerse": 8,
+        "endVerse": 16,
+        "numWords": 210,
+        "numChars": 1100
+    },
+    {
+        "title": "The Visit of Jethro",
+        "book": "EXO",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 333,
+        "numChars": 1832
+    },
+    {
+        "title": "Jethro Advises Moses",
+        "book": "EXO",
+        "chapter": 18,
+        "startVerse": 13,
+        "endVerse": 27,
+        "numWords": 363,
+        "numChars": 1936
+    },
+    {
+        "title": "Israel at Mount Sinai",
+        "book": "EXO",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 404,
+        "numChars": 2066
+    },
+    {
+        "title": "The LORD Visits Sinai",
+        "book": "EXO",
+        "chapter": 19,
+        "startVerse": 16,
+        "endVerse": 25,
+        "numWords": 252,
+        "numChars": 1296
+    },
+    {
+        "title": "The Ten Commandments",
+        "book": "EXO",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 399,
+        "numChars": 2128
+    },
+    {
+        "title": "Moses Comforts the People",
+        "book": "EXO",
+        "chapter": 20,
+        "startVerse": 18,
+        "endVerse": 21,
+        "numWords": 98,
+        "numChars": 499
+    },
+    {
+        "title": "Idolatry Forbidden",
+        "book": "EXO",
+        "chapter": 20,
+        "startVerse": 22,
+        "endVerse": 26,
+        "numWords": 144,
+        "numChars": 696
+    },
+    {
+        "title": "Hebrew Servants",
+        "book": "EXO",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 274,
+        "numChars": 1343
+    },
+    {
+        "title": "Personal Injury Laws",
+        "book": "EXO",
+        "chapter": 21,
+        "startVerse": 12,
+        "endVerse": 36,
+        "numWords": 640,
+        "numChars": 3178
+    },
+    {
+        "title": "Property Laws",
+        "book": "EXO",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 427,
+        "numChars": 2207
+    },
+    {
+        "title": "Laws of Social Responsibility",
+        "book": "EXO",
+        "chapter": 22,
+        "startVerse": 16,
+        "endVerse": 31,
+        "numWords": 373,
+        "numChars": 1858
+    },
+    {
+        "title": "Justice and Mercy",
+        "book": "EXO",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 169,
+        "numChars": 860
+    },
+    {
+        "title": "Sabbath Laws",
+        "book": "EXO",
+        "chapter": 23,
+        "startVerse": 10,
+        "endVerse": 13,
+        "numWords": 125,
+        "numChars": 613
+    },
+    {
+        "title": "The Three Feasts of Pilgrimage",
+        "book": "EXO",
+        "chapter": 23,
+        "startVerse": 14,
+        "endVerse": 19,
+        "numWords": 207,
+        "numChars": 1091
+    },
+    {
+        "title": "God’s Angel to Lead",
+        "book": "EXO",
+        "chapter": 23,
+        "startVerse": 20,
+        "endVerse": 33,
+        "numWords": 360,
+        "numChars": 1852
+    },
+    {
+        "title": "The Covenant Sealed",
+        "book": "EXO",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 264,
+        "numChars": 1334
+    },
+    {
+        "title": "Moses on the Mountain",
+        "book": "EXO",
+        "chapter": 24,
+        "startVerse": 12,
+        "endVerse": 18,
+        "numWords": 171,
+        "numChars": 847
+    },
+    {
+        "title": "Offerings for the Tabernacle",
+        "book": "EXO",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 108,
+        "numChars": 573
+    },
+    {
+        "title": "The Ark of the Covenant",
+        "book": "EXO",
+        "chapter": 25,
+        "startVerse": 10,
+        "endVerse": 16,
+        "numWords": 173,
+        "numChars": 882
+    },
+    {
+        "title": "The Mercy Seat",
+        "book": "EXO",
+        "chapter": 25,
+        "startVerse": 17,
+        "endVerse": 22,
+        "numWords": 172,
+        "numChars": 901
+    },
+    {
+        "title": "The Table of Showbread",
+        "book": "EXO",
+        "chapter": 25,
+        "startVerse": 23,
+        "endVerse": 30,
+        "numWords": 186,
+        "numChars": 955
+    },
+    {
+        "title": "The Lampstand",
+        "book": "EXO",
+        "chapter": 25,
+        "startVerse": 31,
+        "endVerse": 40,
+        "numWords": 230,
+        "numChars": 1210
+    },
+    {
+        "title": "The Ten Curtains for the Tabernacle",
+        "book": "EXO",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 156,
+        "numChars": 843
+    },
+    {
+        "title": "The Eleven Curtains of Goat Hair",
+        "book": "EXO",
+        "chapter": 26,
+        "startVerse": 7,
+        "endVerse": 14,
+        "numWords": 218,
+        "numChars": 1160
+    },
+    {
+        "title": "The Frames and Bases",
+        "book": "EXO",
+        "chapter": 26,
+        "startVerse": 15,
+        "endVerse": 30,
+        "numWords": 283,
+        "numChars": 1518
+    },
+    {
+        "title": "The Veil",
+        "book": "EXO",
+        "chapter": 26,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 130,
+        "numChars": 675
+    },
+    {
+        "title": "The Curtain for the Entrance",
+        "book": "EXO",
+        "chapter": 26,
+        "startVerse": 36,
+        "endVerse": 37,
+        "numWords": 44,
+        "numChars": 241
+    },
+    {
+        "title": "The Bronze Altar",
+        "book": "EXO",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 192,
+        "numChars": 993
+    },
+    {
+        "title": "The Courtyard",
+        "book": "EXO",
+        "chapter": 27,
+        "startVerse": 9,
+        "endVerse": 19,
+        "numWords": 323,
+        "numChars": 1766
+    },
+    {
+        "title": "The Oil for the Lamps",
+        "book": "EXO",
+        "chapter": 27,
+        "startVerse": 20,
+        "endVerse": 21,
+        "numWords": 89,
+        "numChars": 484
+    },
+    {
+        "title": "Garments for the Priests",
+        "book": "EXO",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 128,
+        "numChars": 699
+    },
+    {
+        "title": "The Ephod",
+        "book": "EXO",
+        "chapter": 28,
+        "startVerse": 6,
+        "endVerse": 14,
+        "numWords": 185,
+        "numChars": 985
+    },
+    {
+        "title": "The Breastpiece",
+        "book": "EXO",
+        "chapter": 28,
+        "startVerse": 15,
+        "endVerse": 30,
+        "numWords": 392,
+        "numChars": 2102
+    },
+    {
+        "title": "Additional Priestly Garments",
+        "book": "EXO",
+        "chapter": 28,
+        "startVerse": 31,
+        "endVerse": 43,
+        "numWords": 328,
+        "numChars": 1696
+    },
+    {
+        "title": "Consecration of the Priests",
+        "book": "EXO",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 190,
+        "numChars": 985
+    },
+    {
+        "title": "The Order of the Sacrifices",
+        "book": "EXO",
+        "chapter": 29,
+        "startVerse": 10,
+        "endVerse": 30,
+        "numWords": 580,
+        "numChars": 2874
+    },
+    {
+        "title": "Food for the Priests",
+        "book": "EXO",
+        "chapter": 29,
+        "startVerse": 31,
+        "endVerse": 37,
+        "numWords": 180,
+        "numChars": 918
+    },
+    {
+        "title": "The Daily Offerings",
+        "book": "EXO",
+        "chapter": 29,
+        "startVerse": 38,
+        "endVerse": 44,
+        "numWords": 216,
+        "numChars": 1124
+    },
+    {
+        "title": "God Will Dwell among the People",
+        "book": "EXO",
+        "chapter": 29,
+        "startVerse": 45,
+        "endVerse": 46,
+        "numWords": 38,
+        "numChars": 180
+    },
+    {
+        "title": "The Altar of Incense",
+        "book": "EXO",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 269,
+        "numChars": 1418
+    },
+    {
+        "title": "The Census Offering",
+        "book": "EXO",
+        "chapter": 30,
+        "startVerse": 11,
+        "endVerse": 16,
+        "numWords": 183,
+        "numChars": 973
+    },
+    {
+        "title": "The Bronze Basin",
+        "book": "EXO",
+        "chapter": 30,
+        "startVerse": 17,
+        "endVerse": 21,
+        "numWords": 114,
+        "numChars": 566
+    },
+    {
+        "title": "The Anointing Oil",
+        "book": "EXO",
+        "chapter": 30,
+        "startVerse": 22,
+        "endVerse": 33,
+        "numWords": 272,
+        "numChars": 1471
+    },
+    {
+        "title": "The Incense",
+        "book": "EXO",
+        "chapter": 30,
+        "startVerse": 34,
+        "endVerse": 38,
+        "numWords": 126,
+        "numChars": 680
+    },
+    {
+        "title": "Bezalel and Oholiab",
+        "book": "EXO",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 207,
+        "numChars": 1056
+    },
+    {
+        "title": "The Sign of the Sabbath",
+        "book": "EXO",
+        "chapter": 31,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 162,
+        "numChars": 816
+    },
+    {
+        "title": "Moses Receives the Tablets",
+        "book": "EXO",
+        "chapter": 31,
+        "startVerse": 18,
+        "endVerse": 18,
+        "numWords": 29,
+        "numChars": 157
+    },
+    {
+        "title": "The Golden Calf",
+        "book": "EXO",
+        "chapter": 32,
+        "startVerse": 1,
+        "endVerse": 35,
+        "numWords": 993,
+        "numChars": 5097
+    },
+    {
+        "title": "The Command to Leave Sinai",
+        "book": "EXO",
+        "chapter": 33,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 188,
+        "numChars": 1004
+    },
+    {
+        "title": "The Tent of Meeting",
+        "book": "EXO",
+        "chapter": 33,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 159,
+        "numChars": 808
+    },
+    {
+        "title": "The Promise of God’s Presence",
+        "book": "EXO",
+        "chapter": 33,
+        "startVerse": 12,
+        "endVerse": 23,
+        "numWords": 319,
+        "numChars": 1525
+    },
+    {
+        "title": "New Stone Tablets",
+        "book": "EXO",
+        "chapter": 34,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 201,
+        "numChars": 1073
+    },
+    {
+        "title": "The LORD Renews the Covenant",
+        "book": "EXO",
+        "chapter": 34,
+        "startVerse": 10,
+        "endVerse": 35,
+        "numWords": 811,
+        "numChars": 4336
+    },
+    {
+        "title": "The Sabbath",
+        "book": "EXO",
+        "chapter": 35,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 74,
+        "numChars": 367
+    },
+    {
+        "title": "Offerings for the Tabernacle",
+        "book": "EXO",
+        "chapter": 35,
+        "startVerse": 4,
+        "endVerse": 9,
+        "numWords": 77,
+        "numChars": 428
+    },
+    {
+        "title": "The Skilled Craftsmen",
+        "book": "EXO",
+        "chapter": 35,
+        "startVerse": 10,
+        "endVerse": 19,
+        "numWords": 155,
+        "numChars": 857
+    },
+    {
+        "title": "The People Offer Gifts",
+        "book": "EXO",
+        "chapter": 35,
+        "startVerse": 20,
+        "endVerse": 29,
+        "numWords": 245,
+        "numChars": 1335
+    },
+    {
+        "title": "Bezalel and Oholiab",
+        "book": "EXO",
+        "chapter": 35,
+        "startVerse": 30,
+        "endVerse": 35,
+        "numWords": 134,
+        "numChars": 705
+    },
+    {
+        "title": "The People Bring More than Enough",
+        "book": "EXO",
+        "chapter": 36,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 170,
+        "numChars": 966
+    },
+    {
+        "title": "The Ten Curtains for the Tabernacle",
+        "book": "EXO",
+        "chapter": 36,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 161,
+        "numChars": 865
+    },
+    {
+        "title": "The Eleven Curtains of Goat Hair",
+        "book": "EXO",
+        "chapter": 36,
+        "startVerse": 14,
+        "endVerse": 19,
+        "numWords": 138,
+        "numChars": 750
+    },
+    {
+        "title": "The Frames and Bases",
+        "book": "EXO",
+        "chapter": 36,
+        "startVerse": 20,
+        "endVerse": 34,
+        "numWords": 269,
+        "numChars": 1448
+    },
+    {
+        "title": "The Veil",
+        "book": "EXO",
+        "chapter": 36,
+        "startVerse": 35,
+        "endVerse": 36,
+        "numWords": 49,
+        "numChars": 263
+    },
+    {
+        "title": "The Curtain for the Entrance",
+        "book": "EXO",
+        "chapter": 36,
+        "startVerse": 37,
+        "endVerse": 38,
+        "numWords": 29,
+        "numChars": 160
+    },
+    {
+        "title": "Constructing the Ark",
+        "book": "EXO",
+        "chapter": 37,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 120,
+        "numChars": 611
+    },
+    {
+        "title": "The Mercy Seat",
+        "book": "EXO",
+        "chapter": 37,
+        "startVerse": 6,
+        "endVerse": 9,
+        "numWords": 94,
+        "numChars": 502
+    },
+    {
+        "title": "The Table of Showbread",
+        "book": "EXO",
+        "chapter": 37,
+        "startVerse": 10,
+        "endVerse": 16,
+        "numWords": 168,
+        "numChars": 883
+    },
+    {
+        "title": "The Lampstand",
+        "book": "EXO",
+        "chapter": 37,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 172,
+        "numChars": 920
+    },
+    {
+        "title": "The Altar of Incense",
+        "book": "EXO",
+        "chapter": 37,
+        "startVerse": 25,
+        "endVerse": 29,
+        "numWords": 125,
+        "numChars": 648
+    },
+    {
+        "title": "The Bronze Altar",
+        "book": "EXO",
+        "chapter": 38,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 170,
+        "numChars": 915
+    },
+    {
+        "title": "The Bronze Basin",
+        "book": "EXO",
+        "chapter": 38,
+        "startVerse": 8,
+        "endVerse": 8,
+        "numWords": 25,
+        "numChars": 124
+    },
+    {
+        "title": "The Courtyard",
+        "book": "EXO",
+        "chapter": 38,
+        "startVerse": 9,
+        "endVerse": 20,
+        "numWords": 308,
+        "numChars": 1694
+    },
+    {
+        "title": "An Inventory of Materials",
+        "book": "EXO",
+        "chapter": 38,
+        "startVerse": 21,
+        "endVerse": 31,
+        "numWords": 355,
+        "numChars": 1961
+    },
+    {
+        "title": "The Ephod",
+        "book": "EXO",
+        "chapter": 39,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 187,
+        "numChars": 1054
+    },
+    {
+        "title": "The Breastpiece",
+        "book": "EXO",
+        "chapter": 39,
+        "startVerse": 8,
+        "endVerse": 21,
+        "numWords": 319,
+        "numChars": 1717
+    },
+    {
+        "title": "Additional Priestly Garments",
+        "book": "EXO",
+        "chapter": 39,
+        "startVerse": 22,
+        "endVerse": 31,
+        "numWords": 218,
+        "numChars": 1118
+    },
+    {
+        "title": "Moses Approves the Work",
+        "book": "EXO",
+        "chapter": 39,
+        "startVerse": 32,
+        "endVerse": 43,
+        "numWords": 215,
+        "numChars": 1167
+    },
+    {
+        "title": "Setting Up the Tabernacle",
+        "book": "EXO",
+        "chapter": 40,
+        "startVerse": 1,
+        "endVerse": 33,
+        "numWords": 637,
+        "numChars": 3336
+    },
+    {
+        "title": "The Cloud and the Glory",
+        "book": "EXO",
+        "chapter": 40,
+        "startVerse": 34,
+        "endVerse": 38,
+        "numWords": 114,
+        "numChars": 592
+    }
+]

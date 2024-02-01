@@ -1,0 +1,470 @@
+[
+    {
+        "title": "The Conquest of Canaan Proceeds",
+        "book": "JDG",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 178,
+        "numChars": 999
+    },
+    {
+        "title": "The Capture of Jerusalem and Hebron",
+        "book": "JDG",
+        "chapter": 1,
+        "startVerse": 8,
+        "endVerse": 26,
+        "numWords": 497,
+        "numChars": 2722
+    },
+    {
+        "title": "The Failure to Complete the Conquest",
+        "book": "JDG",
+        "chapter": 1,
+        "startVerse": 27,
+        "endVerse": 36,
+        "numWords": 233,
+        "numChars": 1401
+    },
+    {
+        "title": "Israel Rebuked at Bochim",
+        "book": "JDG",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 144,
+        "numChars": 705
+    },
+    {
+        "title": "Joshua’s Death and Burial",
+        "book": "JDG",
+        "chapter": 2,
+        "startVerse": 6,
+        "endVerse": 9,
+        "numWords": 103,
+        "numChars": 561
+    },
+    {
+        "title": "Israel’s Unfaithfulness",
+        "book": "JDG",
+        "chapter": 2,
+        "startVerse": 10,
+        "endVerse": 15,
+        "numWords": 171,
+        "numChars": 922
+    },
+    {
+        "title": "Judges Raised Up",
+        "book": "JDG",
+        "chapter": 2,
+        "startVerse": 16,
+        "endVerse": 23,
+        "numWords": 259,
+        "numChars": 1394
+    },
+    {
+        "title": "Nations Left to Test Israel",
+        "book": "JDG",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 134,
+        "numChars": 786
+    },
+    {
+        "title": "Othniel",
+        "book": "JDG",
+        "chapter": 3,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 149,
+        "numChars": 841
+    },
+    {
+        "title": "Ehud",
+        "book": "JDG",
+        "chapter": 3,
+        "startVerse": 12,
+        "endVerse": 30,
+        "numWords": 456,
+        "numChars": 2445
+    },
+    {
+        "title": "Shamgar",
+        "book": "JDG",
+        "chapter": 3,
+        "startVerse": 31,
+        "endVerse": 31,
+        "numWords": 20,
+        "numChars": 116
+    },
+    {
+        "title": "Deborah and Barak",
+        "book": "JDG",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 418,
+        "numChars": 2231
+    },
+    {
+        "title": "Jael Kills Sisera",
+        "book": "JDG",
+        "chapter": 4,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 235,
+        "numChars": 1198
+    },
+    {
+        "title": "The Song of Deborah and Barak",
+        "book": "JDG",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 31,
+        "numWords": 230,
+        "numChars": 1161
+    },
+    {
+        "title": "Midian Oppresses Israel",
+        "book": "JDG",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 243,
+        "numChars": 1308
+    },
+    {
+        "title": "The Call of Gideon",
+        "book": "JDG",
+        "chapter": 6,
+        "startVerse": 11,
+        "endVerse": 24,
+        "numWords": 491,
+        "numChars": 2456
+    },
+    {
+        "title": "Gideon Destroys Baal’s Altar",
+        "book": "JDG",
+        "chapter": 6,
+        "startVerse": 25,
+        "endVerse": 32,
+        "numWords": 272,
+        "numChars": 1365
+    },
+    {
+        "title": "The Sign of the Fleece",
+        "book": "JDG",
+        "chapter": 6,
+        "startVerse": 33,
+        "endVerse": 40,
+        "numWords": 210,
+        "numChars": 1079
+    },
+    {
+        "title": "Gideon’s Army of Three Hundred",
+        "book": "JDG",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 295,
+        "numChars": 1516
+    },
+    {
+        "title": "The Sword of Gideon",
+        "book": "JDG",
+        "chapter": 7,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 184,
+        "numChars": 955
+    },
+    {
+        "title": "Gideon Defeats Midian",
+        "book": "JDG",
+        "chapter": 7,
+        "startVerse": 15,
+        "endVerse": 25,
+        "numWords": 393,
+        "numChars": 2103
+    },
+    {
+        "title": "Gideon Defeats Zebah and Zalmunna",
+        "book": "JDG",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 576,
+        "numChars": 3060
+    },
+    {
+        "title": "Gideon’s Ephod",
+        "book": "JDG",
+        "chapter": 8,
+        "startVerse": 22,
+        "endVerse": 27,
+        "numWords": 164,
+        "numChars": 900
+    },
+    {
+        "title": "Forty Years of Peace",
+        "book": "JDG",
+        "chapter": 8,
+        "startVerse": 28,
+        "endVerse": 31,
+        "numWords": 95,
+        "numChars": 505
+    },
+    {
+        "title": "Gideon’s Death",
+        "book": "JDG",
+        "chapter": 8,
+        "startVerse": 32,
+        "endVerse": 35,
+        "numWords": 96,
+        "numChars": 507
+    },
+    {
+        "title": "Abimelech’s Conspiracy",
+        "book": "JDG",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 215,
+        "numChars": 1206
+    },
+    {
+        "title": "Jotham’s Parable",
+        "book": "JDG",
+        "chapter": 9,
+        "startVerse": 7,
+        "endVerse": 21,
+        "numWords": 237,
+        "numChars": 1228
+    },
+    {
+        "title": "Gaal Conspires with the Shechemites",
+        "book": "JDG",
+        "chapter": 9,
+        "startVerse": 22,
+        "endVerse": 29,
+        "numWords": 252,
+        "numChars": 1377
+    },
+    {
+        "title": "The Fall of Shechem",
+        "book": "JDG",
+        "chapter": 9,
+        "startVerse": 30,
+        "endVerse": 49,
+        "numWords": 549,
+        "numChars": 2902
+    },
+    {
+        "title": "Abimelech’s Punishment",
+        "book": "JDG",
+        "chapter": 9,
+        "startVerse": 50,
+        "endVerse": 57,
+        "numWords": 155,
+        "numChars": 845
+    },
+    {
+        "title": "Tola",
+        "book": "JDG",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 58,
+        "numChars": 303
+    },
+    {
+        "title": "Jair",
+        "book": "JDG",
+        "chapter": 10,
+        "startVerse": 3,
+        "endVerse": 5,
+        "numWords": 51,
+        "numChars": 281
+    },
+    {
+        "title": "Oppression by the Philistines and Ammonites",
+        "book": "JDG",
+        "chapter": 10,
+        "startVerse": 6,
+        "endVerse": 18,
+        "numWords": 308,
+        "numChars": 1667
+    },
+    {
+        "title": "Jephthah Delivers Israel",
+        "book": "JDG",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 732,
+        "numChars": 3862
+    },
+    {
+        "title": "Jephthah’s Tragic Vow",
+        "book": "JDG",
+        "chapter": 11,
+        "startVerse": 29,
+        "endVerse": 40,
+        "numWords": 322,
+        "numChars": 1681
+    },
+    {
+        "title": "Jephthah Defeats Ephraim",
+        "book": "JDG",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 208,
+        "numChars": 1141
+    },
+    {
+        "title": "Ibzan, Elon, and Abdon",
+        "book": "JDG",
+        "chapter": 12,
+        "startVerse": 8,
+        "endVerse": 15,
+        "numWords": 127,
+        "numChars": 720
+    },
+    {
+        "title": "The Birth of Samson",
+        "book": "JDG",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 713,
+        "numChars": 3529
+    },
+    {
+        "title": "Samson’s Marriage",
+        "book": "JDG",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 192,
+        "numChars": 989
+    },
+    {
+        "title": "Samson’s Riddle",
+        "book": "JDG",
+        "chapter": 14,
+        "startVerse": 8,
+        "endVerse": 20,
+        "numWords": 371,
+        "numChars": 1883
+    },
+    {
+        "title": "Samson’s Revenge",
+        "book": "JDG",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 519,
+        "numChars": 2747
+    },
+    {
+        "title": "Samson Escapes Gaza",
+        "book": "JDG",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 109,
+        "numChars": 560
+    },
+    {
+        "title": "Samson and Delilah",
+        "book": "JDG",
+        "chapter": 16,
+        "startVerse": 4,
+        "endVerse": 14,
+        "numWords": 314,
+        "numChars": 1612
+    },
+    {
+        "title": "Delilah Learns the Secret",
+        "book": "JDG",
+        "chapter": 16,
+        "startVerse": 15,
+        "endVerse": 22,
+        "numWords": 243,
+        "numChars": 1216
+    },
+    {
+        "title": "Samson’s Vengeance and Death",
+        "book": "JDG",
+        "chapter": 16,
+        "startVerse": 23,
+        "endVerse": 31,
+        "numWords": 240,
+        "numChars": 1320
+    },
+    {
+        "title": "Micah’s Idolatry",
+        "book": "JDG",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 368,
+        "numChars": 1874
+    },
+    {
+        "title": "The Danites Settle in Laish",
+        "book": "JDG",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 357,
+        "numChars": 1889
+    },
+    {
+        "title": "The Danites Take Micah’s Idols",
+        "book": "JDG",
+        "chapter": 18,
+        "startVerse": 14,
+        "endVerse": 31,
+        "numWords": 529,
+        "numChars": 2748
+    },
+    {
+        "title": "The Crime of the Benjamites",
+        "book": "JDG",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 30,
+        "numWords": 954,
+        "numChars": 4889
+    },
+    {
+        "title": "The Decree of the Assembly",
+        "book": "JDG",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 409,
+        "numChars": 2238
+    },
+    {
+        "title": "Civil War against Benjamin",
+        "book": "JDG",
+        "chapter": 20,
+        "startVerse": 18,
+        "endVerse": 48,
+        "numWords": 700,
+        "numChars": 3853
+    },
+    {
+        "title": "Wives for the Benjamites",
+        "book": "JDG",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 662,
+        "numChars": 3523
+    }
+]

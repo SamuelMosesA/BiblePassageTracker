@@ -1,0 +1,1019 @@
+[
+    {
+        "title": "The First Census of Israel",
+        "book": "NUM",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 102,
+        "numChars": 520
+    },
+    {
+        "title": "The Leaders of the Tribes",
+        "book": "NUM",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 16,
+        "numWords": 96,
+        "numChars": 536
+    },
+    {
+        "title": "The Number of Every Tribe",
+        "book": "NUM",
+        "chapter": 1,
+        "startVerse": 17,
+        "endVerse": 46,
+        "numWords": 609,
+        "numChars": 3198
+    },
+    {
+        "title": "The Exemption of the Levites",
+        "book": "NUM",
+        "chapter": 1,
+        "startVerse": 47,
+        "endVerse": 54,
+        "numWords": 179,
+        "numChars": 964
+    },
+    {
+        "title": "The Order of the Camps",
+        "book": "NUM",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 34,
+        "numWords": 523,
+        "numChars": 2696
+    },
+    {
+        "title": "The Sons of Aaron",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 97,
+        "numChars": 540
+    },
+    {
+        "title": "The Duties of the Levites",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 5,
+        "endVerse": 13,
+        "numWords": 210,
+        "numChars": 1127
+    },
+    {
+        "title": "The Numbering of the Levites",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 20,
+        "numWords": 111,
+        "numChars": 584
+    },
+    {
+        "title": "The Gershonites",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 21,
+        "endVerse": 26,
+        "numWords": 111,
+        "numChars": 605
+    },
+    {
+        "title": "The Kohathites",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 27,
+        "endVerse": 32,
+        "numWords": 152,
+        "numChars": 843
+    },
+    {
+        "title": "The Merarites",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 33,
+        "endVerse": 37,
+        "numWords": 94,
+        "numChars": 510
+    },
+    {
+        "title": "Moses and Aaron",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 38,
+        "endVerse": 39,
+        "numWords": 81,
+        "numChars": 434
+    },
+    {
+        "title": "The Redemption of the Firstborn",
+        "book": "NUM",
+        "chapter": 3,
+        "startVerse": 40,
+        "endVerse": 51,
+        "numWords": 271,
+        "numChars": 1483
+    },
+    {
+        "title": "The Duties of the Kohathites",
+        "book": "NUM",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 545,
+        "numChars": 2822
+    },
+    {
+        "title": "The Duties of the Gershonites",
+        "book": "NUM",
+        "chapter": 4,
+        "startVerse": 21,
+        "endVerse": 28,
+        "numWords": 196,
+        "numChars": 1052
+    },
+    {
+        "title": "The Duties of the Merarites",
+        "book": "NUM",
+        "chapter": 4,
+        "startVerse": 29,
+        "endVerse": 33,
+        "numWords": 129,
+        "numChars": 690
+    },
+    {
+        "title": "The Numbering of the Levite Clans",
+        "book": "NUM",
+        "chapter": 4,
+        "startVerse": 34,
+        "endVerse": 49,
+        "numWords": 266,
+        "numChars": 1441
+    },
+    {
+        "title": "Cleansing the Camps",
+        "book": "NUM",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 100,
+        "numChars": 552
+    },
+    {
+        "title": "Restitution for Trespasses",
+        "book": "NUM",
+        "chapter": 5,
+        "startVerse": 5,
+        "endVerse": 10,
+        "numWords": 135,
+        "numChars": 711
+    },
+    {
+        "title": "The Adultery Test",
+        "book": "NUM",
+        "chapter": 5,
+        "startVerse": 11,
+        "endVerse": 31,
+        "numWords": 557,
+        "numChars": 2875
+    },
+    {
+        "title": "The Nazirite Vow",
+        "book": "NUM",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 633,
+        "numChars": 3331
+    },
+    {
+        "title": "Aaron’s Blessing",
+        "book": "NUM",
+        "chapter": 6,
+        "startVerse": 22,
+        "endVerse": 27,
+        "numWords": 62,
+        "numChars": 294
+    },
+    {
+        "title": "Offerings of Dedication",
+        "book": "NUM",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 89,
+        "numWords": 1857,
+        "numChars": 10282
+    },
+    {
+        "title": "The Lampstand",
+        "book": "NUM",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 83,
+        "numChars": 427
+    },
+    {
+        "title": "Cleansing the Levites",
+        "book": "NUM",
+        "chapter": 8,
+        "startVerse": 5,
+        "endVerse": 22,
+        "numWords": 469,
+        "numChars": 2479
+    },
+    {
+        "title": "Retirement for Levites",
+        "book": "NUM",
+        "chapter": 8,
+        "startVerse": 23,
+        "endVerse": 26,
+        "numWords": 86,
+        "numChars": 453
+    },
+    {
+        "title": "The Second Passover",
+        "book": "NUM",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 385,
+        "numChars": 2032
+    },
+    {
+        "title": "The Cloud above the Tabernacle",
+        "book": "NUM",
+        "chapter": 9,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 262,
+        "numChars": 1460
+    },
+    {
+        "title": "The Two Silver Trumpets",
+        "book": "NUM",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 230,
+        "numChars": 1207
+    },
+    {
+        "title": "From Sinai to Paran",
+        "book": "NUM",
+        "chapter": 10,
+        "startVerse": 11,
+        "endVerse": 36,
+        "numWords": 504,
+        "numChars": 2624
+    },
+    {
+        "title": "The Complaints of the People",
+        "book": "NUM",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 201,
+        "numChars": 1062
+    },
+    {
+        "title": "The Complaint of Moses",
+        "book": "NUM",
+        "chapter": 11,
+        "startVerse": 10,
+        "endVerse": 15,
+        "numWords": 168,
+        "numChars": 847
+    },
+    {
+        "title": "Seventy Elders Anointed",
+        "book": "NUM",
+        "chapter": 11,
+        "startVerse": 16,
+        "endVerse": 30,
+        "numWords": 461,
+        "numChars": 2339
+    },
+    {
+        "title": "The Quail and the Plague",
+        "book": "NUM",
+        "chapter": 11,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 167,
+        "numChars": 930
+    },
+    {
+        "title": "The Complaint of Miriam and Aaron",
+        "book": "NUM",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 326,
+        "numChars": 1681
+    },
+    {
+        "title": "The Spies Explore Canaan",
+        "book": "NUM",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 411,
+        "numChars": 2114
+    },
+    {
+        "title": "The Reports of the Spies",
+        "book": "NUM",
+        "chapter": 13,
+        "startVerse": 25,
+        "endVerse": 33,
+        "numWords": 249,
+        "numChars": 1327
+    },
+    {
+        "title": "Israel’s Rebellion",
+        "book": "NUM",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 292,
+        "numChars": 1516
+    },
+    {
+        "title": "Moses Intercedes for Israel",
+        "book": "NUM",
+        "chapter": 14,
+        "startVerse": 13,
+        "endVerse": 19,
+        "numWords": 252,
+        "numChars": 1353
+    },
+    {
+        "title": "God’s Forgiveness and Judgment",
+        "book": "NUM",
+        "chapter": 14,
+        "startVerse": 20,
+        "endVerse": 35,
+        "numWords": 375,
+        "numChars": 2013
+    },
+    {
+        "title": "The Plague on the Ten Spies",
+        "book": "NUM",
+        "chapter": 14,
+        "startVerse": 36,
+        "endVerse": 39,
+        "numWords": 88,
+        "numChars": 463
+    },
+    {
+        "title": "The Defeat at Hormah",
+        "book": "NUM",
+        "chapter": 14,
+        "startVerse": 40,
+        "endVerse": 45,
+        "numWords": 155,
+        "numChars": 793
+    },
+    {
+        "title": "Laws about Offerings",
+        "book": "NUM",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 594,
+        "numChars": 3004
+    },
+    {
+        "title": "Offerings for Unintentional Sins",
+        "book": "NUM",
+        "chapter": 15,
+        "startVerse": 22,
+        "endVerse": 31,
+        "numWords": 285,
+        "numChars": 1614
+    },
+    {
+        "title": "A Sabbath-Breaker Stoned",
+        "book": "NUM",
+        "chapter": 15,
+        "startVerse": 32,
+        "endVerse": 36,
+        "numWords": 97,
+        "numChars": 518
+    },
+    {
+        "title": "The Law of Tassels",
+        "book": "NUM",
+        "chapter": 15,
+        "startVerse": 37,
+        "endVerse": 41,
+        "numWords": 121,
+        "numChars": 612
+    },
+    {
+        "title": "Korah’s Rebellion",
+        "book": "NUM",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 604,
+        "numChars": 3210
+    },
+    {
+        "title": "Moses Separates the People",
+        "book": "NUM",
+        "chapter": 16,
+        "startVerse": 23,
+        "endVerse": 27,
+        "numWords": 106,
+        "numChars": 572
+    },
+    {
+        "title": "The Earth Swallows Korah",
+        "book": "NUM",
+        "chapter": 16,
+        "startVerse": 28,
+        "endVerse": 35,
+        "numWords": 186,
+        "numChars": 974
+    },
+    {
+        "title": "The Censers Reserved for Holy Use",
+        "book": "NUM",
+        "chapter": 16,
+        "startVerse": 36,
+        "endVerse": 40,
+        "numWords": 147,
+        "numChars": 768
+    },
+    {
+        "title": "Murmuring and Plague",
+        "book": "NUM",
+        "chapter": 16,
+        "startVerse": 41,
+        "endVerse": 50,
+        "numWords": 219,
+        "numChars": 1180
+    },
+    {
+        "title": "Aaron’s Staff Buds",
+        "book": "NUM",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 300,
+        "numChars": 1580
+    },
+    {
+        "title": "Duties of Priests and Levites",
+        "book": "NUM",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 241,
+        "numChars": 1246
+    },
+    {
+        "title": "Offerings for Priests and Levites",
+        "book": "NUM",
+        "chapter": 18,
+        "startVerse": 8,
+        "endVerse": 32,
+        "numWords": 775,
+        "numChars": 4120
+    },
+    {
+        "title": "The Red Heifer",
+        "book": "NUM",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 272,
+        "numChars": 1448
+    },
+    {
+        "title": "Purification of the Unclean",
+        "book": "NUM",
+        "chapter": 19,
+        "startVerse": 11,
+        "endVerse": 22,
+        "numWords": 402,
+        "numChars": 2122
+    },
+    {
+        "title": "Water from the Rock",
+        "book": "NUM",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 337,
+        "numChars": 1807
+    },
+    {
+        "title": "Edom Refuses Passage",
+        "book": "NUM",
+        "chapter": 20,
+        "startVerse": 14,
+        "endVerse": 21,
+        "numWords": 215,
+        "numChars": 1109
+    },
+    {
+        "title": "The Death of Aaron",
+        "book": "NUM",
+        "chapter": 20,
+        "startVerse": 22,
+        "endVerse": 29,
+        "numWords": 171,
+        "numChars": 910
+    },
+    {
+        "title": "The Defeat of Arad",
+        "book": "NUM",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 112,
+        "numChars": 634
+    },
+    {
+        "title": "The Bronze Serpent",
+        "book": "NUM",
+        "chapter": 21,
+        "startVerse": 4,
+        "endVerse": 9,
+        "numWords": 177,
+        "numChars": 888
+    },
+    {
+        "title": "The Journey to Moab",
+        "book": "NUM",
+        "chapter": 21,
+        "startVerse": 10,
+        "endVerse": 20,
+        "numWords": 147,
+        "numChars": 772
+    },
+    {
+        "title": "The Defeat of Sihon",
+        "book": "NUM",
+        "chapter": 21,
+        "startVerse": 21,
+        "endVerse": 30,
+        "numWords": 204,
+        "numChars": 1097
+    },
+    {
+        "title": "The Defeat of Og",
+        "book": "NUM",
+        "chapter": 21,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 123,
+        "numChars": 612
+    },
+    {
+        "title": "Balak Summons Balaam",
+        "book": "NUM",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 507,
+        "numChars": 2561
+    },
+    {
+        "title": "The Angel and Balaam’s Donkey",
+        "book": "NUM",
+        "chapter": 22,
+        "startVerse": 22,
+        "endVerse": 41,
+        "numWords": 571,
+        "numChars": 2877
+    },
+    {
+        "title": "Balaam’s First Oracle",
+        "book": "NUM",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 209,
+        "numChars": 1051
+    },
+    {
+        "title": "Balaam’s Second Oracle",
+        "book": "NUM",
+        "chapter": 23,
+        "startVerse": 13,
+        "endVerse": 30,
+        "numWords": 282,
+        "numChars": 1439
+    },
+    {
+        "title": "Balaam’s Third Oracle",
+        "book": "NUM",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 106,
+        "numChars": 525
+    },
+    {
+        "title": "Balak Dismisses Balaam",
+        "book": "NUM",
+        "chapter": 24,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 138,
+        "numChars": 708
+    },
+    {
+        "title": "Balaam’s Fourth Oracle",
+        "book": "NUM",
+        "chapter": 24,
+        "startVerse": 15,
+        "endVerse": 19,
+        "numWords": 37,
+        "numChars": 168
+    },
+    {
+        "title": "Balaam’s Final Three Oracles",
+        "book": "NUM",
+        "chapter": 24,
+        "startVerse": 20,
+        "endVerse": 25,
+        "numWords": 59,
+        "numChars": 322
+    },
+    {
+        "title": "Moab Seduces Israel",
+        "book": "NUM",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 117,
+        "numChars": 612
+    },
+    {
+        "title": "The Zeal of Phinehas",
+        "book": "NUM",
+        "chapter": 25,
+        "startVerse": 6,
+        "endVerse": 18,
+        "numWords": 272,
+        "numChars": 1447
+    },
+    {
+        "title": "The Second Census of Israel",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 105,
+        "numChars": 532
+    },
+    {
+        "title": "The Tribe of Reuben",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 5,
+        "endVerse": 11,
+        "numWords": 84,
+        "numChars": 453
+    },
+    {
+        "title": "The Tribe of Simeon",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 12,
+        "endVerse": 14,
+        "numWords": 39,
+        "numChars": 208
+    },
+    {
+        "title": "The Tribe of Gad",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 15,
+        "endVerse": 18,
+        "numWords": 40,
+        "numChars": 215
+    },
+    {
+        "title": "The Tribe of Judah",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 19,
+        "endVerse": 22,
+        "numWords": 44,
+        "numChars": 233
+    },
+    {
+        "title": "The Tribe of Issachar",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 23,
+        "endVerse": 25,
+        "numWords": 36,
+        "numChars": 210
+    },
+    {
+        "title": "The Tribe of Zebulun",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 26,
+        "endVerse": 27,
+        "numWords": 21,
+        "numChars": 125
+    },
+    {
+        "title": "The Tribe of Manasseh",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 28,
+        "endVerse": 34,
+        "numWords": 70,
+        "numChars": 416
+    },
+    {
+        "title": "The Tribe of Ephraim",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 35,
+        "endVerse": 37,
+        "numWords": 32,
+        "numChars": 190
+    },
+    {
+        "title": "The Tribe of Benjamin",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 38,
+        "endVerse": 41,
+        "numWords": 76,
+        "numChars": 436
+    },
+    {
+        "title": "The Tribe of Dan",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 42,
+        "endVerse": 43,
+        "numWords": 21,
+        "numChars": 122
+    },
+    {
+        "title": "The Tribe of Asher",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 44,
+        "endVerse": 47,
+        "numWords": 36,
+        "numChars": 205
+    },
+    {
+        "title": "The Tribe of Naphtali",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 48,
+        "endVerse": 51,
+        "numWords": 36,
+        "numChars": 200
+    },
+    {
+        "title": "Inheritance by Lot",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 52,
+        "endVerse": 56,
+        "numWords": 90,
+        "numChars": 495
+    },
+    {
+        "title": "The Levites Numbered",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 57,
+        "endVerse": 62,
+        "numWords": 103,
+        "numChars": 580
+    },
+    {
+        "title": "Only Caleb and Joshua Remain",
+        "book": "NUM",
+        "chapter": 26,
+        "startVerse": 63,
+        "endVerse": 65,
+        "numWords": 83,
+        "numChars": 449
+    },
+    {
+        "title": "The Daughters of Zelophehad",
+        "book": "NUM",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 252,
+        "numChars": 1413
+    },
+    {
+        "title": "Moses Requests a Successor",
+        "book": "NUM",
+        "chapter": 27,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 156,
+        "numChars": 818
+    },
+    {
+        "title": "Joshua to Succeed Moses",
+        "book": "NUM",
+        "chapter": 27,
+        "startVerse": 18,
+        "endVerse": 23,
+        "numWords": 139,
+        "numChars": 764
+    },
+    {
+        "title": "The Daily Offerings",
+        "book": "NUM",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 250,
+        "numChars": 1302
+    },
+    {
+        "title": "The Sabbath Offerings",
+        "book": "NUM",
+        "chapter": 28,
+        "startVerse": 9,
+        "endVerse": 10,
+        "numWords": 80,
+        "numChars": 450
+    },
+    {
+        "title": "The Monthly Offerings",
+        "book": "NUM",
+        "chapter": 28,
+        "startVerse": 11,
+        "endVerse": 15,
+        "numWords": 229,
+        "numChars": 1157
+    },
+    {
+        "title": "Passover and the Feast of Unleavened Bread",
+        "book": "NUM",
+        "chapter": 28,
+        "startVerse": 16,
+        "endVerse": 25,
+        "numWords": 194,
+        "numChars": 997
+    },
+    {
+        "title": "The Feast of Weeks",
+        "book": "NUM",
+        "chapter": 28,
+        "startVerse": 26,
+        "endVerse": 31,
+        "numWords": 160,
+        "numChars": 848
+    },
+    {
+        "title": "The Feast of Trumpets",
+        "book": "NUM",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 232,
+        "numChars": 1215
+    },
+    {
+        "title": "The Day of Atonement",
+        "book": "NUM",
+        "chapter": 29,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 125,
+        "numChars": 668
+    },
+    {
+        "title": "The Feast of Tabernacles",
+        "book": "NUM",
+        "chapter": 29,
+        "startVerse": 12,
+        "endVerse": 40,
+        "numWords": 647,
+        "numChars": 3543
+    },
+    {
+        "title": "Laws about Vows",
+        "book": "NUM",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 428,
+        "numChars": 2163
+    },
+    {
+        "title": "Vengeance on Midian",
+        "book": "NUM",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 495,
+        "numChars": 2737
+    },
+    {
+        "title": "Division of the Spoils",
+        "book": "NUM",
+        "chapter": 31,
+        "startVerse": 25,
+        "endVerse": 47,
+        "numWords": 322,
+        "numChars": 1627
+    },
+    {
+        "title": "The Voluntary Offering",
+        "book": "NUM",
+        "chapter": 31,
+        "startVerse": 48,
+        "endVerse": 54,
+        "numWords": 155,
+        "numChars": 912
+    },
+    {
+        "title": "The Tribes East of the Jordan",
+        "book": "NUM",
+        "chapter": 32,
+        "startVerse": 1,
+        "endVerse": 42,
+        "numWords": 950,
+        "numChars": 5201
+    },
+    {
+        "title": "Forty-Two Journeys of the Israelites",
+        "book": "NUM",
+        "chapter": 33,
+        "startVerse": 1,
+        "endVerse": 49,
+        "numWords": 761,
+        "numChars": 4169
+    },
+    {
+        "title": "Instructions for Occupying Canaan",
+        "book": "NUM",
+        "chapter": 33,
+        "startVerse": 50,
+        "endVerse": 56,
+        "numWords": 188,
+        "numChars": 944
+    },
+    {
+        "title": "The Boundaries of Canaan",
+        "book": "NUM",
+        "chapter": 34,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 322,
+        "numChars": 1715
+    },
+    {
+        "title": "Leaders to Divide the Land",
+        "book": "NUM",
+        "chapter": 34,
+        "startVerse": 16,
+        "endVerse": 29,
+        "numWords": 166,
+        "numChars": 867
+    },
+    {
+        "title": "Forty-Eight Cities for the Levites",
+        "book": "NUM",
+        "chapter": 35,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 240,
+        "numChars": 1333
+    },
+    {
+        "title": "Six Cities of Refuge",
+        "book": "NUM",
+        "chapter": 35,
+        "startVerse": 9,
+        "endVerse": 34,
+        "numWords": 642,
+        "numChars": 3265
+    },
+    {
+        "title": "Zelophehad’s Daughters Marry",
+        "book": "NUM",
+        "chapter": 36,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 350,
+        "numChars": 1998
+    }
+]

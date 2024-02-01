@@ -1,0 +1,821 @@
+[
+    {
+        "title": "The Command to Leave Horeb",
+        "book": "DEU",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 287,
+        "numChars": 1585
+    },
+    {
+        "title": "Moses Appoints Leaders",
+        "book": "DEU",
+        "chapter": 1,
+        "startVerse": 9,
+        "endVerse": 18,
+        "numWords": 215,
+        "numChars": 1136
+    },
+    {
+        "title": "Twelve Spies Sent Out",
+        "book": "DEU",
+        "chapter": 1,
+        "startVerse": 19,
+        "endVerse": 25,
+        "numWords": 200,
+        "numChars": 985
+    },
+    {
+        "title": "Israel’s Rebellion",
+        "book": "DEU",
+        "chapter": 1,
+        "startVerse": 26,
+        "endVerse": 33,
+        "numWords": 205,
+        "numChars": 992
+    },
+    {
+        "title": "Israel’s Penalty",
+        "book": "DEU",
+        "chapter": 1,
+        "startVerse": 34,
+        "endVerse": 40,
+        "numWords": 165,
+        "numChars": 837
+    },
+    {
+        "title": "The Defeat at Hormah",
+        "book": "DEU",
+        "chapter": 1,
+        "startVerse": 41,
+        "endVerse": 46,
+        "numWords": 162,
+        "numChars": 784
+    },
+    {
+        "title": "Wanderings in the Wilderness",
+        "book": "DEU",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 580,
+        "numChars": 3017
+    },
+    {
+        "title": "The Defeat of Sihon",
+        "book": "DEU",
+        "chapter": 2,
+        "startVerse": 24,
+        "endVerse": 37,
+        "numWords": 421,
+        "numChars": 2092
+    },
+    {
+        "title": "The Defeat of Og",
+        "book": "DEU",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 327,
+        "numChars": 1664
+    },
+    {
+        "title": "Land Division East of the Jordan",
+        "book": "DEU",
+        "chapter": 3,
+        "startVerse": 12,
+        "endVerse": 22,
+        "numWords": 348,
+        "numChars": 1792
+    },
+    {
+        "title": "Moses Forbidden to Cross the Jordan",
+        "book": "DEU",
+        "chapter": 3,
+        "startVerse": 23,
+        "endVerse": 29,
+        "numWords": 164,
+        "numChars": 824
+    },
+    {
+        "title": "An Exhortation to Obedience",
+        "book": "DEU",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 449,
+        "numChars": 2278
+    },
+    {
+        "title": "A Warning against Idolatry",
+        "book": "DEU",
+        "chapter": 4,
+        "startVerse": 15,
+        "endVerse": 31,
+        "numWords": 485,
+        "numChars": 2370
+    },
+    {
+        "title": "The LORD Alone Is God",
+        "book": "DEU",
+        "chapter": 4,
+        "startVerse": 32,
+        "endVerse": 40,
+        "numWords": 279,
+        "numChars": 1394
+    },
+    {
+        "title": "Cities of Refuge",
+        "book": "DEU",
+        "chapter": 4,
+        "startVerse": 41,
+        "endVerse": 43,
+        "numWords": 52,
+        "numChars": 317
+    },
+    {
+        "title": "Introduction to the Law",
+        "book": "DEU",
+        "chapter": 4,
+        "startVerse": 44,
+        "endVerse": 49,
+        "numWords": 148,
+        "numChars": 770
+    },
+    {
+        "title": "The Covenant at Horeb",
+        "book": "DEU",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 105,
+        "numChars": 567
+    },
+    {
+        "title": "The Ten Commandments",
+        "book": "DEU",
+        "chapter": 5,
+        "startVerse": 5,
+        "endVerse": 21,
+        "numWords": 518,
+        "numChars": 2760
+    },
+    {
+        "title": "Moses Intercedes for the People",
+        "book": "DEU",
+        "chapter": 5,
+        "startVerse": 22,
+        "endVerse": 33,
+        "numWords": 363,
+        "numChars": 1764
+    },
+    {
+        "title": "The Greatest Commandment",
+        "book": "DEU",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 535,
+        "numChars": 2661
+    },
+    {
+        "title": "Teach Your Children",
+        "book": "DEU",
+        "chapter": 6,
+        "startVerse": 20,
+        "endVerse": 25,
+        "numWords": 154,
+        "numChars": 789
+    },
+    {
+        "title": "Drive Out the Nations",
+        "book": "DEU",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 378,
+        "numChars": 2016
+    },
+    {
+        "title": "The Promises of God",
+        "book": "DEU",
+        "chapter": 7,
+        "startVerse": 12,
+        "endVerse": 26,
+        "numWords": 452,
+        "numChars": 2286
+    },
+    {
+        "title": "Remember the LORD Your God",
+        "book": "DEU",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 540,
+        "numChars": 2764
+    },
+    {
+        "title": "Assurance of Victory",
+        "book": "DEU",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 228,
+        "numChars": 1230
+    },
+    {
+        "title": "The Golden Calf",
+        "book": "DEU",
+        "chapter": 9,
+        "startVerse": 7,
+        "endVerse": 29,
+        "numWords": 704,
+        "numChars": 3671
+    },
+    {
+        "title": "New Stone Tablets",
+        "book": "DEU",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 332,
+        "numChars": 1694
+    },
+    {
+        "title": "A Call to Obedience",
+        "book": "DEU",
+        "chapter": 10,
+        "startVerse": 12,
+        "endVerse": 22,
+        "numWords": 259,
+        "numChars": 1314
+    },
+    {
+        "title": "Obedience and Discipline",
+        "book": "DEU",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 181,
+        "numChars": 950
+    },
+    {
+        "title": "God’s Great Blessings",
+        "book": "DEU",
+        "chapter": 11,
+        "startVerse": 8,
+        "endVerse": 17,
+        "numWords": 307,
+        "numChars": 1518
+    },
+    {
+        "title": "Remember God’s Words",
+        "book": "DEU",
+        "chapter": 11,
+        "startVerse": 18,
+        "endVerse": 25,
+        "numWords": 223,
+        "numChars": 1145
+    },
+    {
+        "title": "A Blessing and a Curse",
+        "book": "DEU",
+        "chapter": 11,
+        "startVerse": 26,
+        "endVerse": 32,
+        "numWords": 189,
+        "numChars": 964
+    },
+    {
+        "title": "One Place for Worship",
+        "book": "DEU",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 820,
+        "numChars": 4188
+    },
+    {
+        "title": "A Warning against Idolatry",
+        "book": "DEU",
+        "chapter": 12,
+        "startVerse": 29,
+        "endVerse": 32,
+        "numWords": 116,
+        "numChars": 609
+    },
+    {
+        "title": "Idolaters to Be Put to Death",
+        "book": "DEU",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 350,
+        "numChars": 1719
+    },
+    {
+        "title": "Idolatrous Cities to Be Destroyed",
+        "book": "DEU",
+        "chapter": 13,
+        "startVerse": 12,
+        "endVerse": 18,
+        "numWords": 238,
+        "numChars": 1266
+    },
+    {
+        "title": "Clean and Unclean Animals",
+        "book": "DEU",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 341,
+        "numChars": 1627
+    },
+    {
+        "title": "Giving Tithes",
+        "book": "DEU",
+        "chapter": 14,
+        "startVerse": 22,
+        "endVerse": 29,
+        "numWords": 259,
+        "numChars": 1293
+    },
+    {
+        "title": "The Seventh Year",
+        "book": "DEU",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 149,
+        "numChars": 787
+    },
+    {
+        "title": "Generosity in Lending and Giving",
+        "book": "DEU",
+        "chapter": 15,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 189,
+        "numChars": 924
+    },
+    {
+        "title": "Hebrew Servants",
+        "book": "DEU",
+        "chapter": 15,
+        "startVerse": 12,
+        "endVerse": 18,
+        "numWords": 194,
+        "numChars": 952
+    },
+    {
+        "title": "Firstborn Animals",
+        "book": "DEU",
+        "chapter": 15,
+        "startVerse": 19,
+        "endVerse": 23,
+        "numWords": 124,
+        "numChars": 603
+    },
+    {
+        "title": "Passover and the Feast of Unleavened Bread",
+        "book": "DEU",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 285,
+        "numChars": 1426
+    },
+    {
+        "title": "The Feast of Weeks",
+        "book": "DEU",
+        "chapter": 16,
+        "startVerse": 9,
+        "endVerse": 12,
+        "numWords": 119,
+        "numChars": 648
+    },
+    {
+        "title": "The Feast of Tabernacles",
+        "book": "DEU",
+        "chapter": 16,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 261,
+        "numChars": 1446
+    },
+    {
+        "title": "Judges and Justice",
+        "book": "DEU",
+        "chapter": 16,
+        "startVerse": 18,
+        "endVerse": 20,
+        "numWords": 82,
+        "numChars": 425
+    },
+    {
+        "title": "Forbidden Forms of Worship",
+        "book": "DEU",
+        "chapter": 16,
+        "startVerse": 21,
+        "endVerse": 22,
+        "numWords": 37,
+        "numChars": 173
+    },
+    {
+        "title": "Detestable Sacrifices",
+        "book": "DEU",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 1,
+        "numWords": 29,
+        "numChars": 139
+    },
+    {
+        "title": "Purge the Idolater",
+        "book": "DEU",
+        "chapter": 17,
+        "startVerse": 2,
+        "endVerse": 7,
+        "numWords": 166,
+        "numChars": 817
+    },
+    {
+        "title": "Courts of Law",
+        "book": "DEU",
+        "chapter": 17,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 174,
+        "numChars": 896
+    },
+    {
+        "title": "Guidelines for a King",
+        "book": "DEU",
+        "chapter": 17,
+        "startVerse": 14,
+        "endVerse": 20,
+        "numWords": 250,
+        "numChars": 1254
+    },
+    {
+        "title": "Provision for Priests and Levites",
+        "book": "DEU",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 194,
+        "numChars": 1039
+    },
+    {
+        "title": "Sorcery Forbidden",
+        "book": "DEU",
+        "chapter": 18,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 131,
+        "numChars": 734
+    },
+    {
+        "title": "A Prophet Like Moses",
+        "book": "DEU",
+        "chapter": 18,
+        "startVerse": 15,
+        "endVerse": 22,
+        "numWords": 244,
+        "numChars": 1203
+    },
+    {
+        "title": "Cities of Refuge",
+        "book": "DEU",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 422,
+        "numChars": 2143
+    },
+    {
+        "title": "The Testimony of Two or Three Witnesses",
+        "book": "DEU",
+        "chapter": 19,
+        "startVerse": 15,
+        "endVerse": 21,
+        "numWords": 179,
+        "numChars": 942
+    },
+    {
+        "title": "Laws of Warfare",
+        "book": "DEU",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 577,
+        "numChars": 2991
+    },
+    {
+        "title": "Atonement for an Unsolved Murder",
+        "book": "DEU",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 228,
+        "numChars": 1155
+    },
+    {
+        "title": "Marrying a Captive Woman",
+        "book": "DEU",
+        "chapter": 21,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 106,
+        "numChars": 508
+    },
+    {
+        "title": "Inheritance Rights of the Firstborn",
+        "book": "DEU",
+        "chapter": 21,
+        "startVerse": 15,
+        "endVerse": 17,
+        "numWords": 96,
+        "numChars": 498
+    },
+    {
+        "title": "A Rebellious Son",
+        "book": "DEU",
+        "chapter": 21,
+        "startVerse": 18,
+        "endVerse": 21,
+        "numWords": 112,
+        "numChars": 533
+    },
+    {
+        "title": "Cursed Is Anyone Hung on a Tree",
+        "book": "DEU",
+        "chapter": 21,
+        "startVerse": 22,
+        "endVerse": 23,
+        "numWords": 97,
+        "numChars": 476
+    },
+    {
+        "title": "Various Laws",
+        "book": "DEU",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 318,
+        "numChars": 1564
+    },
+    {
+        "title": "Marriage Violations",
+        "book": "DEU",
+        "chapter": 22,
+        "startVerse": 13,
+        "endVerse": 30,
+        "numWords": 555,
+        "numChars": 2823
+    },
+    {
+        "title": "Exclusion from the Congregation",
+        "book": "DEU",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 195,
+        "numChars": 1047
+    },
+    {
+        "title": "Uncleanness in the Camp",
+        "book": "DEU",
+        "chapter": 23,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 129,
+        "numChars": 686
+    },
+    {
+        "title": "Miscellaneous Laws",
+        "book": "DEU",
+        "chapter": 23,
+        "startVerse": 15,
+        "endVerse": 25,
+        "numWords": 256,
+        "numChars": 1275
+    },
+    {
+        "title": "Marriage and Divorce Laws",
+        "book": "DEU",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 169,
+        "numChars": 826
+    },
+    {
+        "title": "Additional Laws",
+        "book": "DEU",
+        "chapter": 24,
+        "startVerse": 6,
+        "endVerse": 22,
+        "numWords": 473,
+        "numChars": 2462
+    },
+    {
+        "title": "Fairness and Mercy",
+        "book": "DEU",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 100,
+        "numChars": 511
+    },
+    {
+        "title": "Widowhood and Marriage",
+        "book": "DEU",
+        "chapter": 25,
+        "startVerse": 5,
+        "endVerse": 12,
+        "numWords": 245,
+        "numChars": 1233
+    },
+    {
+        "title": "Standard Weights and Measures",
+        "book": "DEU",
+        "chapter": 25,
+        "startVerse": 13,
+        "endVerse": 16,
+        "numWords": 73,
+        "numChars": 392
+    },
+    {
+        "title": "Revenge on the Amalekites",
+        "book": "DEU",
+        "chapter": 25,
+        "startVerse": 17,
+        "endVerse": 19,
+        "numWords": 79,
+        "numChars": 397
+    },
+    {
+        "title": "Offering Firstfruits and Tithes",
+        "book": "DEU",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 467,
+        "numChars": 2389
+    },
+    {
+        "title": "Obey the LORD’s Commands",
+        "book": "DEU",
+        "chapter": 26,
+        "startVerse": 16,
+        "endVerse": 19,
+        "numWords": 122,
+        "numChars": 629
+    },
+    {
+        "title": "The Altar on Mount Ebal",
+        "book": "DEU",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 257,
+        "numChars": 1313
+    },
+    {
+        "title": "Curses Pronounced from Ebal",
+        "book": "DEU",
+        "chapter": 27,
+        "startVerse": 11,
+        "endVerse": 26,
+        "numWords": 248,
+        "numChars": 1376
+    },
+    {
+        "title": "The Blessings of Obedience",
+        "book": "DEU",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 354,
+        "numChars": 1751
+    },
+    {
+        "title": "The Curses of Disobedience",
+        "book": "DEU",
+        "chapter": 28,
+        "startVerse": 15,
+        "endVerse": 68,
+        "numWords": 1439,
+        "numChars": 7517
+    },
+    {
+        "title": "The Covenant in Moab",
+        "book": "DEU",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 29,
+        "numWords": 773,
+        "numChars": 3983
+    },
+    {
+        "title": "The Promise of Restoration",
+        "book": "DEU",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 325,
+        "numChars": 1663
+    },
+    {
+        "title": "The Choice of Life or Death",
+        "book": "DEU",
+        "chapter": 30,
+        "startVerse": 11,
+        "endVerse": 20,
+        "numWords": 308,
+        "numChars": 1512
+    },
+    {
+        "title": "Joshua to Succeed Moses",
+        "book": "DEU",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 252,
+        "numChars": 1250
+    },
+    {
+        "title": "The Reading of the Law",
+        "book": "DEU",
+        "chapter": 31,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 191,
+        "numChars": 1009
+    },
+    {
+        "title": "God Commissions Joshua",
+        "book": "DEU",
+        "chapter": 31,
+        "startVerse": 14,
+        "endVerse": 23,
+        "numWords": 328,
+        "numChars": 1712
+    },
+    {
+        "title": "The Law Placed in the Ark",
+        "book": "DEU",
+        "chapter": 31,
+        "startVerse": 24,
+        "endVerse": 29,
+        "numWords": 182,
+        "numChars": 911
+    },
+    {
+        "title": "Moses Begins His Song",
+        "book": "DEU",
+        "chapter": 31,
+        "startVerse": 30,
+        "endVerse": 30,
+        "numWords": 19,
+        "numChars": 102
+    },
+    {
+        "title": "The Song of Moses",
+        "book": "DEU",
+        "chapter": 32,
+        "startVerse": 1,
+        "endVerse": 47,
+        "numWords": 492,
+        "numChars": 2402
+    },
+    {
+        "title": "Moses’ Death Foretold",
+        "book": "DEU",
+        "chapter": 32,
+        "startVerse": 48,
+        "endVerse": 52,
+        "numWords": 127,
+        "numChars": 646
+    },
+    {
+        "title": "Moses Blesses the Twelve Tribes",
+        "book": "DEU",
+        "chapter": 33,
+        "startVerse": 1,
+        "endVerse": 29,
+        "numWords": 207,
+        "numChars": 1066
+    },
+    {
+        "title": "The Death of Moses",
+        "book": "DEU",
+        "chapter": 34,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 343,
+        "numChars": 1700
+    }
+]

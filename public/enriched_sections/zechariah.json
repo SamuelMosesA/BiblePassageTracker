@@ -1,0 +1,227 @@
+[
+    {
+        "title": "A Call to Repentance",
+        "book": "ZEC",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 154,
+        "numChars": 791
+    },
+    {
+        "title": "The Vision of the Horses",
+        "book": "ZEC",
+        "chapter": 1,
+        "startVerse": 7,
+        "endVerse": 17,
+        "numWords": 320,
+        "numChars": 1725
+    },
+    {
+        "title": "The Vision of the Horns and the Craftsmen",
+        "book": "ZEC",
+        "chapter": 1,
+        "startVerse": 18,
+        "endVerse": 21,
+        "numWords": 36,
+        "numChars": 178
+    },
+    {
+        "title": "The Vision of the Measuring Line",
+        "book": "ZEC",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 89,
+        "numChars": 430
+    },
+    {
+        "title": "The Redemption of Zion",
+        "book": "ZEC",
+        "chapter": 2,
+        "startVerse": 6,
+        "endVerse": 13,
+        "numWords": 222,
+        "numChars": 1114
+    },
+    {
+        "title": "The Vision of Joshua the High Priest",
+        "book": "ZEC",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 302,
+        "numChars": 1555
+    },
+    {
+        "title": "The Vision of the Lampstand and Olive Trees",
+        "book": "ZEC",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 299,
+        "numChars": 1515
+    },
+    {
+        "title": "The Vision of the Flying Scroll",
+        "book": "ZEC",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 108,
+        "numChars": 535
+    },
+    {
+        "title": "The Vision of the Woman in a Basket",
+        "book": "ZEC",
+        "chapter": 5,
+        "startVerse": 5,
+        "endVerse": 11,
+        "numWords": 149,
+        "numChars": 759
+    },
+    {
+        "title": "The Vision of the Four Chariots",
+        "book": "ZEC",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 185,
+        "numChars": 962
+    },
+    {
+        "title": "The Crown and the Temple",
+        "book": "ZEC",
+        "chapter": 6,
+        "startVerse": 9,
+        "endVerse": 15,
+        "numWords": 241,
+        "numChars": 1209
+    },
+    {
+        "title": "A Call to Justice and Mercy",
+        "book": "ZEC",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 435,
+        "numChars": 2387
+    },
+    {
+        "title": "The Restoration of Jerusalem",
+        "book": "ZEC",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 659,
+        "numChars": 3290
+    },
+    {
+        "title": "The Burden against Israel’s Enemies",
+        "book": "ZEC",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 59,
+        "numChars": 287
+    },
+    {
+        "title": "Zion’s Coming King",
+        "book": "ZEC",
+        "chapter": 9,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 40,
+        "numChars": 192
+    },
+    {
+        "title": "The LORD Will Save His People",
+        "book": "ZEC",
+        "chapter": 9,
+        "startVerse": 14,
+        "endVerse": 17,
+        "numWords": 31,
+        "numChars": 140
+    },
+    {
+        "title": "Judah and Israel Will Be Restored",
+        "book": "ZEC",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 88,
+        "numChars": 422
+    },
+    {
+        "title": "The Doomed Flock",
+        "book": "ZEC",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 187,
+        "numChars": 988
+    },
+    {
+        "title": "Thirty Pieces of Silver",
+        "book": "ZEC",
+        "chapter": 11,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 207,
+        "numChars": 1035
+    },
+    {
+        "title": "The Coming Deliverance of Jerusalem",
+        "book": "ZEC",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 271,
+        "numChars": 1397
+    },
+    {
+        "title": "Mourning the One They Pierced",
+        "book": "ZEC",
+        "chapter": 12,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 146,
+        "numChars": 710
+    },
+    {
+        "title": "An End to Idolatry",
+        "book": "ZEC",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 212,
+        "numChars": 1088
+    },
+    {
+        "title": "The Shepherd Struck, the Sheep Scattered",
+        "book": "ZEC",
+        "chapter": 13,
+        "startVerse": 7,
+        "endVerse": 9,
+        "numWords": 21,
+        "numChars": 97
+    },
+    {
+        "title": "The Destroyers of Jerusalem Destroyed",
+        "book": "ZEC",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 465,
+        "numChars": 2413
+    },
+    {
+        "title": "All Nations Will Worship the King",
+        "book": "ZEC",
+        "chapter": 14,
+        "startVerse": 16,
+        "endVerse": 21,
+        "numWords": 255,
+        "numChars": 1309
+    }
+]

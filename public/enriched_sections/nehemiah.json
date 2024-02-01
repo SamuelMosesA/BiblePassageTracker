@@ -1,0 +1,254 @@
+[
+    {
+        "title": "Nehemiah’s Prayer",
+        "book": "NEH",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 301,
+        "numChars": 1618
+    },
+    {
+        "title": "Nehemiah Sent to Jerusalem",
+        "book": "NEH",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 342,
+        "numChars": 1728
+    },
+    {
+        "title": "Nehemiah Inspects the Walls",
+        "book": "NEH",
+        "chapter": 2,
+        "startVerse": 11,
+        "endVerse": 20,
+        "numWords": 307,
+        "numChars": 1531
+    },
+    {
+        "title": "The Builders of the Walls",
+        "book": "NEH",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 32,
+        "numWords": 935,
+        "numChars": 5180
+    },
+    {
+        "title": "The Work Ridiculed",
+        "book": "NEH",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 237,
+        "numChars": 1289
+    },
+    {
+        "title": "Discouragement Overcome",
+        "book": "NEH",
+        "chapter": 4,
+        "startVerse": 9,
+        "endVerse": 23,
+        "numWords": 381,
+        "numChars": 1974
+    },
+    {
+        "title": "Nehemiah Defends the Oppressed",
+        "book": "NEH",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 326,
+        "numChars": 1780
+    },
+    {
+        "title": "Nehemiah’s Generosity",
+        "book": "NEH",
+        "chapter": 5,
+        "startVerse": 14,
+        "endVerse": 19,
+        "numWords": 194,
+        "numChars": 1067
+    },
+    {
+        "title": "Sanballat’s Conspiracy",
+        "book": "NEH",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 350,
+        "numChars": 1783
+    },
+    {
+        "title": "Completion of the Wall",
+        "book": "NEH",
+        "chapter": 6,
+        "startVerse": 15,
+        "endVerse": 19,
+        "numWords": 136,
+        "numChars": 777
+    },
+    {
+        "title": "Securing the City",
+        "book": "NEH",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 98,
+        "numChars": 529
+    },
+    {
+        "title": "The List of Returning Exiles",
+        "book": "NEH",
+        "chapter": 7,
+        "startVerse": 4,
+        "endVerse": 69,
+        "numWords": 657,
+        "numChars": 3714
+    },
+    {
+        "title": "Offerings by the Exiles",
+        "book": "NEH",
+        "chapter": 7,
+        "startVerse": 70,
+        "endVerse": 73,
+        "numWords": 186,
+        "numChars": 1002
+    },
+    {
+        "title": "Ezra Reads the Law",
+        "book": "NEH",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 379,
+        "numChars": 2097
+    },
+    {
+        "title": "The Feast of Tabernacles",
+        "book": "NEH",
+        "chapter": 8,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 248,
+        "numChars": 1343
+    },
+    {
+        "title": "The People Confess Their Sins",
+        "book": "NEH",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 38,
+        "numWords": 416,
+        "numChars": 2282
+    },
+    {
+        "title": "Signers of the Covenant",
+        "book": "NEH",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 128,
+        "numChars": 789
+    },
+    {
+        "title": "The Vows of the Covenant",
+        "book": "NEH",
+        "chapter": 10,
+        "startVerse": 28,
+        "endVerse": 39,
+        "numWords": 501,
+        "numChars": 2636
+    },
+    {
+        "title": "Jerusalem’s New Settlers",
+        "book": "NEH",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 354,
+        "numChars": 2000
+    },
+    {
+        "title": "Residents Outside Jerusalem",
+        "book": "NEH",
+        "chapter": 11,
+        "startVerse": 20,
+        "endVerse": 36,
+        "numWords": 258,
+        "numChars": 1477
+    },
+    {
+        "title": "The Priests and Levites Who Returned",
+        "book": "NEH",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 26,
+        "numWords": 410,
+        "numChars": 2363
+    },
+    {
+        "title": "The Dedication of the Wall",
+        "book": "NEH",
+        "chapter": 12,
+        "startVerse": 27,
+        "endVerse": 43,
+        "numWords": 423,
+        "numChars": 2402
+    },
+    {
+        "title": "Provisions for Temple Worship",
+        "book": "NEH",
+        "chapter": 12,
+        "startVerse": 44,
+        "endVerse": 47,
+        "numWords": 144,
+        "numChars": 853
+    },
+    {
+        "title": "Foreigners Excluded",
+        "book": "NEH",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 88,
+        "numChars": 470
+    },
+    {
+        "title": "The Temple Cleansed",
+        "book": "NEH",
+        "chapter": 13,
+        "startVerse": 4,
+        "endVerse": 9,
+        "numWords": 197,
+        "numChars": 1109
+    },
+    {
+        "title": "Tithes Restored",
+        "book": "NEH",
+        "chapter": 13,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 137,
+        "numChars": 769
+    },
+    {
+        "title": "The Sabbath Restored",
+        "book": "NEH",
+        "chapter": 13,
+        "startVerse": 15,
+        "endVerse": 22,
+        "numWords": 254,
+        "numChars": 1348
+    },
+    {
+        "title": "Intermarriage Forbidden",
+        "book": "NEH",
+        "chapter": 13,
+        "startVerse": 23,
+        "endVerse": 31,
+        "numWords": 208,
+        "numChars": 1126
+    }
+]

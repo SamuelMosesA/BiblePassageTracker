@@ -1,0 +1,155 @@
+[
+    {
+        "title": "Paul’s Greeting to the Ephesians",
+        "book": "EPH",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 26,
+        "numChars": 121
+    },
+    {
+        "title": "Spiritual Blessings",
+        "book": "EPH",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 14,
+        "numWords": 250,
+        "numChars": 1310
+    },
+    {
+        "title": "Spiritual Wisdom",
+        "book": "EPH",
+        "chapter": 1,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 206,
+        "numChars": 1036
+    },
+    {
+        "title": "Alive with Christ",
+        "book": "EPH",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 226,
+        "numChars": 1129
+    },
+    {
+        "title": "One in Christ",
+        "book": "EPH",
+        "chapter": 2,
+        "startVerse": 11,
+        "endVerse": 18,
+        "numWords": 177,
+        "numChars": 954
+    },
+    {
+        "title": "Christ Our Cornerstone",
+        "book": "EPH",
+        "chapter": 2,
+        "startVerse": 19,
+        "endVerse": 22,
+        "numWords": 71,
+        "numChars": 394
+    },
+    {
+        "title": "The Mystery of the Gospel",
+        "book": "EPH",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 295,
+        "numChars": 1592
+    },
+    {
+        "title": "Paul’s Prayer for the Ephesians",
+        "book": "EPH",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 21,
+        "numWords": 168,
+        "numChars": 837
+    },
+    {
+        "title": "Unity in the Body",
+        "book": "EPH",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 315,
+        "numChars": 1590
+    },
+    {
+        "title": "New Life in Christ",
+        "book": "EPH",
+        "chapter": 4,
+        "startVerse": 17,
+        "endVerse": 32,
+        "numWords": 322,
+        "numChars": 1649
+    },
+    {
+        "title": "Imitators of God",
+        "book": "EPH",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 143,
+        "numChars": 755
+    },
+    {
+        "title": "Children of Light",
+        "book": "EPH",
+        "chapter": 5,
+        "startVerse": 8,
+        "endVerse": 20,
+        "numWords": 183,
+        "numChars": 1002
+    },
+    {
+        "title": "Wives and Husbands",
+        "book": "EPH",
+        "chapter": 5,
+        "startVerse": 21,
+        "endVerse": 33,
+        "numWords": 239,
+        "numChars": 1252
+    },
+    {
+        "title": "Children and Parents",
+        "book": "EPH",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 67,
+        "numChars": 367
+    },
+    {
+        "title": "Serving with Honor",
+        "book": "EPH",
+        "chapter": 6,
+        "startVerse": 5,
+        "endVerse": 9,
+        "numWords": 114,
+        "numChars": 576
+    },
+    {
+        "title": "The Full Armor of God",
+        "book": "EPH",
+        "chapter": 6,
+        "startVerse": 10,
+        "endVerse": 20,
+        "numWords": 242,
+        "numChars": 1272
+    },
+    {
+        "title": "Final Greetings",
+        "book": "EPH",
+        "chapter": 6,
+        "startVerse": 21,
+        "endVerse": 24,
+        "numWords": 80,
+        "numChars": 410
+    }
+]

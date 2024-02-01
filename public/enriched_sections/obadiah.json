@@ -1,0 +1,20 @@
+[
+    {
+        "title": "The Destruction of Edom",
+        "book": "OBA",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 103,
+        "numChars": 486
+    },
+    {
+        "title": "The Deliverance of Israel",
+        "book": "OBA",
+        "chapter": 1,
+        "startVerse": 15,
+        "endVerse": 21,
+        "numWords": 77,
+        "numChars": 374
+    }
+]

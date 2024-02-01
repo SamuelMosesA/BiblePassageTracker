@@ -1,0 +1,227 @@
+[
+    {
+        "title": "Paul Greets the Corinthians",
+        "book": "2CO",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 30,
+        "numChars": 146
+    },
+    {
+        "title": "The God of All Comfort",
+        "book": "2CO",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 11,
+        "numWords": 253,
+        "numChars": 1313
+    },
+    {
+        "title": "Paul’s Change of Plans",
+        "book": "2CO",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 24,
+        "numWords": 339,
+        "numChars": 1645
+    },
+    {
+        "title": "Reaffirm Your Love",
+        "book": "2CO",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 220,
+        "numChars": 1075
+    },
+    {
+        "title": "Triumph in Christ",
+        "book": "2CO",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 177,
+        "numChars": 875
+    },
+    {
+        "title": "Ministers of a New Covenant",
+        "book": "2CO",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 130,
+        "numChars": 698
+    },
+    {
+        "title": "The Glory of the New Covenant",
+        "book": "2CO",
+        "chapter": 3,
+        "startVerse": 7,
+        "endVerse": 18,
+        "numWords": 243,
+        "numChars": 1268
+    },
+    {
+        "title": "The Light of the Gospel",
+        "book": "2CO",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 182,
+        "numChars": 950
+    },
+    {
+        "title": "Treasure in Jars of Clay",
+        "book": "2CO",
+        "chapter": 4,
+        "startVerse": 7,
+        "endVerse": 18,
+        "numWords": 269,
+        "numChars": 1373
+    },
+    {
+        "title": "Our Eternal Dwelling",
+        "book": "2CO",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 206,
+        "numChars": 1009
+    },
+    {
+        "title": "Ambassadors for Christ",
+        "book": "2CO",
+        "chapter": 5,
+        "startVerse": 11,
+        "endVerse": 21,
+        "numWords": 284,
+        "numChars": 1452
+    },
+    {
+        "title": "Paul’s Hardships and God’s Grace",
+        "book": "2CO",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 182,
+        "numChars": 1062
+    },
+    {
+        "title": "Do Not Be Unequally Yoked",
+        "book": "2CO",
+        "chapter": 6,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 81,
+        "numChars": 473
+    },
+    {
+        "title": "Paul’s Joy in the Corinthians",
+        "book": "2CO",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 415,
+        "numChars": 2205
+    },
+    {
+        "title": "Generosity Commended",
+        "book": "2CO",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 329,
+        "numChars": 1706
+    },
+    {
+        "title": "Titus Commended",
+        "book": "2CO",
+        "chapter": 8,
+        "startVerse": 16,
+        "endVerse": 24,
+        "numWords": 220,
+        "numChars": 1121
+    },
+    {
+        "title": "God Loves a Cheerful Giver",
+        "book": "2CO",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 363,
+        "numChars": 1993
+    },
+    {
+        "title": "Paul’s Apostolic Authority",
+        "book": "2CO",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 423,
+        "numChars": 2255
+    },
+    {
+        "title": "Paul and the False Apostles",
+        "book": "2CO",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 343,
+        "numChars": 1776
+    },
+    {
+        "title": "Paul’s Suffering and Service",
+        "book": "2CO",
+        "chapter": 11,
+        "startVerse": 16,
+        "endVerse": 33,
+        "numWords": 374,
+        "numChars": 1855
+    },
+    {
+        "title": "Paul’s Revelation",
+        "book": "2CO",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 98,
+        "numChars": 464
+    },
+    {
+        "title": "Paul’s Thorn and God’s Grace",
+        "book": "2CO",
+        "chapter": 12,
+        "startVerse": 5,
+        "endVerse": 10,
+        "numWords": 146,
+        "numChars": 731
+    },
+    {
+        "title": "Paul’s Concern for the Corinthians",
+        "book": "2CO",
+        "chapter": 12,
+        "startVerse": 11,
+        "endVerse": 21,
+        "numWords": 329,
+        "numChars": 1654
+    },
+    {
+        "title": "Examine Yourselves",
+        "book": "2CO",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 266,
+        "numChars": 1345
+    },
+    {
+        "title": "Benediction and Farewell",
+        "book": "2CO",
+        "chapter": 13,
+        "startVerse": 11,
+        "endVerse": 14,
+        "numWords": 90,
+        "numChars": 469
+    }
+]

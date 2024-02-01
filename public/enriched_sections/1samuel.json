@@ -1,0 +1,632 @@
+[
+    {
+        "title": "Elkanah and His Wives",
+        "book": "1SA",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 241,
+        "numChars": 1261
+    },
+    {
+        "title": "Hannah Prays for a Son",
+        "book": "1SA",
+        "chapter": 1,
+        "startVerse": 9,
+        "endVerse": 18,
+        "numWords": 251,
+        "numChars": 1270
+    },
+    {
+        "title": "The Birth of Samuel",
+        "book": "1SA",
+        "chapter": 1,
+        "startVerse": 19,
+        "endVerse": 28,
+        "numWords": 305,
+        "numChars": 1530
+    },
+    {
+        "title": "Hannah’s Prayer of Thanksgiving",
+        "book": "1SA",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 90,
+        "numChars": 447
+    },
+    {
+        "title": "Eli’s Wicked Sons",
+        "book": "1SA",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 26,
+        "numWords": 395,
+        "numChars": 2003
+    },
+    {
+        "title": "A Prophecy against the House of Eli",
+        "book": "1SA",
+        "chapter": 2,
+        "startVerse": 27,
+        "endVerse": 36,
+        "numWords": 358,
+        "numChars": 1799
+    },
+    {
+        "title": "The LORD Calls Samuel",
+        "book": "1SA",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 272,
+        "numChars": 1381
+    },
+    {
+        "title": "Samuel Shares the Vision",
+        "book": "1SA",
+        "chapter": 3,
+        "startVerse": 15,
+        "endVerse": 21,
+        "numWords": 138,
+        "numChars": 684
+    },
+    {
+        "title": "The Philistines Capture the Ark",
+        "book": "1SA",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 307,
+        "numChars": 1646
+    },
+    {
+        "title": "The Death of Eli",
+        "book": "1SA",
+        "chapter": 4,
+        "startVerse": 12,
+        "endVerse": 22,
+        "numWords": 298,
+        "numChars": 1571
+    },
+    {
+        "title": "The Ark Afflicts the Philistines",
+        "book": "1SA",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 372,
+        "numChars": 1897
+    },
+    {
+        "title": "The Ark Returned to Israel",
+        "book": "1SA",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 704,
+        "numChars": 3702
+    },
+    {
+        "title": "Samuel Subdues the Philistines",
+        "book": "1SA",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 499,
+        "numChars": 2733
+    },
+    {
+        "title": "Israel Demands a King",
+        "book": "1SA",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 224,
+        "numChars": 1125
+    },
+    {
+        "title": "Samuel’s Warning",
+        "book": "1SA",
+        "chapter": 8,
+        "startVerse": 10,
+        "endVerse": 18,
+        "numWords": 207,
+        "numChars": 1054
+    },
+    {
+        "title": "God Grants the Request",
+        "book": "1SA",
+        "chapter": 8,
+        "startVerse": 19,
+        "endVerse": 22,
+        "numWords": 76,
+        "numChars": 384
+    },
+    {
+        "title": "Saul Chosen as King",
+        "book": "1SA",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 907,
+        "numChars": 4460
+    },
+    {
+        "title": "Samuel Anoints Saul",
+        "book": "1SA",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 329,
+        "numChars": 1750
+    },
+    {
+        "title": "Samuel’s Signs Fulfilled",
+        "book": "1SA",
+        "chapter": 10,
+        "startVerse": 9,
+        "endVerse": 16,
+        "numWords": 170,
+        "numChars": 905
+    },
+    {
+        "title": "Saul Proclaimed King",
+        "book": "1SA",
+        "chapter": 10,
+        "startVerse": 17,
+        "endVerse": 27,
+        "numWords": 371,
+        "numChars": 1951
+    },
+    {
+        "title": "Saul Defeats the Ammonites",
+        "book": "1SA",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 344,
+        "numChars": 1829
+    },
+    {
+        "title": "Saul Confirmed as King",
+        "book": "1SA",
+        "chapter": 11,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 96,
+        "numChars": 511
+    },
+    {
+        "title": "Samuel’s Farewell Address",
+        "book": "1SA",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 849,
+        "numChars": 4277
+    },
+    {
+        "title": "War with the Philistines",
+        "book": "1SA",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 249,
+        "numChars": 1412
+    },
+    {
+        "title": "Saul’s Unlawful Sacrifice",
+        "book": "1SA",
+        "chapter": 13,
+        "startVerse": 8,
+        "endVerse": 15,
+        "numWords": 220,
+        "numChars": 1172
+    },
+    {
+        "title": "Israel without Weapons",
+        "book": "1SA",
+        "chapter": 13,
+        "startVerse": 16,
+        "endVerse": 23,
+        "numWords": 269,
+        "numChars": 1515
+    },
+    {
+        "title": "Jonathan’s Victory over the Philistines",
+        "book": "1SA",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 662,
+        "numChars": 3577
+    },
+    {
+        "title": "Jonathan Eats the Honey",
+        "book": "1SA",
+        "chapter": 14,
+        "startVerse": 24,
+        "endVerse": 36,
+        "numWords": 383,
+        "numChars": 2030
+    },
+    {
+        "title": "The People Save Jonathan",
+        "book": "1SA",
+        "chapter": 14,
+        "startVerse": 37,
+        "endVerse": 46,
+        "numWords": 261,
+        "numChars": 1390
+    },
+    {
+        "title": "Saul’s Victories",
+        "book": "1SA",
+        "chapter": 14,
+        "startVerse": 47,
+        "endVerse": 52,
+        "numWords": 153,
+        "numChars": 889
+    },
+    {
+        "title": "Saul’s Disobedience",
+        "book": "1SA",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 279,
+        "numChars": 1475
+    },
+    {
+        "title": "Samuel Denounces Saul",
+        "book": "1SA",
+        "chapter": 15,
+        "startVerse": 10,
+        "endVerse": 23,
+        "numWords": 304,
+        "numChars": 1597
+    },
+    {
+        "title": "Saul’s Confession",
+        "book": "1SA",
+        "chapter": 15,
+        "startVerse": 24,
+        "endVerse": 35,
+        "numWords": 236,
+        "numChars": 1221
+    },
+    {
+        "title": "Samuel Anoints David",
+        "book": "1SA",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 354,
+        "numChars": 1830
+    },
+    {
+        "title": "David Serves Saul",
+        "book": "1SA",
+        "chapter": 16,
+        "startVerse": 14,
+        "endVerse": 23,
+        "numWords": 251,
+        "numChars": 1306
+    },
+    {
+        "title": "Goliath’s Challenge",
+        "book": "1SA",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 313,
+        "numChars": 1697
+    },
+    {
+        "title": "David Accepts the Challenge",
+        "book": "1SA",
+        "chapter": 17,
+        "startVerse": 12,
+        "endVerse": 37,
+        "numWords": 701,
+        "numChars": 3742
+    },
+    {
+        "title": "David Slays Goliath",
+        "book": "1SA",
+        "chapter": 17,
+        "startVerse": 38,
+        "endVerse": 58,
+        "numWords": 545,
+        "numChars": 2847
+    },
+    {
+        "title": "Jonathan Befriends David",
+        "book": "1SA",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 78,
+        "numChars": 418
+    },
+    {
+        "title": "Saul Envies David",
+        "book": "1SA",
+        "chapter": 18,
+        "startVerse": 5,
+        "endVerse": 16,
+        "numWords": 279,
+        "numChars": 1468
+    },
+    {
+        "title": "David Marries Michal",
+        "book": "1SA",
+        "chapter": 18,
+        "startVerse": 17,
+        "endVerse": 30,
+        "numWords": 387,
+        "numChars": 2087
+    },
+    {
+        "title": "Saul Tries to Kill David",
+        "book": "1SA",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 630,
+        "numChars": 3228
+    },
+    {
+        "title": "Jonathan Helps David",
+        "book": "1SA",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 291,
+        "numChars": 1525
+    },
+    {
+        "title": "Jonathan and David Renew Their Covenant",
+        "book": "1SA",
+        "chapter": 20,
+        "startVerse": 10,
+        "endVerse": 29,
+        "numWords": 572,
+        "numChars": 2914
+    },
+    {
+        "title": "Saul Seeks to Kill Jonathan",
+        "book": "1SA",
+        "chapter": 20,
+        "startVerse": 30,
+        "endVerse": 42,
+        "numWords": 360,
+        "numChars": 1879
+    },
+    {
+        "title": "David Takes the Consecrated Bread",
+        "book": "1SA",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 215,
+        "numChars": 1104
+    },
+    {
+        "title": "David Flees to Gath",
+        "book": "1SA",
+        "chapter": 21,
+        "startVerse": 8,
+        "endVerse": 15,
+        "numWords": 208,
+        "numChars": 1044
+    },
+    {
+        "title": "David Flees to Adullam and Mizpeh",
+        "book": "1SA",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 152,
+        "numChars": 775
+    },
+    {
+        "title": "Saul Slays the Priests of Nob",
+        "book": "1SA",
+        "chapter": 22,
+        "startVerse": 6,
+        "endVerse": 23,
+        "numWords": 515,
+        "numChars": 2650
+    },
+    {
+        "title": "David Delivers Keilah",
+        "book": "1SA",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 132,
+        "numChars": 736
+    },
+    {
+        "title": "Saul Pursues David",
+        "book": "1SA",
+        "chapter": 23,
+        "startVerse": 7,
+        "endVerse": 29,
+        "numWords": 606,
+        "numChars": 3177
+    },
+    {
+        "title": "David Spares Saul",
+        "book": "1SA",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 431,
+        "numChars": 2150
+    },
+    {
+        "title": "David’s Oath to Saul",
+        "book": "1SA",
+        "chapter": 24,
+        "startVerse": 16,
+        "endVerse": 22,
+        "numWords": 165,
+        "numChars": 815
+    },
+    {
+        "title": "The Death of Samuel",
+        "book": "1SA",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 1,
+        "numWords": 19,
+        "numChars": 97
+    },
+    {
+        "title": "David, Nabal, and Abigail",
+        "book": "1SA",
+        "chapter": 25,
+        "startVerse": 2,
+        "endVerse": 17,
+        "numWords": 417,
+        "numChars": 2172
+    },
+    {
+        "title": "Abigail Intercedes for Nabal",
+        "book": "1SA",
+        "chapter": 25,
+        "startVerse": 18,
+        "endVerse": 38,
+        "numWords": 646,
+        "numChars": 3382
+    },
+    {
+        "title": "David Marries Abigail",
+        "book": "1SA",
+        "chapter": 25,
+        "startVerse": 39,
+        "endVerse": 44,
+        "numWords": 153,
+        "numChars": 826
+    },
+    {
+        "title": "David Again Spares Saul",
+        "book": "1SA",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 357,
+        "numChars": 1874
+    },
+    {
+        "title": "David Reproves Abner",
+        "book": "1SA",
+        "chapter": 26,
+        "startVerse": 13,
+        "endVerse": 20,
+        "numWords": 260,
+        "numChars": 1297
+    },
+    {
+        "title": "Saul Acknowledges His Sin",
+        "book": "1SA",
+        "chapter": 26,
+        "startVerse": 21,
+        "endVerse": 25,
+        "numWords": 127,
+        "numChars": 676
+    },
+    {
+        "title": "David and the Philistines",
+        "book": "1SA",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 338,
+        "numChars": 1758
+    },
+    {
+        "title": "The Philistines Gather against Israel",
+        "book": "1SA",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 130,
+        "numChars": 709
+    },
+    {
+        "title": "Saul and the Medium of Endor",
+        "book": "1SA",
+        "chapter": 28,
+        "startVerse": 7,
+        "endVerse": 25,
+        "numWords": 461,
+        "numChars": 2312
+    },
+    {
+        "title": "The Philistines Reject David",
+        "book": "1SA",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 335,
+        "numChars": 1734
+    },
+    {
+        "title": "The Amalekites Raid Ziklag",
+        "book": "1SA",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 158,
+        "numChars": 843
+    },
+    {
+        "title": "David Destroys the Amalekites",
+        "book": "1SA",
+        "chapter": 30,
+        "startVerse": 7,
+        "endVerse": 20,
+        "numWords": 293,
+        "numChars": 1580
+    },
+    {
+        "title": "The Spoils Are Divided",
+        "book": "1SA",
+        "chapter": 30,
+        "startVerse": 21,
+        "endVerse": 31,
+        "numWords": 258,
+        "numChars": 1336
+    },
+    {
+        "title": "Saul’s Overthrow and Death",
+        "book": "1SA",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 115,
+        "numChars": 659
+    },
+    {
+        "title": "The Philistines Possess the Towns",
+        "book": "1SA",
+        "chapter": 31,
+        "startVerse": 7,
+        "endVerse": 10,
+        "numWords": 119,
+        "numChars": 639
+    },
+    {
+        "title": "Jabesh-gilead’s Tribute to Saul",
+        "book": "1SA",
+        "chapter": 31,
+        "startVerse": 11,
+        "endVerse": 13,
+        "numWords": 57,
+        "numChars": 308
+    }
+]

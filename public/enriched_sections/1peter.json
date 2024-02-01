@@ -1,0 +1,137 @@
+[
+    {
+        "title": "A Greeting from Peter",
+        "book": "1PE",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 30,
+        "numChars": 170
+    },
+    {
+        "title": "A Living Hope",
+        "book": "1PE",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 12,
+        "numWords": 272,
+        "numChars": 1478
+    },
+    {
+        "title": "A Call to Holiness",
+        "book": "1PE",
+        "chapter": 1,
+        "startVerse": 13,
+        "endVerse": 21,
+        "numWords": 187,
+        "numChars": 1006
+    },
+    {
+        "title": "The Enduring Word",
+        "book": "1PE",
+        "chapter": 1,
+        "startVerse": 22,
+        "endVerse": 25,
+        "numWords": 69,
+        "numChars": 372
+    },
+    {
+        "title": "The Living Stone and Chosen People",
+        "book": "1PE",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 222,
+        "numChars": 1204
+    },
+    {
+        "title": "Submission to Authorities",
+        "book": "1PE",
+        "chapter": 2,
+        "startVerse": 13,
+        "endVerse": 20,
+        "numWords": 179,
+        "numChars": 950
+    },
+    {
+        "title": "Christ’s Example of Suffering",
+        "book": "1PE",
+        "chapter": 2,
+        "startVerse": 21,
+        "endVerse": 25,
+        "numWords": 69,
+        "numChars": 363
+    },
+    {
+        "title": "Wives and Husbands",
+        "book": "1PE",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 169,
+        "numChars": 901
+    },
+    {
+        "title": "Turning from Evil",
+        "book": "1PE",
+        "chapter": 3,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 74,
+        "numChars": 374
+    },
+    {
+        "title": "Suffering for Righteousness",
+        "book": "1PE",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 22,
+        "numWords": 273,
+        "numChars": 1408
+    },
+    {
+        "title": "Living for God’s Glory",
+        "book": "1PE",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 278,
+        "numChars": 1503
+    },
+    {
+        "title": "Suffering as Christians",
+        "book": "1PE",
+        "chapter": 4,
+        "startVerse": 12,
+        "endVerse": 19,
+        "numWords": 192,
+        "numChars": 985
+    },
+    {
+        "title": "Instructions to Elders",
+        "book": "1PE",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 114,
+        "numChars": 598
+    },
+    {
+        "title": "Cast Your Cares on Him",
+        "book": "1PE",
+        "chapter": 5,
+        "startVerse": 5,
+        "endVerse": 9,
+        "numWords": 93,
+        "numChars": 542
+    },
+    {
+        "title": "Benediction and Farewell",
+        "book": "1PE",
+        "chapter": 5,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 115,
+        "numChars": 613
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "title": "The Beginning",
+        "book": "JHN",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 68,
+        "numChars": 341
+    },
+    {
+        "title": "The Witness of John",
+        "book": "JHN",
+        "chapter": 1,
+        "startVerse": 6,
+        "endVerse": 13,
+        "numWords": 129,
+        "numChars": 626
+    },
+    {
+        "title": "The Word Became Flesh",
+        "book": "JHN",
+        "chapter": 1,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 146,
+        "numChars": 745
+    },
+    {
+        "title": "The Mission of John the Baptist",
+        "book": "JHN",
+        "chapter": 1,
+        "startVerse": 19,
+        "endVerse": 28,
+        "numWords": 158,
+        "numChars": 804
+    },
+    {
+        "title": "Jesus the Lamb of God",
+        "book": "JHN",
+        "chapter": 1,
+        "startVerse": 29,
+        "endVerse": 34,
+        "numWords": 140,
+        "numChars": 681
+    },
+    {
+        "title": "The First Disciples",
+        "book": "JHN",
+        "chapter": 1,
+        "startVerse": 35,
+        "endVerse": 42,
+        "numWords": 145,
+        "numChars": 771
+    },
+    {
+        "title": "Jesus Calls Philip and Nathanael",
+        "book": "JHN",
+        "chapter": 1,
+        "startVerse": 43,
+        "endVerse": 51,
+        "numWords": 164,
+        "numChars": 892
+    },
+    {
+        "title": "The Wedding at Cana",
+        "book": "JHN",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 221,
+        "numChars": 1179
+    },
+    {
+        "title": "Jesus Cleanses the Temple",
+        "book": "JHN",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 25,
+        "numWords": 275,
+        "numChars": 1467
+    },
+    {
+        "title": "Jesus and Nicodemus",
+        "book": "JHN",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 503,
+        "numChars": 2552
+    },
+    {
+        "title": "John’s Testimony about Jesus",
+        "book": "JHN",
+        "chapter": 3,
+        "startVerse": 22,
+        "endVerse": 36,
+        "numWords": 306,
+        "numChars": 1665
+    },
+    {
+        "title": "Jesus and the Samaritan Woman",
+        "book": "JHN",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 26,
+        "numWords": 515,
+        "numChars": 2695
+    },
+    {
+        "title": "The Disciples Return and Marvel",
+        "book": "JHN",
+        "chapter": 4,
+        "startVerse": 27,
+        "endVerse": 38,
+        "numWords": 225,
+        "numChars": 1153
+    },
+    {
+        "title": "Many Samaritans Believe",
+        "book": "JHN",
+        "chapter": 4,
+        "startVerse": 39,
+        "endVerse": 42,
+        "numWords": 81,
+        "numChars": 425
+    },
+    {
+        "title": "Jesus Heals the Official’s Son",
+        "book": "JHN",
+        "chapter": 4,
+        "startVerse": 43,
+        "endVerse": 54,
+        "numWords": 236,
+        "numChars": 1216
+    },
+    {
+        "title": "The Pool of Bethesda",
+        "book": "JHN",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 332,
+        "numChars": 1648
+    },
+    {
+        "title": "The Father and the Son",
+        "book": "JHN",
+        "chapter": 5,
+        "startVerse": 16,
+        "endVerse": 30,
+        "numWords": 368,
+        "numChars": 1842
+    },
+    {
+        "title": "Testimonies about Jesus",
+        "book": "JHN",
+        "chapter": 5,
+        "startVerse": 31,
+        "endVerse": 38,
+        "numWords": 150,
+        "numChars": 755
+    },
+    {
+        "title": "The Witness of Scripture",
+        "book": "JHN",
+        "chapter": 5,
+        "startVerse": 39,
+        "endVerse": 47,
+        "numWords": 159,
+        "numChars": 773
+    },
+    {
+        "title": "The Feeding of the Five Thousand",
+        "book": "JHN",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 318,
+        "numChars": 1646
+    },
+    {
+        "title": "Jesus Walks on Water",
+        "book": "JHN",
+        "chapter": 6,
+        "startVerse": 16,
+        "endVerse": 21,
+        "numWords": 118,
+        "numChars": 627
+    },
+    {
+        "title": "Jesus the Bread of Life",
+        "book": "JHN",
+        "chapter": 6,
+        "startVerse": 22,
+        "endVerse": 58,
+        "numWords": 818,
+        "numChars": 4015
+    },
+    {
+        "title": "Many Disciples Turn Back",
+        "book": "JHN",
+        "chapter": 6,
+        "startVerse": 59,
+        "endVerse": 66,
+        "numWords": 149,
+        "numChars": 782
+    },
+    {
+        "title": "Peter’s Confession of Faith",
+        "book": "JHN",
+        "chapter": 6,
+        "startVerse": 67,
+        "endVerse": 71,
+        "numWords": 93,
+        "numChars": 464
+    },
+    {
+        "title": "Jesus Teaches at the Feast",
+        "book": "JHN",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 484,
+        "numChars": 2483
+    },
+    {
+        "title": "Is Jesus the Christ?",
+        "book": "JHN",
+        "chapter": 7,
+        "startVerse": 25,
+        "endVerse": 36,
+        "numWords": 312,
+        "numChars": 1544
+    },
+    {
+        "title": "Living Water",
+        "book": "JHN",
+        "chapter": 7,
+        "startVerse": 37,
+        "endVerse": 39,
+        "numWords": 95,
+        "numChars": 491
+    },
+    {
+        "title": "Division over Jesus",
+        "book": "JHN",
+        "chapter": 7,
+        "startVerse": 40,
+        "endVerse": 44,
+        "numWords": 70,
+        "numChars": 376
+    },
+    {
+        "title": "The Unbelief of the Jewish Leaders",
+        "book": "JHN",
+        "chapter": 7,
+        "startVerse": 45,
+        "endVerse": 53,
+        "numWords": 132,
+        "numChars": 728
+    },
+    {
+        "title": "The Woman Caught in Adultery",
+        "book": "JHN",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 236,
+        "numChars": 1209
+    },
+    {
+        "title": "Jesus the Light of the World",
+        "book": "JHN",
+        "chapter": 8,
+        "startVerse": 12,
+        "endVerse": 29,
+        "numWords": 412,
+        "numChars": 2000
+    },
+    {
+        "title": "The Truth Will Set You Free",
+        "book": "JHN",
+        "chapter": 8,
+        "startVerse": 30,
+        "endVerse": 47,
+        "numWords": 352,
+        "numChars": 1714
+    },
+    {
+        "title": "Before Abraham Was Born, I Am",
+        "book": "JHN",
+        "chapter": 8,
+        "startVerse": 48,
+        "endVerse": 59,
+        "numWords": 276,
+        "numChars": 1336
+    },
+    {
+        "title": "Jesus Heals the Man Born Blind",
+        "book": "JHN",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 226,
+        "numChars": 1110
+    },
+    {
+        "title": "The Pharisees Investigate the Healing",
+        "book": "JHN",
+        "chapter": 9,
+        "startVerse": 13,
+        "endVerse": 34,
+        "numWords": 430,
+        "numChars": 2090
+    },
+    {
+        "title": "Spiritual Blindness",
+        "book": "JHN",
+        "chapter": 9,
+        "startVerse": 35,
+        "endVerse": 41,
+        "numWords": 164,
+        "numChars": 841
+    },
+    {
+        "title": "Jesus the Good Shepherd",
+        "book": "JHN",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 458,
+        "numChars": 2235
+    },
+    {
+        "title": "Jesus at the Feast of Dedication",
+        "book": "JHN",
+        "chapter": 10,
+        "startVerse": 22,
+        "endVerse": 39,
+        "numWords": 353,
+        "numChars": 1792
+    },
+    {
+        "title": "John’s Testimony Confirmed",
+        "book": "JHN",
+        "chapter": 10,
+        "startVerse": 40,
+        "endVerse": 42,
+        "numWords": 48,
+        "numChars": 260
+    },
+    {
+        "title": "The Death of Lazarus",
+        "book": "JHN",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 313,
+        "numChars": 1601
+    },
+    {
+        "title": "Jesus Comforts Martha and Mary",
+        "book": "JHN",
+        "chapter": 11,
+        "startVerse": 17,
+        "endVerse": 37,
+        "numWords": 386,
+        "numChars": 1964
+    },
+    {
+        "title": "Jesus Raises Lazarus",
+        "book": "JHN",
+        "chapter": 11,
+        "startVerse": 38,
+        "endVerse": 44,
+        "numWords": 137,
+        "numChars": 687
+    },
+    {
+        "title": "The Plot to Kill Jesus",
+        "book": "JHN",
+        "chapter": 11,
+        "startVerse": 45,
+        "endVerse": 57,
+        "numWords": 298,
+        "numChars": 1548
+    },
+    {
+        "title": "Mary Anoints Jesus",
+        "book": "JHN",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 204,
+        "numChars": 1079
+    },
+    {
+        "title": "The Plot to Kill Lazarus",
+        "book": "JHN",
+        "chapter": 12,
+        "startVerse": 9,
+        "endVerse": 11,
+        "numWords": 59,
+        "numChars": 297
+    },
+    {
+        "title": "The Triumphal Entry",
+        "book": "JHN",
+        "chapter": 12,
+        "startVerse": 12,
+        "endVerse": 19,
+        "numWords": 156,
+        "numChars": 824
+    },
+    {
+        "title": "Jesus Predicts His Death",
+        "book": "JHN",
+        "chapter": 12,
+        "startVerse": 20,
+        "endVerse": 36,
+        "numWords": 347,
+        "numChars": 1738
+    },
+    {
+        "title": "Belief and Unbelief",
+        "book": "JHN",
+        "chapter": 12,
+        "startVerse": 37,
+        "endVerse": 50,
+        "numWords": 255,
+        "numChars": 1259
+    },
+    {
+        "title": "Jesus Washes His Disciples’ Feet",
+        "book": "JHN",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 364,
+        "numChars": 1828
+    },
+    {
+        "title": "Jesus Predicts His Betrayal",
+        "book": "JHN",
+        "chapter": 13,
+        "startVerse": 18,
+        "endVerse": 30,
+        "numWords": 263,
+        "numChars": 1345
+    },
+    {
+        "title": "Love One Another",
+        "book": "JHN",
+        "chapter": 13,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 122,
+        "numChars": 597
+    },
+    {
+        "title": "Jesus Predicts Peter’s Denial",
+        "book": "JHN",
+        "chapter": 13,
+        "startVerse": 36,
+        "endVerse": 38,
+        "numWords": 51,
+        "numChars": 264
+    },
+    {
+        "title": "In My Father’s House Are Many Rooms",
+        "book": "JHN",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 123,
+        "numChars": 559
+    },
+    {
+        "title": "The Way, the Truth, and the Life",
+        "book": "JHN",
+        "chapter": 14,
+        "startVerse": 5,
+        "endVerse": 14,
+        "numWords": 249,
+        "numChars": 1174
+    },
+    {
+        "title": "Jesus Promises the Holy Spirit",
+        "book": "JHN",
+        "chapter": 14,
+        "startVerse": 15,
+        "endVerse": 26,
+        "numWords": 293,
+        "numChars": 1393
+    },
+    {
+        "title": "Peace I Leave with You",
+        "book": "JHN",
+        "chapter": 14,
+        "startVerse": 27,
+        "endVerse": 31,
+        "numWords": 130,
+        "numChars": 606
+    },
+    {
+        "title": "Jesus the True Vine",
+        "book": "JHN",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 186,
+        "numChars": 907
+    },
+    {
+        "title": "No Greater Love",
+        "book": "JHN",
+        "chapter": 15,
+        "startVerse": 9,
+        "endVerse": 17,
+        "numWords": 181,
+        "numChars": 886
+    },
+    {
+        "title": "The Hatred of the World",
+        "book": "JHN",
+        "chapter": 15,
+        "startVerse": 18,
+        "endVerse": 27,
+        "numWords": 242,
+        "numChars": 1238
+    },
+    {
+        "title": "Persecution Foretold",
+        "book": "JHN",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 92,
+        "numChars": 453
+    },
+    {
+        "title": "The Promise of the Holy Spirit",
+        "book": "JHN",
+        "chapter": 16,
+        "startVerse": 5,
+        "endVerse": 16,
+        "numWords": 267,
+        "numChars": 1309
+    },
+    {
+        "title": "Grief Will Turn to Joy",
+        "book": "JHN",
+        "chapter": 16,
+        "startVerse": 17,
+        "endVerse": 22,
+        "numWords": 180,
+        "numChars": 901
+    },
+    {
+        "title": "Ask in My Name",
+        "book": "JHN",
+        "chapter": 16,
+        "startVerse": 23,
+        "endVerse": 33,
+        "numWords": 264,
+        "numChars": 1325
+    },
+    {
+        "title": "Prayer for the Son",
+        "book": "JHN",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 110,
+        "numChars": 570
+    },
+    {
+        "title": "Prayer for the Disciples",
+        "book": "JHN",
+        "chapter": 17,
+        "startVerse": 6,
+        "endVerse": 19,
+        "numWords": 307,
+        "numChars": 1448
+    },
+    {
+        "title": "Prayer for All Believers",
+        "book": "JHN",
+        "chapter": 17,
+        "startVerse": 20,
+        "endVerse": 26,
+        "numWords": 194,
+        "numChars": 886
+    },
+    {
+        "title": "The Betrayal of Jesus",
+        "book": "JHN",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 260,
+        "numChars": 1385
+    },
+    {
+        "title": "Peter’s First Denial",
+        "book": "JHN",
+        "chapter": 18,
+        "startVerse": 15,
+        "endVerse": 18,
+        "numWords": 106,
+        "numChars": 590
+    },
+    {
+        "title": "Jesus before the High Priest",
+        "book": "JHN",
+        "chapter": 18,
+        "startVerse": 19,
+        "endVerse": 24,
+        "numWords": 120,
+        "numChars": 653
+    },
+    {
+        "title": "Peter’s Second and Third Denials",
+        "book": "JHN",
+        "chapter": 18,
+        "startVerse": 25,
+        "endVerse": 27,
+        "numWords": 56,
+        "numChars": 305
+    },
+    {
+        "title": "Jesus before Pilate",
+        "book": "JHN",
+        "chapter": 18,
+        "startVerse": 28,
+        "endVerse": 40,
+        "numWords": 249,
+        "numChars": 1288
+    },
+    {
+        "title": "The Soldiers Mock Jesus",
+        "book": "JHN",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 337,
+        "numChars": 1734
+    },
+    {
+        "title": "The Crucifixion",
+        "book": "JHN",
+        "chapter": 19,
+        "startVerse": 16,
+        "endVerse": 27,
+        "numWords": 255,
+        "numChars": 1325
+    },
+    {
+        "title": "The Death of Jesus",
+        "book": "JHN",
+        "chapter": 19,
+        "startVerse": 28,
+        "endVerse": 30,
+        "numWords": 86,
+        "numChars": 463
+    },
+    {
+        "title": "Jesus’ Side Is Pierced",
+        "book": "JHN",
+        "chapter": 19,
+        "startVerse": 31,
+        "endVerse": 37,
+        "numWords": 173,
+        "numChars": 921
+    },
+    {
+        "title": "The Burial of Jesus",
+        "book": "JHN",
+        "chapter": 19,
+        "startVerse": 38,
+        "endVerse": 42,
+        "numWords": 135,
+        "numChars": 742
+    },
+    {
+        "title": "The Resurrection",
+        "book": "JHN",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 195,
+        "numChars": 1014
+    },
+    {
+        "title": "Jesus Appears to Mary Magdalene",
+        "book": "JHN",
+        "chapter": 20,
+        "startVerse": 10,
+        "endVerse": 18,
+        "numWords": 158,
+        "numChars": 798
+    },
+    {
+        "title": "Jesus Appears to the Disciples",
+        "book": "JHN",
+        "chapter": 20,
+        "startVerse": 19,
+        "endVerse": 23,
+        "numWords": 107,
+        "numChars": 552
+    },
+    {
+        "title": "Jesus Appears to Thomas",
+        "book": "JHN",
+        "chapter": 20,
+        "startVerse": 24,
+        "endVerse": 29,
+        "numWords": 120,
+        "numChars": 645
+    },
+    {
+        "title": "The Purpose of John’s Book",
+        "book": "JHN",
+        "chapter": 20,
+        "startVerse": 30,
+        "endVerse": 31,
+        "numWords": 53,
+        "numChars": 275
+    },
+    {
+        "title": "Jesus Appears by the Sea of Tiberias",
+        "book": "JHN",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 329,
+        "numChars": 1690
+    },
+    {
+        "title": "Jesus and Peter",
+        "book": "JHN",
+        "chapter": 21,
+        "startVerse": 15,
+        "endVerse": 19,
+        "numWords": 108,
+        "numChars": 554
+    },
+    {
+        "title": "Jesus and the Beloved Disciple",
+        "book": "JHN",
+        "chapter": 21,
+        "startVerse": 20,
+        "endVerse": 25,
+        "numWords": 165,
+        "numChars": 854
+    }
+]

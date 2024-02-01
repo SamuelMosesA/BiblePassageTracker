@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Greetings to the Thessalonians",
+        "book": "2TH",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 87,
+        "numChars": 459
+    },
+    {
+        "title": "Christ’s Coming",
+        "book": "2TH",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 12,
+        "numWords": 217,
+        "numChars": 1111
+    },
+    {
+        "title": "The Man of Lawlessness",
+        "book": "2TH",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 275,
+        "numChars": 1458
+    },
+    {
+        "title": "Stand Firm",
+        "book": "2TH",
+        "chapter": 2,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 124,
+        "numChars": 646
+    },
+    {
+        "title": "Request for Prayer",
+        "book": "2TH",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 95,
+        "numChars": 488
+    },
+    {
+        "title": "A Warning against Idleness",
+        "book": "2TH",
+        "chapter": 3,
+        "startVerse": 6,
+        "endVerse": 15,
+        "numWords": 220,
+        "numChars": 1139
+    },
+    {
+        "title": "Signature and Final Greetings",
+        "book": "2TH",
+        "chapter": 3,
+        "startVerse": 16,
+        "endVerse": 18,
+        "numWords": 61,
+        "numChars": 284
+    }
+]

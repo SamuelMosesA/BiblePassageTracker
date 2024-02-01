@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Greetings to the Thessalonians",
+        "book": "1TH",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 220,
+        "numChars": 1123
+    },
+    {
+        "title": "Paul’s Ministry",
+        "book": "1TH",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 448,
+        "numChars": 2303
+    },
+    {
+        "title": "Paul’s Longing to Visit",
+        "book": "1TH",
+        "chapter": 2,
+        "startVerse": 17,
+        "endVerse": 20,
+        "numWords": 81,
+        "numChars": 411
+    },
+    {
+        "title": "Timothy’s Visit",
+        "book": "1TH",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 141,
+        "numChars": 695
+    },
+    {
+        "title": "Timothy’s Encouraging Report",
+        "book": "1TH",
+        "chapter": 3,
+        "startVerse": 6,
+        "endVerse": 13,
+        "numWords": 186,
+        "numChars": 950
+    },
+    {
+        "title": "Living to Please God",
+        "book": "1TH",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 270,
+        "numChars": 1404
+    },
+    {
+        "title": "The Return of the Lord",
+        "book": "1TH",
+        "chapter": 4,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 176,
+        "numChars": 889
+    },
+    {
+        "title": "The Day of the Lord",
+        "book": "1TH",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 211,
+        "numChars": 1064
+    },
+    {
+        "title": "Christian Living",
+        "book": "1TH",
+        "chapter": 5,
+        "startVerse": 12,
+        "endVerse": 22,
+        "numWords": 132,
+        "numChars": 726
+    },
+    {
+        "title": "Final Blessings and Instructions",
+        "book": "1TH",
+        "chapter": 5,
+        "startVerse": 23,
+        "endVerse": 28,
+        "numWords": 97,
+        "numChars": 498
+    }
+]

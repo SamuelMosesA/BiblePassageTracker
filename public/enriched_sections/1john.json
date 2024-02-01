@@ -1,0 +1,137 @@
+[
+    {
+        "title": "The Word of Life",
+        "book": "1JN",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 118,
+        "numChars": 586
+    },
+    {
+        "title": "Walking in the Light",
+        "book": "1JN",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 10,
+        "numWords": 145,
+        "numChars": 670
+    },
+    {
+        "title": "Jesus Our Advocate",
+        "book": "1JN",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 137,
+        "numChars": 671
+    },
+    {
+        "title": "A New Commandment",
+        "book": "1JN",
+        "chapter": 2,
+        "startVerse": 7,
+        "endVerse": 14,
+        "numWords": 171,
+        "numChars": 892
+    },
+    {
+        "title": "Do Not Love the World",
+        "book": "1JN",
+        "chapter": 2,
+        "startVerse": 15,
+        "endVerse": 17,
+        "numWords": 71,
+        "numChars": 356
+    },
+    {
+        "title": "Beware of Antichrists",
+        "book": "1JN",
+        "chapter": 2,
+        "startVerse": 18,
+        "endVerse": 23,
+        "numWords": 168,
+        "numChars": 842
+    },
+    {
+        "title": "Remain in Christ",
+        "book": "1JN",
+        "chapter": 2,
+        "startVerse": 24,
+        "endVerse": 29,
+        "numWords": 148,
+        "numChars": 764
+    },
+    {
+        "title": "Children of God",
+        "book": "1JN",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 285,
+        "numChars": 1478
+    },
+    {
+        "title": "Love One Another",
+        "book": "1JN",
+        "chapter": 3,
+        "startVerse": 11,
+        "endVerse": 24,
+        "numWords": 298,
+        "numChars": 1527
+    },
+    {
+        "title": "Testing the Spirits",
+        "book": "1JN",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 181,
+        "numChars": 908
+    },
+    {
+        "title": "Love Comes from God",
+        "book": "1JN",
+        "chapter": 4,
+        "startVerse": 7,
+        "endVerse": 21,
+        "numWords": 340,
+        "numChars": 1644
+    },
+    {
+        "title": "Overcoming the World",
+        "book": "1JN",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 199,
+        "numChars": 1063
+    },
+    {
+        "title": "God’s Testimony about His Son",
+        "book": "1JN",
+        "chapter": 5,
+        "startVerse": 9,
+        "endVerse": 12,
+        "numWords": 100,
+        "numChars": 504
+    },
+    {
+        "title": "Effective Prayer",
+        "book": "1JN",
+        "chapter": 5,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 149,
+        "numChars": 721
+    },
+    {
+        "title": "The True God",
+        "book": "1JN",
+        "chapter": 5,
+        "startVerse": 18,
+        "endVerse": 21,
+        "numWords": 129,
+        "numChars": 620
+    }
+]

@@ -1,0 +1,956 @@
+[
+    {
+        "title": "Solomon’s Prayer for Wisdom",
+        "book": "2CH",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 429,
+        "numChars": 2320
+    },
+    {
+        "title": "Solomon’s Riches",
+        "book": "2CH",
+        "chapter": 1,
+        "startVerse": 14,
+        "endVerse": 17,
+        "numWords": 157,
+        "numChars": 922
+    },
+    {
+        "title": "Preparations for the Temple",
+        "book": "2CH",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 395,
+        "numChars": 2085
+    },
+    {
+        "title": "Hiram’s Reply to Solomon",
+        "book": "2CH",
+        "chapter": 2,
+        "startVerse": 11,
+        "endVerse": 18,
+        "numWords": 201,
+        "numChars": 1041
+    },
+    {
+        "title": "Temple Construction Begins",
+        "book": "2CH",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 219,
+        "numChars": 1217
+    },
+    {
+        "title": "The Temple’s Interior",
+        "book": "2CH",
+        "chapter": 3,
+        "startVerse": 5,
+        "endVerse": 9,
+        "numWords": 143,
+        "numChars": 793
+    },
+    {
+        "title": "The Cherubim",
+        "book": "2CH",
+        "chapter": 3,
+        "startVerse": 10,
+        "endVerse": 13,
+        "numWords": 125,
+        "numChars": 670
+    },
+    {
+        "title": "The Veil and Pillars",
+        "book": "2CH",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 17,
+        "numWords": 134,
+        "numChars": 723
+    },
+    {
+        "title": "The Bronze Altar and Molten Sea",
+        "book": "2CH",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 208,
+        "numChars": 1131
+    },
+    {
+        "title": "The Ten Basins, Lampstands, and Tables",
+        "book": "2CH",
+        "chapter": 4,
+        "startVerse": 6,
+        "endVerse": 8,
+        "numWords": 90,
+        "numChars": 469
+    },
+    {
+        "title": "The Courts",
+        "book": "2CH",
+        "chapter": 4,
+        "startVerse": 9,
+        "endVerse": 10,
+        "numWords": 33,
+        "numChars": 169
+    },
+    {
+        "title": "Completion of the Bronze Works",
+        "book": "2CH",
+        "chapter": 4,
+        "startVerse": 11,
+        "endVerse": 18,
+        "numWords": 99,
+        "numChars": 578
+    },
+    {
+        "title": "Completion of the Gold Furnishings",
+        "book": "2CH",
+        "chapter": 4,
+        "startVerse": 19,
+        "endVerse": 22,
+        "numWords": 49,
+        "numChars": 283
+    },
+    {
+        "title": "The Ark Enters the Temple",
+        "book": "2CH",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 442,
+        "numChars": 2440
+    },
+    {
+        "title": "Solomon Blesses the LORD",
+        "book": "2CH",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 248,
+        "numChars": 1198
+    },
+    {
+        "title": "Solomon’s Prayer of Dedication",
+        "book": "2CH",
+        "chapter": 6,
+        "startVerse": 12,
+        "endVerse": 42,
+        "numWords": 984,
+        "numChars": 5123
+    },
+    {
+        "title": "Fire from Heaven",
+        "book": "2CH",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 86,
+        "numChars": 462
+    },
+    {
+        "title": "Sacrifices of Dedication",
+        "book": "2CH",
+        "chapter": 7,
+        "startVerse": 4,
+        "endVerse": 10,
+        "numWords": 242,
+        "numChars": 1347
+    },
+    {
+        "title": "The LORD’s Response to Solomon",
+        "book": "2CH",
+        "chapter": 7,
+        "startVerse": 11,
+        "endVerse": 22,
+        "numWords": 384,
+        "numChars": 1923
+    },
+    {
+        "title": "Solomon’s Additional Achievements",
+        "book": "2CH",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 621,
+        "numChars": 3490
+    },
+    {
+        "title": "The Queen of Sheba",
+        "book": "2CH",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 408,
+        "numChars": 2177
+    },
+    {
+        "title": "Solomon’s Wealth and Splendor",
+        "book": "2CH",
+        "chapter": 9,
+        "startVerse": 13,
+        "endVerse": 28,
+        "numWords": 439,
+        "numChars": 2440
+    },
+    {
+        "title": "The Death of Solomon",
+        "book": "2CH",
+        "chapter": 9,
+        "startVerse": 29,
+        "endVerse": 31,
+        "numWords": 77,
+        "numChars": 415
+    },
+    {
+        "title": "Rebellion against Rehoboam",
+        "book": "2CH",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 411,
+        "numChars": 2191
+    },
+    {
+        "title": "The Kingdom Divided",
+        "book": "2CH",
+        "chapter": 10,
+        "startVerse": 16,
+        "endVerse": 19,
+        "numWords": 115,
+        "numChars": 637
+    },
+    {
+        "title": "Shemaiah’s Prophecy",
+        "book": "2CH",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 84,
+        "numChars": 455
+    },
+    {
+        "title": "Rehoboam Fortifies Judah",
+        "book": "2CH",
+        "chapter": 11,
+        "startVerse": 5,
+        "endVerse": 12,
+        "numWords": 82,
+        "numChars": 475
+    },
+    {
+        "title": "Jeroboam Forsakes the Priests and Levites",
+        "book": "2CH",
+        "chapter": 11,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 124,
+        "numChars": 708
+    },
+    {
+        "title": "Rehoboam’s Family",
+        "book": "2CH",
+        "chapter": 11,
+        "startVerse": 18,
+        "endVerse": 23,
+        "numWords": 132,
+        "numChars": 784
+    },
+    {
+        "title": "Shishak Raids Jerusalem",
+        "book": "2CH",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 352,
+        "numChars": 2017
+    },
+    {
+        "title": "Rehoboam’s Reign and Death",
+        "book": "2CH",
+        "chapter": 12,
+        "startVerse": 13,
+        "endVerse": 16,
+        "numWords": 134,
+        "numChars": 736
+    },
+    {
+        "title": "Abijah Reigns in Judah",
+        "book": "2CH",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 91,
+        "numChars": 505
+    },
+    {
+        "title": "Civil War against Jeroboam",
+        "book": "2CH",
+        "chapter": 13,
+        "startVerse": 4,
+        "endVerse": 22,
+        "numWords": 542,
+        "numChars": 2925
+    },
+    {
+        "title": "Asa Reigns in Judah",
+        "book": "2CH",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 460,
+        "numChars": 2391
+    },
+    {
+        "title": "The Prophecy of Azariah",
+        "book": "2CH",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 154,
+        "numChars": 772
+    },
+    {
+        "title": "Asa’s Reforms",
+        "book": "2CH",
+        "chapter": 15,
+        "startVerse": 8,
+        "endVerse": 19,
+        "numWords": 349,
+        "numChars": 1859
+    },
+    {
+        "title": "War between Asa and Baasha",
+        "book": "2CH",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 215,
+        "numChars": 1184
+    },
+    {
+        "title": "Hanani’s Message to Asa",
+        "book": "2CH",
+        "chapter": 16,
+        "startVerse": 7,
+        "endVerse": 10,
+        "numWords": 155,
+        "numChars": 775
+    },
+    {
+        "title": "The Death and Burial of Asa",
+        "book": "2CH",
+        "chapter": 16,
+        "startVerse": 11,
+        "endVerse": 14,
+        "numWords": 117,
+        "numChars": 590
+    },
+    {
+        "title": "Jehoshaphat Reigns in Judah",
+        "book": "2CH",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 385,
+        "numChars": 2175
+    },
+    {
+        "title": "Jehoshaphat Allies with Ahab",
+        "book": "2CH",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 277,
+        "numChars": 1525
+    },
+    {
+        "title": "Micaiah Prophesies against Ahab",
+        "book": "2CH",
+        "chapter": 18,
+        "startVerse": 12,
+        "endVerse": 27,
+        "numWords": 359,
+        "numChars": 1868
+    },
+    {
+        "title": "Ahab’s Defeat and Death",
+        "book": "2CH",
+        "chapter": 18,
+        "startVerse": 28,
+        "endVerse": 34,
+        "numWords": 203,
+        "numChars": 1112
+    },
+    {
+        "title": "Jehoshaphat Reproved by Jehu",
+        "book": "2CH",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 78,
+        "numChars": 401
+    },
+    {
+        "title": "Jehoshaphat’s Reforms",
+        "book": "2CH",
+        "chapter": 19,
+        "startVerse": 4,
+        "endVerse": 11,
+        "numWords": 269,
+        "numChars": 1475
+    },
+    {
+        "title": "War against Jehoshaphat",
+        "book": "2CH",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 125,
+        "numChars": 730
+    },
+    {
+        "title": "Jehoshaphat’s Prayer",
+        "book": "2CH",
+        "chapter": 20,
+        "startVerse": 5,
+        "endVerse": 13,
+        "numWords": 271,
+        "numChars": 1368
+    },
+    {
+        "title": "The Prophecy of Jahaziel",
+        "book": "2CH",
+        "chapter": 20,
+        "startVerse": 14,
+        "endVerse": 19,
+        "numWords": 202,
+        "numChars": 1074
+    },
+    {
+        "title": "The Enemies Destroy Themselves",
+        "book": "2CH",
+        "chapter": 20,
+        "startVerse": 20,
+        "endVerse": 25,
+        "numWords": 264,
+        "numChars": 1474
+    },
+    {
+        "title": "The Joyful Return",
+        "book": "2CH",
+        "chapter": 20,
+        "startVerse": 26,
+        "endVerse": 30,
+        "numWords": 118,
+        "numChars": 652
+    },
+    {
+        "title": "Summary of Jehoshaphat’s Reign",
+        "book": "2CH",
+        "chapter": 20,
+        "startVerse": 31,
+        "endVerse": 34,
+        "numWords": 114,
+        "numChars": 607
+    },
+    {
+        "title": "Jehoshaphat’s Fleet Is Wrecked",
+        "book": "2CH",
+        "chapter": 20,
+        "startVerse": 35,
+        "endVerse": 37,
+        "numWords": 74,
+        "numChars": 440
+    },
+    {
+        "title": "Jehoram Reigns in Judah",
+        "book": "2CH",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 212,
+        "numChars": 1203
+    },
+    {
+        "title": "Edom and Libnah Rebel",
+        "book": "2CH",
+        "chapter": 21,
+        "startVerse": 8,
+        "endVerse": 11,
+        "numWords": 113,
+        "numChars": 626
+    },
+    {
+        "title": "Elijah’s Letter to Jehoram",
+        "book": "2CH",
+        "chapter": 21,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 105,
+        "numChars": 582
+    },
+    {
+        "title": "Jehoram’s Disease and Death",
+        "book": "2CH",
+        "chapter": 21,
+        "startVerse": 16,
+        "endVerse": 20,
+        "numWords": 162,
+        "numChars": 872
+    },
+    {
+        "title": "Ahaziah Reigns in Judah",
+        "book": "2CH",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 304,
+        "numChars": 1664
+    },
+    {
+        "title": "Jehu Kills the Princes of Judah",
+        "book": "2CH",
+        "chapter": 22,
+        "startVerse": 8,
+        "endVerse": 9,
+        "numWords": 77,
+        "numChars": 420
+    },
+    {
+        "title": "Athaliah and Joash",
+        "book": "2CH",
+        "chapter": 22,
+        "startVerse": 10,
+        "endVerse": 12,
+        "numWords": 124,
+        "numChars": 675
+    },
+    {
+        "title": "Joash Anointed King of Judah",
+        "book": "2CH",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 339,
+        "numChars": 1810
+    },
+    {
+        "title": "The Death of Athaliah",
+        "book": "2CH",
+        "chapter": 23,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 148,
+        "numChars": 791
+    },
+    {
+        "title": "Jehoiada Restores the Worship of the LORD",
+        "book": "2CH",
+        "chapter": 23,
+        "startVerse": 16,
+        "endVerse": 21,
+        "numWords": 200,
+        "numChars": 1049
+    },
+    {
+        "title": "Joash Repairs the Temple",
+        "book": "2CH",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 429,
+        "numChars": 2264
+    },
+    {
+        "title": "Jehoiada’s Death and Burial",
+        "book": "2CH",
+        "chapter": 24,
+        "startVerse": 15,
+        "endVerse": 16,
+        "numWords": 41,
+        "numChars": 195
+    },
+    {
+        "title": "The Wickedness of Joash",
+        "book": "2CH",
+        "chapter": 24,
+        "startVerse": 17,
+        "endVerse": 22,
+        "numWords": 187,
+        "numChars": 1036
+    },
+    {
+        "title": "The Death of Joash",
+        "book": "2CH",
+        "chapter": 24,
+        "startVerse": 23,
+        "endVerse": 27,
+        "numWords": 236,
+        "numChars": 1270
+    },
+    {
+        "title": "Amaziah Reigns in Judah",
+        "book": "2CH",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 120,
+        "numChars": 651
+    },
+    {
+        "title": "Amaziah’s Victories",
+        "book": "2CH",
+        "chapter": 25,
+        "startVerse": 5,
+        "endVerse": 13,
+        "numWords": 281,
+        "numChars": 1478
+    },
+    {
+        "title": "Amaziah Rebuked for Idolatry",
+        "book": "2CH",
+        "chapter": 25,
+        "startVerse": 14,
+        "endVerse": 16,
+        "numWords": 86,
+        "numChars": 473
+    },
+    {
+        "title": "Jehoash Defeats Amaziah",
+        "book": "2CH",
+        "chapter": 25,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 253,
+        "numChars": 1328
+    },
+    {
+        "title": "The Death of Amaziah",
+        "book": "2CH",
+        "chapter": 25,
+        "startVerse": 25,
+        "endVerse": 28,
+        "numWords": 119,
+        "numChars": 644
+    },
+    {
+        "title": "Uzziah Reigns in Judah",
+        "book": "2CH",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 732,
+        "numChars": 4017
+    },
+    {
+        "title": "Jotham Reigns in Judah",
+        "book": "2CH",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 311,
+        "numChars": 1643
+    },
+    {
+        "title": "Ahaz Reigns in Judah",
+        "book": "2CH",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 111,
+        "numChars": 597
+    },
+    {
+        "title": "Aram Defeats Judah",
+        "book": "2CH",
+        "chapter": 28,
+        "startVerse": 5,
+        "endVerse": 15,
+        "numWords": 390,
+        "numChars": 2117
+    },
+    {
+        "title": "The Idolatry of Ahaz",
+        "book": "2CH",
+        "chapter": 28,
+        "startVerse": 16,
+        "endVerse": 27,
+        "numWords": 369,
+        "numChars": 2010
+    },
+    {
+        "title": "Hezekiah Cleanses the Temple",
+        "book": "2CH",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 514,
+        "numChars": 2725
+    },
+    {
+        "title": "Hezekiah Restores Temple Worship",
+        "book": "2CH",
+        "chapter": 29,
+        "startVerse": 20,
+        "endVerse": 36,
+        "numWords": 506,
+        "numChars": 2902
+    },
+    {
+        "title": "Hezekiah Proclaims a Passover",
+        "book": "2CH",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 358,
+        "numChars": 1944
+    },
+    {
+        "title": "Hezekiah Celebrates the Passover",
+        "book": "2CH",
+        "chapter": 30,
+        "startVerse": 13,
+        "endVerse": 27,
+        "numWords": 467,
+        "numChars": 2768
+    },
+    {
+        "title": "The Destruction of Idols",
+        "book": "2CH",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 107,
+        "numChars": 640
+    },
+    {
+        "title": "Contributions for Worship",
+        "book": "2CH",
+        "chapter": 31,
+        "startVerse": 3,
+        "endVerse": 10,
+        "numWords": 243,
+        "numChars": 1355
+    },
+    {
+        "title": "Hezekiah Organizes the Priests",
+        "book": "2CH",
+        "chapter": 31,
+        "startVerse": 11,
+        "endVerse": 21,
+        "numWords": 342,
+        "numChars": 2006
+    },
+    {
+        "title": "Sennacherib Invades Judah",
+        "book": "2CH",
+        "chapter": 32,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 242,
+        "numChars": 1318
+    },
+    {
+        "title": "Sennacherib Threatens Jerusalem",
+        "book": "2CH",
+        "chapter": 32,
+        "startVerse": 9,
+        "endVerse": 19,
+        "numWords": 394,
+        "numChars": 2063
+    },
+    {
+        "title": "Jerusalem Delivered from the Assyrians",
+        "book": "2CH",
+        "chapter": 32,
+        "startVerse": 20,
+        "endVerse": 23,
+        "numWords": 132,
+        "numChars": 679
+    },
+    {
+        "title": "Hezekiah’s Illness and Recovery",
+        "book": "2CH",
+        "chapter": 32,
+        "startVerse": 24,
+        "endVerse": 31,
+        "numWords": 223,
+        "numChars": 1189
+    },
+    {
+        "title": "Hezekiah’s Death",
+        "book": "2CH",
+        "chapter": 32,
+        "startVerse": 32,
+        "endVerse": 33,
+        "numWords": 76,
+        "numChars": 395
+    },
+    {
+        "title": "Manasseh Reigns in Judah",
+        "book": "2CH",
+        "chapter": 33,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 283,
+        "numChars": 1522
+    },
+    {
+        "title": "Manasseh’s Repentance and Restoration",
+        "book": "2CH",
+        "chapter": 33,
+        "startVerse": 10,
+        "endVerse": 20,
+        "numWords": 388,
+        "numChars": 2067
+    },
+    {
+        "title": "Amon Reigns in Judah",
+        "book": "2CH",
+        "chapter": 33,
+        "startVerse": 21,
+        "endVerse": 25,
+        "numWords": 91,
+        "numChars": 481
+    },
+    {
+        "title": "Josiah Reigns in Judah",
+        "book": "2CH",
+        "chapter": 34,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 49,
+        "numChars": 237
+    },
+    {
+        "title": "Josiah Destroys Idolatry",
+        "book": "2CH",
+        "chapter": 34,
+        "startVerse": 3,
+        "endVerse": 7,
+        "numWords": 176,
+        "numChars": 943
+    },
+    {
+        "title": "Josiah Repairs the Temple",
+        "book": "2CH",
+        "chapter": 34,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 222,
+        "numChars": 1233
+    },
+    {
+        "title": "Hilkiah Finds the Book of the Law",
+        "book": "2CH",
+        "chapter": 34,
+        "startVerse": 14,
+        "endVerse": 21,
+        "numWords": 261,
+        "numChars": 1312
+    },
+    {
+        "title": "Huldah’s Prophecy",
+        "book": "2CH",
+        "chapter": 34,
+        "startVerse": 22,
+        "endVerse": 28,
+        "numWords": 317,
+        "numChars": 1650
+    },
+    {
+        "title": "Josiah Renews the Covenant",
+        "book": "2CH",
+        "chapter": 34,
+        "startVerse": 29,
+        "endVerse": 33,
+        "numWords": 190,
+        "numChars": 998
+    },
+    {
+        "title": "Josiah Restores the Passover",
+        "book": "2CH",
+        "chapter": 35,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 603,
+        "numChars": 3473
+    },
+    {
+        "title": "The Death of Josiah",
+        "book": "2CH",
+        "chapter": 35,
+        "startVerse": 20,
+        "endVerse": 24,
+        "numWords": 182,
+        "numChars": 944
+    },
+    {
+        "title": "Laments over Josiah",
+        "book": "2CH",
+        "chapter": 35,
+        "startVerse": 25,
+        "endVerse": 27,
+        "numWords": 84,
+        "numChars": 439
+    },
+    {
+        "title": "Jehoahaz Succeeds Josiah",
+        "book": "2CH",
+        "chapter": 36,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 133,
+        "numChars": 742
+    },
+    {
+        "title": "Jehoiakim Reigns in Judah",
+        "book": "2CH",
+        "chapter": 36,
+        "startVerse": 5,
+        "endVerse": 8,
+        "numWords": 117,
+        "numChars": 632
+    },
+    {
+        "title": "Jehoiachin Reigns in Judah",
+        "book": "2CH",
+        "chapter": 36,
+        "startVerse": 9,
+        "endVerse": 10,
+        "numWords": 95,
+        "numChars": 549
+    },
+    {
+        "title": "Zedekiah Reigns in Judah",
+        "book": "2CH",
+        "chapter": 36,
+        "startVerse": 11,
+        "endVerse": 14,
+        "numWords": 115,
+        "numChars": 662
+    },
+    {
+        "title": "The Fall of Jerusalem",
+        "book": "2CH",
+        "chapter": 36,
+        "startVerse": 15,
+        "endVerse": 21,
+        "numWords": 245,
+        "numChars": 1370
+    },
+    {
+        "title": "The Proclamation of Cyrus",
+        "book": "2CH",
+        "chapter": 36,
+        "startVerse": 22,
+        "endVerse": 23,
+        "numWords": 52,
+        "numChars": 274
+    }
+]

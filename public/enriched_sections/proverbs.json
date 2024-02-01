@@ -1,0 +1,353 @@
+[
+    {
+        "title": "The Beginning of Knowledge",
+        "book": "PRO",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 76,
+        "numChars": 414
+    },
+    {
+        "title": "The Enticement of Sin",
+        "book": "PRO",
+        "chapter": 1,
+        "startVerse": 8,
+        "endVerse": 19,
+        "numWords": 103,
+        "numChars": 458
+    },
+    {
+        "title": "Wisdom Calls Aloud",
+        "book": "PRO",
+        "chapter": 1,
+        "startVerse": 20,
+        "endVerse": 33,
+        "numWords": 122,
+        "numChars": 572
+    },
+    {
+        "title": "The Benefits of Wisdom",
+        "book": "PRO",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 162,
+        "numChars": 774
+    },
+    {
+        "title": "Trust in the LORD with All Your Heart",
+        "book": "PRO",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 138,
+        "numChars": 712
+    },
+    {
+        "title": "The Blessings of Wisdom",
+        "book": "PRO",
+        "chapter": 3,
+        "startVerse": 13,
+        "endVerse": 35,
+        "numWords": 181,
+        "numChars": 830
+    },
+    {
+        "title": "A Father’s Instruction",
+        "book": "PRO",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 227,
+        "numChars": 1090
+    },
+    {
+        "title": "Avoiding Immorality",
+        "book": "PRO",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 183,
+        "numChars": 854
+    },
+    {
+        "title": "Warnings against Foolishness",
+        "book": "PRO",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 164,
+        "numChars": 814
+    },
+    {
+        "title": "Warnings against Adultery",
+        "book": "PRO",
+        "chapter": 6,
+        "startVerse": 20,
+        "endVerse": 35,
+        "numWords": 125,
+        "numChars": 611
+    },
+    {
+        "title": "Warnings about the Adulteress",
+        "book": "PRO",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 195,
+        "numChars": 882
+    },
+    {
+        "title": "The Excellence of Wisdom",
+        "book": "PRO",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 36,
+        "numWords": 283,
+        "numChars": 1320
+    },
+    {
+        "title": "The Way of Wisdom",
+        "book": "PRO",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 109,
+        "numChars": 555
+    },
+    {
+        "title": "The Way of Folly",
+        "book": "PRO",
+        "chapter": 9,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 51,
+        "numChars": 231
+    },
+    {
+        "title": "Solomon’s Proverbs: The Wise Son",
+        "book": "PRO",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 32,
+        "numWords": 270,
+        "numChars": 1281
+    },
+    {
+        "title": "Dishonest Scales",
+        "book": "PRO",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 31,
+        "numWords": 266,
+        "numChars": 1322
+    },
+    {
+        "title": "Loving Discipline and Knowledge",
+        "book": "PRO",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 250,
+        "numChars": 1175
+    },
+    {
+        "title": "A Father’s Discipline",
+        "book": "PRO",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 203,
+        "numChars": 1017
+    },
+    {
+        "title": "The Wise Woman",
+        "book": "PRO",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 35,
+        "numWords": 296,
+        "numChars": 1372
+    },
+    {
+        "title": "A Gentle Answer Turns Away Wrath",
+        "book": "PRO",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 33,
+        "numWords": 295,
+        "numChars": 1402
+    },
+    {
+        "title": "The Reply of the Tongue Is from the LORD",
+        "book": "PRO",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 33,
+        "numWords": 278,
+        "numChars": 1379
+    },
+    {
+        "title": "Better a Dry Morsel in Quietness",
+        "book": "PRO",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 232,
+        "numChars": 1142
+    },
+    {
+        "title": "The Selfishness of the Unfriendly",
+        "book": "PRO",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 210,
+        "numChars": 1007
+    },
+    {
+        "title": "The Man of Integrity",
+        "book": "PRO",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 29,
+        "numWords": 230,
+        "numChars": 1113
+    },
+    {
+        "title": "Wine Is a Mocker",
+        "book": "PRO",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 30,
+        "numWords": 267,
+        "numChars": 1295
+    },
+    {
+        "title": "The King’s Heart",
+        "book": "PRO",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 31,
+        "numWords": 266,
+        "numChars": 1306
+    },
+    {
+        "title": "A Good Name",
+        "book": "PRO",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 151,
+        "numChars": 732
+    },
+    {
+        "title": "Thirty Sayings of the Wise",
+        "book": "PRO",
+        "chapter": 22,
+        "startVerse": 17,
+        "endVerse": 29,
+        "numWords": 126,
+        "numChars": 569
+    },
+    {
+        "title": "True Riches",
+        "book": "PRO",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 35,
+        "numWords": 278,
+        "numChars": 1257
+    },
+    {
+        "title": "Do Not Envy",
+        "book": "PRO",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 180,
+        "numChars": 845
+    },
+    {
+        "title": "Further Sayings of the Wise",
+        "book": "PRO",
+        "chapter": 24,
+        "startVerse": 23,
+        "endVerse": 34,
+        "numWords": 99,
+        "numChars": 483
+    },
+    {
+        "title": "More Proverbs of Solomon",
+        "book": "PRO",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 270,
+        "numChars": 1268
+    },
+    {
+        "title": "Similitudes and Instructions",
+        "book": "PRO",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 239,
+        "numChars": 1134
+    },
+    {
+        "title": "Do Not Boast about Tomorrow",
+        "book": "PRO",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 237,
+        "numChars": 1125
+    },
+    {
+        "title": "The Boldness of the Righteous",
+        "book": "PRO",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 284,
+        "numChars": 1365
+    },
+    {
+        "title": "The Flourishing of the Righteous",
+        "book": "PRO",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 220,
+        "numChars": 1055
+    },
+    {
+        "title": "The Words of Agur",
+        "book": "PRO",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 33,
+        "numWords": 313,
+        "numChars": 1601
+    },
+    {
+        "title": "The Sayings for King Lemuel",
+        "book": "PRO",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 84,
+        "numChars": 396
+    },
+    {
+        "title": "The Virtues of a Noble Woman",
+        "book": "PRO",
+        "chapter": 31,
+        "startVerse": 10,
+        "endVerse": 31,
+        "numWords": 188,
+        "numChars": 942
+    }
+]

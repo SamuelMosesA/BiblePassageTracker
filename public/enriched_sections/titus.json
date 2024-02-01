@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Paul’s Greeting to Titus",
+        "book": "TIT",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 79,
+        "numChars": 415
+    },
+    {
+        "title": "Appointing Elders on Crete",
+        "book": "TIT",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 9,
+        "numWords": 123,
+        "numChars": 716
+    },
+    {
+        "title": "Correcting False Teachers",
+        "book": "TIT",
+        "chapter": 1,
+        "startVerse": 10,
+        "endVerse": 16,
+        "numWords": 154,
+        "numChars": 899
+    },
+    {
+        "title": "Teaching Sound Doctrine",
+        "book": "TIT",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 183,
+        "numChars": 1046
+    },
+    {
+        "title": "God’s Grace Brings Salvation",
+        "book": "TIT",
+        "chapter": 2,
+        "startVerse": 11,
+        "endVerse": 15,
+        "numWords": 92,
+        "numChars": 517
+    },
+    {
+        "title": "Heirs of Grace",
+        "book": "TIT",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 181,
+        "numChars": 998
+    },
+    {
+        "title": "Avoid Divisions",
+        "book": "TIT",
+        "chapter": 3,
+        "startVerse": 9,
+        "endVerse": 11,
+        "numWords": 41,
+        "numChars": 260
+    },
+    {
+        "title": "Final Remarks and Greetings",
+        "book": "TIT",
+        "chapter": 3,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 80,
+        "numChars": 415
+    }
+]

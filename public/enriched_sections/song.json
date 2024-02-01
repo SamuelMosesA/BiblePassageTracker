@@ -1,0 +1,83 @@
+[
+    {
+        "title": "The Bride Confesses Her Love",
+        "book": "SNG",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 158,
+        "numChars": 775
+    },
+    {
+        "title": "The Bride’s Admiration",
+        "book": "SNG",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 138,
+        "numChars": 649
+    },
+    {
+        "title": "The Bride’s Dream",
+        "book": "SNG",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 44,
+        "numChars": 201
+    },
+    {
+        "title": "Solomon Arrives on His Wedding Day",
+        "book": "SNG",
+        "chapter": 3,
+        "startVerse": 6,
+        "endVerse": 11,
+        "numWords": 52,
+        "numChars": 254
+    },
+    {
+        "title": "Solomon Admires His Bride",
+        "book": "SNG",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 118,
+        "numChars": 567
+    },
+    {
+        "title": "The Bride and Her Beloved",
+        "book": "SNG",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 116,
+        "numChars": 541
+    },
+    {
+        "title": "Together in the Garden",
+        "book": "SNG",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 102,
+        "numChars": 474
+    },
+    {
+        "title": "Admiration by the Bridegroom",
+        "book": "SNG",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 90,
+        "numChars": 427
+    },
+    {
+        "title": "Longing for Her Beloved",
+        "book": "SNG",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 97,
+        "numChars": 421
+    }
+]

@@ -1,0 +1,1379 @@
+[
+    {
+        "title": "The Genealogy of Jesus",
+        "book": "MAT",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 159,
+        "numChars": 791
+    },
+    {
+        "title": "The Birth of Jesus",
+        "book": "MAT",
+        "chapter": 1,
+        "startVerse": 18,
+        "endVerse": 25,
+        "numWords": 202,
+        "numChars": 1025
+    },
+    {
+        "title": "The Pilgrimage of the Magi",
+        "book": "MAT",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 262,
+        "numChars": 1346
+    },
+    {
+        "title": "The Flight to Egypt",
+        "book": "MAT",
+        "chapter": 2,
+        "startVerse": 13,
+        "endVerse": 15,
+        "numWords": 92,
+        "numChars": 455
+    },
+    {
+        "title": "Weeping and Great Mourning",
+        "book": "MAT",
+        "chapter": 2,
+        "startVerse": 16,
+        "endVerse": 18,
+        "numWords": 64,
+        "numChars": 331
+    },
+    {
+        "title": "The Return to Nazareth",
+        "book": "MAT",
+        "chapter": 2,
+        "startVerse": 19,
+        "endVerse": 23,
+        "numWords": 121,
+        "numChars": 610
+    },
+    {
+        "title": "The Mission of John the Baptist",
+        "book": "MAT",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 260,
+        "numChars": 1357
+    },
+    {
+        "title": "The Baptism of Jesus",
+        "book": "MAT",
+        "chapter": 3,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 128,
+        "numChars": 627
+    },
+    {
+        "title": "The Temptation of Jesus",
+        "book": "MAT",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 177,
+        "numChars": 908
+    },
+    {
+        "title": "Jesus Begins His Ministry",
+        "book": "MAT",
+        "chapter": 4,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 66,
+        "numChars": 363
+    },
+    {
+        "title": "The First Disciples",
+        "book": "MAT",
+        "chapter": 4,
+        "startVerse": 18,
+        "endVerse": 22,
+        "numWords": 101,
+        "numChars": 537
+    },
+    {
+        "title": "Jesus Heals the Multitudes",
+        "book": "MAT",
+        "chapter": 4,
+        "startVerse": 23,
+        "endVerse": 25,
+        "numWords": 80,
+        "numChars": 504
+    },
+    {
+        "title": "The Sermon on the Mount",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 27,
+        "numChars": 129
+    },
+    {
+        "title": "The Beatitudes",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 3,
+        "endVerse": 12,
+        "numWords": 98,
+        "numChars": 520
+    },
+    {
+        "title": "Salt and Light",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 13,
+        "endVerse": 16,
+        "numWords": 111,
+        "numChars": 532
+    },
+    {
+        "title": "The Fulfillment of the Law",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 17,
+        "endVerse": 20,
+        "numWords": 119,
+        "numChars": 638
+    },
+    {
+        "title": "Anger and Reconciliation",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 21,
+        "endVerse": 26,
+        "numWords": 211,
+        "numChars": 1131
+    },
+    {
+        "title": "Adultery",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 27,
+        "endVerse": 30,
+        "numWords": 119,
+        "numChars": 584
+    },
+    {
+        "title": "Divorce",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 31,
+        "endVerse": 32,
+        "numWords": 51,
+        "numChars": 307
+    },
+    {
+        "title": "Oaths and Vows",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 33,
+        "endVerse": 37,
+        "numWords": 102,
+        "numChars": 498
+    },
+    {
+        "title": "Love Your Enemies",
+        "book": "MAT",
+        "chapter": 5,
+        "startVerse": 38,
+        "endVerse": 48,
+        "numWords": 262,
+        "numChars": 1343
+    },
+    {
+        "title": "Giving to the Needy",
+        "book": "MAT",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 118,
+        "numChars": 577
+    },
+    {
+        "title": "The Lord’s Prayer",
+        "book": "MAT",
+        "chapter": 6,
+        "startVerse": 5,
+        "endVerse": 15,
+        "numWords": 171,
+        "numChars": 864
+    },
+    {
+        "title": "Proper Fasting",
+        "book": "MAT",
+        "chapter": 6,
+        "startVerse": 16,
+        "endVerse": 18,
+        "numWords": 74,
+        "numChars": 378
+    },
+    {
+        "title": "Treasures in Heaven",
+        "book": "MAT",
+        "chapter": 6,
+        "startVerse": 19,
+        "endVerse": 21,
+        "numWords": 63,
+        "numChars": 335
+    },
+    {
+        "title": "The Lamp of the Body",
+        "book": "MAT",
+        "chapter": 6,
+        "startVerse": 22,
+        "endVerse": 24,
+        "numWords": 106,
+        "numChars": 527
+    },
+    {
+        "title": "Do Not Worry",
+        "book": "MAT",
+        "chapter": 6,
+        "startVerse": 25,
+        "endVerse": 34,
+        "numWords": 256,
+        "numChars": 1323
+    },
+    {
+        "title": "Judging Others",
+        "book": "MAT",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 136,
+        "numChars": 658
+    },
+    {
+        "title": "Ask, Seek, Knock",
+        "book": "MAT",
+        "chapter": 7,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 123,
+        "numChars": 579
+    },
+    {
+        "title": "The Narrow Gate",
+        "book": "MAT",
+        "chapter": 7,
+        "startVerse": 13,
+        "endVerse": 14,
+        "numWords": 43,
+        "numChars": 210
+    },
+    {
+        "title": "A Tree and Its Fruit",
+        "book": "MAT",
+        "chapter": 7,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 159,
+        "numChars": 841
+    },
+    {
+        "title": "The House on the Rock",
+        "book": "MAT",
+        "chapter": 7,
+        "startVerse": 24,
+        "endVerse": 27,
+        "numWords": 98,
+        "numChars": 501
+    },
+    {
+        "title": "The Authority of Jesus",
+        "book": "MAT",
+        "chapter": 7,
+        "startVerse": 28,
+        "endVerse": 29,
+        "numWords": 28,
+        "numChars": 157
+    },
+    {
+        "title": "The Leper’s Prayer",
+        "book": "MAT",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 98,
+        "numChars": 549
+    },
+    {
+        "title": "The Faith of the Centurion",
+        "book": "MAT",
+        "chapter": 8,
+        "startVerse": 5,
+        "endVerse": 13,
+        "numWords": 208,
+        "numChars": 1054
+    },
+    {
+        "title": "Jesus Heals at Peter’s House",
+        "book": "MAT",
+        "chapter": 8,
+        "startVerse": 14,
+        "endVerse": 17,
+        "numWords": 71,
+        "numChars": 378
+    },
+    {
+        "title": "The Cost of Discipleship",
+        "book": "MAT",
+        "chapter": 8,
+        "startVerse": 18,
+        "endVerse": 22,
+        "numWords": 101,
+        "numChars": 504
+    },
+    {
+        "title": "Jesus Calms the Storm",
+        "book": "MAT",
+        "chapter": 8,
+        "startVerse": 23,
+        "endVerse": 27,
+        "numWords": 93,
+        "numChars": 475
+    },
+    {
+        "title": "The Demons and the Pigs",
+        "book": "MAT",
+        "chapter": 8,
+        "startVerse": 28,
+        "endVerse": 34,
+        "numWords": 164,
+        "numChars": 854
+    },
+    {
+        "title": "Jesus Heals a Paralytic",
+        "book": "MAT",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 164,
+        "numChars": 834
+    },
+    {
+        "title": "Jesus Calls Matthew",
+        "book": "MAT",
+        "chapter": 9,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 122,
+        "numChars": 657
+    },
+    {
+        "title": "Questions about Fasting",
+        "book": "MAT",
+        "chapter": 9,
+        "startVerse": 14,
+        "endVerse": 15,
+        "numWords": 68,
+        "numChars": 348
+    },
+    {
+        "title": "The Patches and the Wineskins",
+        "book": "MAT",
+        "chapter": 9,
+        "startVerse": 16,
+        "endVerse": 17,
+        "numWords": 65,
+        "numChars": 343
+    },
+    {
+        "title": "The Healing Touch of Jesus",
+        "book": "MAT",
+        "chapter": 9,
+        "startVerse": 18,
+        "endVerse": 26,
+        "numWords": 173,
+        "numChars": 895
+    },
+    {
+        "title": "Jesus Heals the Blind and Mute",
+        "book": "MAT",
+        "chapter": 9,
+        "startVerse": 27,
+        "endVerse": 34,
+        "numWords": 149,
+        "numChars": 771
+    },
+    {
+        "title": "The Lord of the Harvest",
+        "book": "MAT",
+        "chapter": 9,
+        "startVerse": 35,
+        "endVerse": 38,
+        "numWords": 76,
+        "numChars": 447
+    },
+    {
+        "title": "The Twelve Apostles",
+        "book": "MAT",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 87,
+        "numChars": 529
+    },
+    {
+        "title": "The Ministry of the Twelve",
+        "book": "MAT",
+        "chapter": 10,
+        "startVerse": 5,
+        "endVerse": 15,
+        "numWords": 213,
+        "numChars": 1101
+    },
+    {
+        "title": "Sheep among Wolves",
+        "book": "MAT",
+        "chapter": 10,
+        "startVerse": 16,
+        "endVerse": 25,
+        "numWords": 229,
+        "numChars": 1178
+    },
+    {
+        "title": "Fear God Alone",
+        "book": "MAT",
+        "chapter": 10,
+        "startVerse": 26,
+        "endVerse": 31,
+        "numWords": 140,
+        "numChars": 715
+    },
+    {
+        "title": "Confessing Christ",
+        "book": "MAT",
+        "chapter": 10,
+        "startVerse": 32,
+        "endVerse": 33,
+        "numWords": 33,
+        "numChars": 181
+    },
+    {
+        "title": "Not Peace but a Sword",
+        "book": "MAT",
+        "chapter": 10,
+        "startVerse": 34,
+        "endVerse": 39,
+        "numWords": 101,
+        "numChars": 469
+    },
+    {
+        "title": "The Reward of Service",
+        "book": "MAT",
+        "chapter": 10,
+        "startVerse": 40,
+        "endVerse": 42,
+        "numWords": 80,
+        "numChars": 423
+    },
+    {
+        "title": "John’s Inquiry",
+        "book": "MAT",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 143,
+        "numChars": 735
+    },
+    {
+        "title": "Jesus Testifies about John",
+        "book": "MAT",
+        "chapter": 11,
+        "startVerse": 7,
+        "endVerse": 19,
+        "numWords": 261,
+        "numChars": 1342
+    },
+    {
+        "title": "Woe to the Unrepentant",
+        "book": "MAT",
+        "chapter": 11,
+        "startVerse": 20,
+        "endVerse": 24,
+        "numWords": 135,
+        "numChars": 697
+    },
+    {
+        "title": "Rest for the Weary",
+        "book": "MAT",
+        "chapter": 11,
+        "startVerse": 25,
+        "endVerse": 30,
+        "numWords": 128,
+        "numChars": 648
+    },
+    {
+        "title": "The Lord of the Sabbath",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 165,
+        "numChars": 865
+    },
+    {
+        "title": "Jesus Heals on the Sabbath",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 121,
+        "numChars": 588
+    },
+    {
+        "title": "God’s Chosen Servant",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 15,
+        "endVerse": 21,
+        "numWords": 70,
+        "numChars": 358
+    },
+    {
+        "title": "A House Divided",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 22,
+        "endVerse": 30,
+        "numWords": 200,
+        "numChars": 1058
+    },
+    {
+        "title": "The Unpardonable Sin",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 31,
+        "endVerse": 32,
+        "numWords": 55,
+        "numChars": 295
+    },
+    {
+        "title": "Good and Bad Fruit",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 33,
+        "endVerse": 37,
+        "numWords": 118,
+        "numChars": 572
+    },
+    {
+        "title": "The Sign of Jonah",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 38,
+        "endVerse": 42,
+        "numWords": 146,
+        "numChars": 746
+    },
+    {
+        "title": "An Unclean Spirit Returns",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 43,
+        "endVerse": 45,
+        "numWords": 87,
+        "numChars": 440
+    },
+    {
+        "title": "Jesus’ Mother and Brothers",
+        "book": "MAT",
+        "chapter": 12,
+        "startVerse": 46,
+        "endVerse": 50,
+        "numWords": 83,
+        "numChars": 462
+    },
+    {
+        "title": "The Parable of the Sower",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 155,
+        "numChars": 796
+    },
+    {
+        "title": "The Purpose of Jesus’ Parables",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 134,
+        "numChars": 677
+    },
+    {
+        "title": "The Parable of the Sower Explained",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 18,
+        "endVerse": 23,
+        "numWords": 158,
+        "numChars": 831
+    },
+    {
+        "title": "The Parable of the Weeds",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 24,
+        "endVerse": 30,
+        "numWords": 132,
+        "numChars": 693
+    },
+    {
+        "title": "The Parable of the Mustard Seed",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 31,
+        "endVerse": 32,
+        "numWords": 56,
+        "numChars": 283
+    },
+    {
+        "title": "The Parable of the Leaven",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 33,
+        "endVerse": 33,
+        "numWords": 30,
+        "numChars": 162
+    },
+    {
+        "title": "I Will Open My Mouth in Parables",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 34,
+        "endVerse": 35,
+        "numWords": 29,
+        "numChars": 163
+    },
+    {
+        "title": "The Parable of the Weeds Explained",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 36,
+        "endVerse": 43,
+        "numWords": 170,
+        "numChars": 846
+    },
+    {
+        "title": "The Parables of the Treasure and the Pearl",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 44,
+        "endVerse": 46,
+        "numWords": 67,
+        "numChars": 320
+    },
+    {
+        "title": "The Parable of the Net",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 47,
+        "endVerse": 52,
+        "numWords": 125,
+        "numChars": 640
+    },
+    {
+        "title": "The Rejection at Nazareth",
+        "book": "MAT",
+        "chapter": 13,
+        "startVerse": 53,
+        "endVerse": 58,
+        "numWords": 100,
+        "numChars": 566
+    },
+    {
+        "title": "The Beheading of John",
+        "book": "MAT",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 204,
+        "numChars": 1071
+    },
+    {
+        "title": "The Feeding of the Five Thousand",
+        "book": "MAT",
+        "chapter": 14,
+        "startVerse": 13,
+        "endVerse": 21,
+        "numWords": 200,
+        "numChars": 1047
+    },
+    {
+        "title": "Jesus Walks on Water",
+        "book": "MAT",
+        "chapter": 14,
+        "startVerse": 22,
+        "endVerse": 33,
+        "numWords": 251,
+        "numChars": 1269
+    },
+    {
+        "title": "Jesus Heals at Gennesaret",
+        "book": "MAT",
+        "chapter": 14,
+        "startVerse": 34,
+        "endVerse": 36,
+        "numWords": 53,
+        "numChars": 282
+    },
+    {
+        "title": "The Tradition of the Elders",
+        "book": "MAT",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 173,
+        "numChars": 928
+    },
+    {
+        "title": "What Defiles a Man",
+        "book": "MAT",
+        "chapter": 15,
+        "startVerse": 10,
+        "endVerse": 20,
+        "numWords": 178,
+        "numChars": 966
+    },
+    {
+        "title": "The Faith of the Canaanite Woman",
+        "book": "MAT",
+        "chapter": 15,
+        "startVerse": 21,
+        "endVerse": 28,
+        "numWords": 156,
+        "numChars": 808
+    },
+    {
+        "title": "The Feeding of the Four Thousand",
+        "book": "MAT",
+        "chapter": 15,
+        "startVerse": 29,
+        "endVerse": 39,
+        "numWords": 238,
+        "numChars": 1264
+    },
+    {
+        "title": "The Demand for a Sign",
+        "book": "MAT",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 113,
+        "numChars": 590
+    },
+    {
+        "title": "The Leaven of the Pharisees and Sadducees",
+        "book": "MAT",
+        "chapter": 16,
+        "startVerse": 5,
+        "endVerse": 12,
+        "numWords": 148,
+        "numChars": 842
+    },
+    {
+        "title": "Peter’s Confession of Christ",
+        "book": "MAT",
+        "chapter": 16,
+        "startVerse": 13,
+        "endVerse": 20,
+        "numWords": 168,
+        "numChars": 881
+    },
+    {
+        "title": "Christ’s Passion Foretold",
+        "book": "MAT",
+        "chapter": 16,
+        "startVerse": 21,
+        "endVerse": 23,
+        "numWords": 108,
+        "numChars": 533
+    },
+    {
+        "title": "Take Up Your Cross",
+        "book": "MAT",
+        "chapter": 16,
+        "startVerse": 24,
+        "endVerse": 28,
+        "numWords": 123,
+        "numChars": 600
+    },
+    {
+        "title": "The Transfiguration",
+        "book": "MAT",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 268,
+        "numChars": 1428
+    },
+    {
+        "title": "The Boy with a Demon",
+        "book": "MAT",
+        "chapter": 17,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 101,
+        "numChars": 507
+    },
+    {
+        "title": "The Power of Faith",
+        "book": "MAT",
+        "chapter": 17,
+        "startVerse": 19,
+        "endVerse": 20,
+        "numWords": 81,
+        "numChars": 423
+    },
+    {
+        "title": "The Second Prediction of the Passion",
+        "book": "MAT",
+        "chapter": 17,
+        "startVerse": 22,
+        "endVerse": 23,
+        "numWords": 44,
+        "numChars": 227
+    },
+    {
+        "title": "The Temple Tax",
+        "book": "MAT",
+        "chapter": 17,
+        "startVerse": 24,
+        "endVerse": 27,
+        "numWords": 98,
+        "numChars": 522
+    },
+    {
+        "title": "The Greatest in the Kingdom",
+        "book": "MAT",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 81,
+        "numChars": 445
+    },
+    {
+        "title": "Temptations and Trespasses",
+        "book": "MAT",
+        "chapter": 18,
+        "startVerse": 6,
+        "endVerse": 9,
+        "numWords": 155,
+        "numChars": 732
+    },
+    {
+        "title": "The Parable of the Lost Sheep",
+        "book": "MAT",
+        "chapter": 18,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 130,
+        "numChars": 622
+    },
+    {
+        "title": "A Brother Who Sins",
+        "book": "MAT",
+        "chapter": 18,
+        "startVerse": 15,
+        "endVerse": 18,
+        "numWords": 118,
+        "numChars": 608
+    },
+    {
+        "title": "Ask in My Name",
+        "book": "MAT",
+        "chapter": 18,
+        "startVerse": 19,
+        "endVerse": 20,
+        "numWords": 45,
+        "numChars": 210
+    },
+    {
+        "title": "The Unforgiving Servant",
+        "book": "MAT",
+        "chapter": 18,
+        "startVerse": 21,
+        "endVerse": 35,
+        "numWords": 333,
+        "numChars": 1801
+    },
+    {
+        "title": "Teachings about Divorce",
+        "book": "MAT",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 286,
+        "numChars": 1551
+    },
+    {
+        "title": "Jesus Blesses the Children",
+        "book": "MAT",
+        "chapter": 19,
+        "startVerse": 13,
+        "endVerse": 15,
+        "numWords": 67,
+        "numChars": 344
+    },
+    {
+        "title": "The Rich Young Man",
+        "book": "MAT",
+        "chapter": 19,
+        "startVerse": 16,
+        "endVerse": 30,
+        "numWords": 367,
+        "numChars": 1918
+    },
+    {
+        "title": "The Parable of the Workers",
+        "book": "MAT",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 346,
+        "numChars": 1769
+    },
+    {
+        "title": "The Third Prediction of the Passion",
+        "book": "MAT",
+        "chapter": 20,
+        "startVerse": 17,
+        "endVerse": 19,
+        "numWords": 70,
+        "numChars": 353
+    },
+    {
+        "title": "A Mother’s Request",
+        "book": "MAT",
+        "chapter": 20,
+        "startVerse": 20,
+        "endVerse": 28,
+        "numWords": 210,
+        "numChars": 1063
+    },
+    {
+        "title": "The Blind Men by the Road",
+        "book": "MAT",
+        "chapter": 20,
+        "startVerse": 29,
+        "endVerse": 34,
+        "numWords": 103,
+        "numChars": 552
+    },
+    {
+        "title": "The Triumphal Entry",
+        "book": "MAT",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 178,
+        "numChars": 943
+    },
+    {
+        "title": "Jesus Cleanses the Temple",
+        "book": "MAT",
+        "chapter": 21,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 149,
+        "numChars": 793
+    },
+    {
+        "title": "The Barren Fig Tree",
+        "book": "MAT",
+        "chapter": 21,
+        "startVerse": 18,
+        "endVerse": 22,
+        "numWords": 121,
+        "numChars": 607
+    },
+    {
+        "title": "Jesus’ Authority Challenged",
+        "book": "MAT",
+        "chapter": 21,
+        "startVerse": 23,
+        "endVerse": 27,
+        "numWords": 108,
+        "numChars": 547
+    },
+    {
+        "title": "The Parable of the Two Sons",
+        "book": "MAT",
+        "chapter": 21,
+        "startVerse": 28,
+        "endVerse": 32,
+        "numWords": 108,
+        "numChars": 512
+    },
+    {
+        "title": "The Parable of the Wicked Tenants",
+        "book": "MAT",
+        "chapter": 21,
+        "startVerse": 33,
+        "endVerse": 46,
+        "numWords": 303,
+        "numChars": 1591
+    },
+    {
+        "title": "The Parable of the Banquet",
+        "book": "MAT",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 250,
+        "numChars": 1344
+    },
+    {
+        "title": "Paying Taxes to Caesar",
+        "book": "MAT",
+        "chapter": 22,
+        "startVerse": 15,
+        "endVerse": 22,
+        "numWords": 128,
+        "numChars": 670
+    },
+    {
+        "title": "The Sadducees and the Resurrection",
+        "book": "MAT",
+        "chapter": 22,
+        "startVerse": 23,
+        "endVerse": 33,
+        "numWords": 214,
+        "numChars": 1144
+    },
+    {
+        "title": "The Greatest Commandment",
+        "book": "MAT",
+        "chapter": 22,
+        "startVerse": 34,
+        "endVerse": 40,
+        "numWords": 91,
+        "numChars": 534
+    },
+    {
+        "title": "Whose Son Is the Christ?",
+        "book": "MAT",
+        "chapter": 22,
+        "startVerse": 41,
+        "endVerse": 46,
+        "numWords": 77,
+        "numChars": 375
+    },
+    {
+        "title": "Woes to Scribes and Pharisees",
+        "book": "MAT",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 36,
+        "numWords": 815,
+        "numChars": 4369
+    },
+    {
+        "title": "Lament over Jerusalem",
+        "book": "MAT",
+        "chapter": 23,
+        "startVerse": 37,
+        "endVerse": 39,
+        "numWords": 78,
+        "numChars": 415
+    },
+    {
+        "title": "Temple Destruction and Other Signs",
+        "book": "MAT",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 170,
+        "numChars": 879
+    },
+    {
+        "title": "Witnessing to All Nations",
+        "book": "MAT",
+        "chapter": 24,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 96,
+        "numChars": 491
+    },
+    {
+        "title": "The Abomination of Desolation",
+        "book": "MAT",
+        "chapter": 24,
+        "startVerse": 15,
+        "endVerse": 25,
+        "numWords": 194,
+        "numChars": 1027
+    },
+    {
+        "title": "The Return of the Son of Man",
+        "book": "MAT",
+        "chapter": 24,
+        "startVerse": 26,
+        "endVerse": 31,
+        "numWords": 155,
+        "numChars": 758
+    },
+    {
+        "title": "The Lesson of the Fig Tree",
+        "book": "MAT",
+        "chapter": 24,
+        "startVerse": 32,
+        "endVerse": 35,
+        "numWords": 81,
+        "numChars": 414
+    },
+    {
+        "title": "Readiness at Any Hour",
+        "book": "MAT",
+        "chapter": 24,
+        "startVerse": 36,
+        "endVerse": 51,
+        "numWords": 338,
+        "numChars": 1659
+    },
+    {
+        "title": "The Parable of the Ten Virgins",
+        "book": "MAT",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 221,
+        "numChars": 1122
+    },
+    {
+        "title": "The Parable of the Talents",
+        "book": "MAT",
+        "chapter": 25,
+        "startVerse": 14,
+        "endVerse": 30,
+        "numWords": 458,
+        "numChars": 2414
+    },
+    {
+        "title": "The Sheep and the Goats",
+        "book": "MAT",
+        "chapter": 25,
+        "startVerse": 31,
+        "endVerse": 46,
+        "numWords": 376,
+        "numChars": 1805
+    },
+    {
+        "title": "The Plot to Kill Jesus",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 85,
+        "numChars": 438
+    },
+    {
+        "title": "Jesus Anointed at Bethany",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 6,
+        "endVerse": 13,
+        "numWords": 152,
+        "numChars": 780
+    },
+    {
+        "title": "Judas Agrees to Betray Jesus",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 14,
+        "endVerse": 16,
+        "numWords": 53,
+        "numChars": 265
+    },
+    {
+        "title": "Preparing the Passover",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 17,
+        "endVerse": 19,
+        "numWords": 86,
+        "numChars": 455
+    },
+    {
+        "title": "The Last Supper",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 20,
+        "endVerse": 30,
+        "numWords": 229,
+        "numChars": 1131
+    },
+    {
+        "title": "Jesus Predicts Peter’s Denial",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 94,
+        "numChars": 467
+    },
+    {
+        "title": "Jesus Prays at Gethsemane",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 36,
+        "endVerse": 46,
+        "numWords": 238,
+        "numChars": 1224
+    },
+    {
+        "title": "The Betrayal of Jesus",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 47,
+        "endVerse": 56,
+        "numWords": 222,
+        "numChars": 1162
+    },
+    {
+        "title": "Jesus before the Sanhedrin",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 57,
+        "endVerse": 68,
+        "numWords": 241,
+        "numChars": 1261
+    },
+    {
+        "title": "Peter Denies Jesus",
+        "book": "MAT",
+        "chapter": 26,
+        "startVerse": 69,
+        "endVerse": 75,
+        "numWords": 150,
+        "numChars": 766
+    },
+    {
+        "title": "Jesus Delivered to Pilate",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 34,
+        "numChars": 183
+    },
+    {
+        "title": "Judas Hangs Himself",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 3,
+        "endVerse": 10,
+        "numWords": 132,
+        "numChars": 711
+    },
+    {
+        "title": "Jesus before Pilate",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 11,
+        "endVerse": 14,
+        "numWords": 63,
+        "numChars": 345
+    },
+    {
+        "title": "The Crowd Chooses Barabbas",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 181,
+        "numChars": 958
+    },
+    {
+        "title": "Pilate Washes His Hands",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 24,
+        "endVerse": 26,
+        "numWords": 80,
+        "numChars": 446
+    },
+    {
+        "title": "The Soldiers Mock Jesus",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 27,
+        "endVerse": 31,
+        "numWords": 103,
+        "numChars": 528
+    },
+    {
+        "title": "The Crucifixion",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 32,
+        "endVerse": 44,
+        "numWords": 259,
+        "numChars": 1355
+    },
+    {
+        "title": "The Death of Jesus",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 45,
+        "endVerse": 56,
+        "numWords": 290,
+        "numChars": 1542
+    },
+    {
+        "title": "The Burial of Jesus",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 57,
+        "endVerse": 61,
+        "numWords": 95,
+        "numChars": 469
+    },
+    {
+        "title": "The Guards at the Tomb",
+        "book": "MAT",
+        "chapter": 27,
+        "startVerse": 62,
+        "endVerse": 66,
+        "numWords": 111,
+        "numChars": 589
+    },
+    {
+        "title": "The Resurrection",
+        "book": "MAT",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 233,
+        "numChars": 1190
+    },
+    {
+        "title": "The Report of the Guards",
+        "book": "MAT",
+        "chapter": 28,
+        "startVerse": 11,
+        "endVerse": 15,
+        "numWords": 109,
+        "numChars": 568
+    },
+    {
+        "title": "The Great Commission",
+        "book": "MAT",
+        "chapter": 28,
+        "startVerse": 16,
+        "endVerse": 20,
+        "numWords": 100,
+        "numChars": 537
+    }
+]

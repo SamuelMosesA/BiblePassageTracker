@@ -1,0 +1,47 @@
+[
+    {
+        "title": "A Call to Rebuild the Temple",
+        "book": "HAG",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 130,
+        "numChars": 646
+    },
+    {
+        "title": "The People Obey",
+        "book": "HAG",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 136,
+        "numChars": 706
+    },
+    {
+        "title": "The Coming Glory of God’s House",
+        "book": "HAG",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 139,
+        "numChars": 682
+    },
+    {
+        "title": "Blessings for a Defiled People",
+        "book": "HAG",
+        "chapter": 2,
+        "startVerse": 10,
+        "endVerse": 19,
+        "numWords": 274,
+        "numChars": 1467
+    },
+    {
+        "title": "Zerubbabel the LORD’s Signet Ring",
+        "book": "HAG",
+        "chapter": 2,
+        "startVerse": 20,
+        "endVerse": 23,
+        "numWords": 47,
+        "numChars": 237
+    }
+]

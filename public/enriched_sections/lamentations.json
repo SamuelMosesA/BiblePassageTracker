@@ -1,0 +1,65 @@
+[
+    {
+        "title": "How Lonely Lies the City!",
+        "book": "LAM",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 165,
+        "numChars": 851
+    },
+    {
+        "title": "God’s Anger over Jerusalem",
+        "book": "LAM",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 156,
+        "numChars": 790
+    },
+    {
+        "title": "The Prophet’s Afflictions",
+        "book": "LAM",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 154,
+        "numChars": 732
+    },
+    {
+        "title": "The Prophet’s Hope",
+        "book": "LAM",
+        "chapter": 3,
+        "startVerse": 19,
+        "endVerse": 36,
+        "numWords": 171,
+        "numChars": 843
+    },
+    {
+        "title": "God’s Justice",
+        "book": "LAM",
+        "chapter": 3,
+        "startVerse": 37,
+        "endVerse": 66,
+        "numWords": 210,
+        "numChars": 999
+    },
+    {
+        "title": "The Distress of Zion",
+        "book": "LAM",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 178,
+        "numChars": 947
+    },
+    {
+        "title": "A Prayer for Restoration",
+        "book": "LAM",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 150,
+        "numChars": 761
+    }
+]

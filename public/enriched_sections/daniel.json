@@ -1,0 +1,299 @@
+[
+    {
+        "title": "Daniel Removed to Babylon",
+        "book": "DAN",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 205,
+        "numChars": 1172
+    },
+    {
+        "title": "Daniel’s Faithfulness",
+        "book": "DAN",
+        "chapter": 1,
+        "startVerse": 8,
+        "endVerse": 16,
+        "numWords": 208,
+        "numChars": 1114
+    },
+    {
+        "title": "Daniel’s Wisdom",
+        "book": "DAN",
+        "chapter": 1,
+        "startVerse": 17,
+        "endVerse": 21,
+        "numWords": 115,
+        "numChars": 654
+    },
+    {
+        "title": "Nebuchadnezzar’s Troubling Dream",
+        "book": "DAN",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 368,
+        "numChars": 1985
+    },
+    {
+        "title": "The Dream Revealed to Daniel",
+        "book": "DAN",
+        "chapter": 2,
+        "startVerse": 14,
+        "endVerse": 23,
+        "numWords": 149,
+        "numChars": 781
+    },
+    {
+        "title": "Daniel Interprets the Dream",
+        "book": "DAN",
+        "chapter": 2,
+        "startVerse": 24,
+        "endVerse": 45,
+        "numWords": 682,
+        "numChars": 3531
+    },
+    {
+        "title": "Nebuchadnezzar Promotes Daniel",
+        "book": "DAN",
+        "chapter": 2,
+        "startVerse": 46,
+        "endVerse": 49,
+        "numWords": 107,
+        "numChars": 608
+    },
+    {
+        "title": "Nebuchadnezzar’s Golden Statue",
+        "book": "DAN",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 249,
+        "numChars": 1453
+    },
+    {
+        "title": "Shadrach, Meshach, and Abednego Accused",
+        "book": "DAN",
+        "chapter": 3,
+        "startVerse": 8,
+        "endVerse": 18,
+        "numWords": 316,
+        "numChars": 1681
+    },
+    {
+        "title": "The Fiery Furnace",
+        "book": "DAN",
+        "chapter": 3,
+        "startVerse": 19,
+        "endVerse": 30,
+        "numWords": 350,
+        "numChars": 2026
+    },
+    {
+        "title": "Nebuchadnezzar Confesses God’s Kingdom",
+        "book": "DAN",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 27,
+        "numChars": 134
+    },
+    {
+        "title": "Nebuchadnezzar’s Dream of a Great Tree",
+        "book": "DAN",
+        "chapter": 4,
+        "startVerse": 4,
+        "endVerse": 18,
+        "numWords": 301,
+        "numChars": 1485
+    },
+    {
+        "title": "Daniel Interprets the Second Dream",
+        "book": "DAN",
+        "chapter": 4,
+        "startVerse": 19,
+        "endVerse": 27,
+        "numWords": 268,
+        "numChars": 1407
+    },
+    {
+        "title": "The Second Dream Fulfilled",
+        "book": "DAN",
+        "chapter": 4,
+        "startVerse": 28,
+        "endVerse": 33,
+        "numWords": 183,
+        "numChars": 955
+    },
+    {
+        "title": "Nebuchadnezzar Restored",
+        "book": "DAN",
+        "chapter": 4,
+        "startVerse": 34,
+        "endVerse": 37,
+        "numWords": 118,
+        "numChars": 605
+    },
+    {
+        "title": "Belshazzar’s Feast",
+        "book": "DAN",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 156,
+        "numChars": 878
+    },
+    {
+        "title": "The Handwriting on the Wall",
+        "book": "DAN",
+        "chapter": 5,
+        "startVerse": 5,
+        "endVerse": 12,
+        "numWords": 277,
+        "numChars": 1521
+    },
+    {
+        "title": "Daniel Interprets the Handwriting",
+        "book": "DAN",
+        "chapter": 5,
+        "startVerse": 13,
+        "endVerse": 31,
+        "numWords": 537,
+        "numChars": 2967
+    },
+    {
+        "title": "The Plot against Daniel",
+        "book": "DAN",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 218,
+        "numChars": 1311
+    },
+    {
+        "title": "Daniel in the Lions’ Den",
+        "book": "DAN",
+        "chapter": 6,
+        "startVerse": 10,
+        "endVerse": 24,
+        "numWords": 458,
+        "numChars": 2368
+    },
+    {
+        "title": "Darius Honors God",
+        "book": "DAN",
+        "chapter": 6,
+        "startVerse": 25,
+        "endVerse": 28,
+        "numWords": 73,
+        "numChars": 397
+    },
+    {
+        "title": "Daniel’s Vision of the Four Beasts",
+        "book": "DAN",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 308,
+        "numChars": 1600
+    },
+    {
+        "title": "Daniel’s Vision of the Ancient of Days",
+        "book": "DAN",
+        "chapter": 7,
+        "startVerse": 9,
+        "endVerse": 12,
+        "numWords": 71,
+        "numChars": 358
+    },
+    {
+        "title": "Daniel’s Vision of the Son of Man",
+        "book": "DAN",
+        "chapter": 7,
+        "startVerse": 13,
+        "endVerse": 14,
+        "numWords": 17,
+        "numChars": 73
+    },
+    {
+        "title": "Daniel’s Visions Interpreted",
+        "book": "DAN",
+        "chapter": 7,
+        "startVerse": 15,
+        "endVerse": 28,
+        "numWords": 376,
+        "numChars": 2055
+    },
+    {
+        "title": "Daniel’s Vision of the Ram and the Goat",
+        "book": "DAN",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 434,
+        "numChars": 2257
+    },
+    {
+        "title": "Gabriel Interprets Daniel’s Vision",
+        "book": "DAN",
+        "chapter": 8,
+        "startVerse": 15,
+        "endVerse": 27,
+        "numWords": 334,
+        "numChars": 1751
+    },
+    {
+        "title": "Daniel’s Prayer for His People",
+        "book": "DAN",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 648,
+        "numChars": 3488
+    },
+    {
+        "title": "Gabriel’s Prophecy of the Seventy Weeks",
+        "book": "DAN",
+        "chapter": 9,
+        "startVerse": 20,
+        "endVerse": 27,
+        "numWords": 348,
+        "numChars": 1930
+    },
+    {
+        "title": "Daniel’s Vision by the Tigris",
+        "book": "DAN",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 600,
+        "numChars": 3052
+    },
+    {
+        "title": "Kings of the South and North",
+        "book": "DAN",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 35,
+        "numWords": 1111,
+        "numChars": 5748
+    },
+    {
+        "title": "The King Who Exalts Himself",
+        "book": "DAN",
+        "chapter": 11,
+        "startVerse": 36,
+        "endVerse": 45,
+        "numWords": 347,
+        "numChars": 1855
+    },
+    {
+        "title": "The End Times",
+        "book": "DAN",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 393,
+        "numChars": 2081
+    }
+]

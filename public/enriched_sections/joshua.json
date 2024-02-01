@@ -1,0 +1,461 @@
+[
+    {
+        "title": "God Instructs Joshua",
+        "book": "JOS",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 270,
+        "numChars": 1386
+    },
+    {
+        "title": "Joshua Takes Charge",
+        "book": "JOS",
+        "chapter": 1,
+        "startVerse": 10,
+        "endVerse": 18,
+        "numWords": 268,
+        "numChars": 1384
+    },
+    {
+        "title": "Rahab Welcomes the Spies",
+        "book": "JOS",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 208,
+        "numChars": 1021
+    },
+    {
+        "title": "The Promise to Rahab",
+        "book": "JOS",
+        "chapter": 2,
+        "startVerse": 8,
+        "endVerse": 24,
+        "numWords": 538,
+        "numChars": 2694
+    },
+    {
+        "title": "Crossing the Jordan",
+        "book": "JOS",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 487,
+        "numChars": 2558
+    },
+    {
+        "title": "Twelve Stones from the Jordan",
+        "book": "JOS",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 494,
+        "numChars": 2611
+    },
+    {
+        "title": "The Camp at Gilgal",
+        "book": "JOS",
+        "chapter": 4,
+        "startVerse": 19,
+        "endVerse": 24,
+        "numWords": 151,
+        "numChars": 750
+    },
+    {
+        "title": "The Circumcision and Passover at Gilgal",
+        "book": "JOS",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 395,
+        "numChars": 2150
+    },
+    {
+        "title": "The Commander of the LORD’s Army",
+        "book": "JOS",
+        "chapter": 5,
+        "startVerse": 13,
+        "endVerse": 15,
+        "numWords": 72,
+        "numChars": 372
+    },
+    {
+        "title": "The Walls of Jericho",
+        "book": "JOS",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 836,
+        "numChars": 4374
+    },
+    {
+        "title": "The Defeat at Ai",
+        "book": "JOS",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 604,
+        "numChars": 3213
+    },
+    {
+        "title": "The Sin of Achan",
+        "book": "JOS",
+        "chapter": 7,
+        "startVerse": 16,
+        "endVerse": 26,
+        "numWords": 378,
+        "numChars": 1991
+    },
+    {
+        "title": "The Conquest of Ai",
+        "book": "JOS",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 29,
+        "numWords": 909,
+        "numChars": 4547
+    },
+    {
+        "title": "Joshua Renews the Covenant",
+        "book": "JOS",
+        "chapter": 8,
+        "startVerse": 30,
+        "endVerse": 35,
+        "numWords": 229,
+        "numChars": 1234
+    },
+    {
+        "title": "The Deceit of the Gibeonites",
+        "book": "JOS",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 724,
+        "numChars": 3843
+    },
+    {
+        "title": "The Day the Sun Stood Still",
+        "book": "JOS",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 426,
+        "numChars": 2309
+    },
+    {
+        "title": "The Victory at Makkedah",
+        "book": "JOS",
+        "chapter": 10,
+        "startVerse": 16,
+        "endVerse": 28,
+        "numWords": 348,
+        "numChars": 1865
+    },
+    {
+        "title": "Conquest of the Southern Cities",
+        "book": "JOS",
+        "chapter": 10,
+        "startVerse": 29,
+        "endVerse": 43,
+        "numWords": 408,
+        "numChars": 2190
+    },
+    {
+        "title": "Conquest of the Northern Cities",
+        "book": "JOS",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 462,
+        "numChars": 2552
+    },
+    {
+        "title": "Joshua Takes the Whole Land",
+        "book": "JOS",
+        "chapter": 11,
+        "startVerse": 16,
+        "endVerse": 23,
+        "numWords": 237,
+        "numChars": 1296
+    },
+    {
+        "title": "The Kings Defeated East of the Jordan",
+        "book": "JOS",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 210,
+        "numChars": 1118
+    },
+    {
+        "title": "The Kings Defeated West of the Jordan",
+        "book": "JOS",
+        "chapter": 12,
+        "startVerse": 7,
+        "endVerse": 24,
+        "numWords": 184,
+        "numChars": 1022
+    },
+    {
+        "title": "Lands Yet Unconquered",
+        "book": "JOS",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 168,
+        "numChars": 911
+    },
+    {
+        "title": "The Inheritance East of the Jordan",
+        "book": "JOS",
+        "chapter": 13,
+        "startVerse": 8,
+        "endVerse": 14,
+        "numWords": 189,
+        "numChars": 1008
+    },
+    {
+        "title": "Reuben’s Inheritance",
+        "book": "JOS",
+        "chapter": 13,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 152,
+        "numChars": 826
+    },
+    {
+        "title": "Gad’s Inheritance",
+        "book": "JOS",
+        "chapter": 13,
+        "startVerse": 24,
+        "endVerse": 28,
+        "numWords": 132,
+        "numChars": 722
+    },
+    {
+        "title": "Manasseh’s Eastern Inheritance",
+        "book": "JOS",
+        "chapter": 13,
+        "startVerse": 29,
+        "endVerse": 33,
+        "numWords": 110,
+        "numChars": 600
+    },
+    {
+        "title": "Land Division West of the Jordan",
+        "book": "JOS",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 134,
+        "numChars": 736
+    },
+    {
+        "title": "Caleb Requests Hebron",
+        "book": "JOS",
+        "chapter": 14,
+        "startVerse": 6,
+        "endVerse": 15,
+        "numWords": 293,
+        "numChars": 1549
+    },
+    {
+        "title": "Judah’s Inheritance",
+        "book": "JOS",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 342,
+        "numChars": 1857
+    },
+    {
+        "title": "Caleb’s Portion and Conquest",
+        "book": "JOS",
+        "chapter": 15,
+        "startVerse": 13,
+        "endVerse": 19,
+        "numWords": 172,
+        "numChars": 971
+    },
+    {
+        "title": "The Cities of Judah",
+        "book": "JOS",
+        "chapter": 15,
+        "startVerse": 20,
+        "endVerse": 63,
+        "numWords": 341,
+        "numChars": 2176
+    },
+    {
+        "title": "Ephraim’s Inheritance",
+        "book": "JOS",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 235,
+        "numChars": 1299
+    },
+    {
+        "title": "Manasseh’s Western Inheritance",
+        "book": "JOS",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 542,
+        "numChars": 3093
+    },
+    {
+        "title": "The Remainder Divided",
+        "book": "JOS",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 306,
+        "numChars": 1620
+    },
+    {
+        "title": "Benjamin’s Inheritance",
+        "book": "JOS",
+        "chapter": 18,
+        "startVerse": 11,
+        "endVerse": 28,
+        "numWords": 353,
+        "numChars": 2004
+    },
+    {
+        "title": "Simeon’s Inheritance",
+        "book": "JOS",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 98,
+        "numChars": 622
+    },
+    {
+        "title": "Zebulun’s Inheritance",
+        "book": "JOS",
+        "chapter": 19,
+        "startVerse": 10,
+        "endVerse": 16,
+        "numWords": 120,
+        "numChars": 696
+    },
+    {
+        "title": "Issachar’s Inheritance",
+        "book": "JOS",
+        "chapter": 19,
+        "startVerse": 17,
+        "endVerse": 23,
+        "numWords": 71,
+        "numChars": 453
+    },
+    {
+        "title": "Asher’s Inheritance",
+        "book": "JOS",
+        "chapter": 19,
+        "startVerse": 24,
+        "endVerse": 31,
+        "numWords": 152,
+        "numChars": 874
+    },
+    {
+        "title": "Naphtali’s Inheritance",
+        "book": "JOS",
+        "chapter": 19,
+        "startVerse": 32,
+        "endVerse": 39,
+        "numWords": 125,
+        "numChars": 735
+    },
+    {
+        "title": "Dan’s Inheritance",
+        "book": "JOS",
+        "chapter": 19,
+        "startVerse": 40,
+        "endVerse": 48,
+        "numWords": 107,
+        "numChars": 630
+    },
+    {
+        "title": "Joshua’s Inheritance",
+        "book": "JOS",
+        "chapter": 19,
+        "startVerse": 49,
+        "endVerse": 51,
+        "numWords": 107,
+        "numChars": 601
+    },
+    {
+        "title": "Six Cities of Refuge",
+        "book": "JOS",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 263,
+        "numChars": 1436
+    },
+    {
+        "title": "Forty-Eight Cities for the Levites",
+        "book": "JOS",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 45,
+        "numWords": 725,
+        "numChars": 4370
+    },
+    {
+        "title": "The Eastern Tribes Return Home",
+        "book": "JOS",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 245,
+        "numChars": 1282
+    },
+    {
+        "title": "The Altar of Witness",
+        "book": "JOS",
+        "chapter": 22,
+        "startVerse": 9,
+        "endVerse": 34,
+        "numWords": 936,
+        "numChars": 5124
+    },
+    {
+        "title": "Joshua’s Charge to Leaders",
+        "book": "JOS",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 505,
+        "numChars": 2549
+    },
+    {
+        "title": "Joshua Reviews Israel’s History",
+        "book": "JOS",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 411,
+        "numChars": 2153
+    },
+    {
+        "title": "Choose Whom You Will Serve",
+        "book": "JOS",
+        "chapter": 24,
+        "startVerse": 14,
+        "endVerse": 28,
+        "numWords": 418,
+        "numChars": 2143
+    },
+    {
+        "title": "Joshua’s Death and Burial",
+        "book": "JOS",
+        "chapter": 24,
+        "startVerse": 29,
+        "endVerse": 33,
+        "numWords": 170,
+        "numChars": 930
+    }
+]

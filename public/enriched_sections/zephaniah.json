@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Zephaniah Prophesies Judgment on Judah",
+        "book": "ZEP",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 68,
+        "numChars": 331
+    },
+    {
+        "title": "The Day of the LORD",
+        "book": "ZEP",
+        "chapter": 1,
+        "startVerse": 7,
+        "endVerse": 18,
+        "numWords": 93,
+        "numChars": 443
+    },
+    {
+        "title": "A Call to Repentance",
+        "book": "ZEP",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 24,
+        "numChars": 133
+    },
+    {
+        "title": "Judgment on the Philistines",
+        "book": "ZEP",
+        "chapter": 2,
+        "startVerse": 4,
+        "endVerse": 7,
+        "numWords": 36,
+        "numChars": 169
+    },
+    {
+        "title": "Judgment on Moab and Ammon",
+        "book": "ZEP",
+        "chapter": 2,
+        "startVerse": 8,
+        "endVerse": 11,
+        "numWords": 31,
+        "numChars": 148
+    },
+    {
+        "title": "Judgment on Cush and Assyria",
+        "book": "ZEP",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 34,
+        "numChars": 169
+    },
+    {
+        "title": "Judgment on Jerusalem",
+        "book": "ZEP",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 27,
+        "numChars": 139
+    },
+    {
+        "title": "Purification of the Nations",
+        "book": "ZEP",
+        "chapter": 3,
+        "startVerse": 6,
+        "endVerse": 8,
+        "numWords": 18,
+        "numChars": 83
+    },
+    {
+        "title": "A Faithful Remnant",
+        "book": "ZEP",
+        "chapter": 3,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 44,
+        "numChars": 203
+    },
+    {
+        "title": "Israel’s Restoration",
+        "book": "ZEP",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 20,
+        "numWords": 50,
+        "numChars": 238
+    }
+]

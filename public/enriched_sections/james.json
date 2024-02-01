@@ -1,0 +1,137 @@
+[
+    {
+        "title": "A Greeting from James",
+        "book": "JAS",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 1,
+        "numWords": 12,
+        "numChars": 53
+    },
+    {
+        "title": "Rejoicing in Trials",
+        "book": "JAS",
+        "chapter": 1,
+        "startVerse": 2,
+        "endVerse": 12,
+        "numWords": 212,
+        "numChars": 1119
+    },
+    {
+        "title": "Good and Perfect Gifts",
+        "book": "JAS",
+        "chapter": 1,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 125,
+        "numChars": 661
+    },
+    {
+        "title": "Hearing and Doing",
+        "book": "JAS",
+        "chapter": 1,
+        "startVerse": 19,
+        "endVerse": 27,
+        "numWords": 191,
+        "numChars": 1051
+    },
+    {
+        "title": "A Warning against Favoritism",
+        "book": "JAS",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 300,
+        "numChars": 1593
+    },
+    {
+        "title": "Faith and Works",
+        "book": "JAS",
+        "chapter": 2,
+        "startVerse": 14,
+        "endVerse": 26,
+        "numWords": 275,
+        "numChars": 1421
+    },
+    {
+        "title": "Taming the Tongue",
+        "book": "JAS",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 283,
+        "numChars": 1452
+    },
+    {
+        "title": "The Wisdom from Above",
+        "book": "JAS",
+        "chapter": 3,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 120,
+        "numChars": 697
+    },
+    {
+        "title": "A Warning against Pride",
+        "book": "JAS",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 150,
+        "numChars": 801
+    },
+    {
+        "title": "Drawing Near to God",
+        "book": "JAS",
+        "chapter": 4,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 125,
+        "numChars": 665
+    },
+    {
+        "title": "Do Not Boast about Tomorrow",
+        "book": "JAS",
+        "chapter": 4,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 103,
+        "numChars": 507
+    },
+    {
+        "title": "A Warning to the Rich",
+        "book": "JAS",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 106,
+        "numChars": 588
+    },
+    {
+        "title": "Patience in Suffering",
+        "book": "JAS",
+        "chapter": 5,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 161,
+        "numChars": 869
+    },
+    {
+        "title": "The Prayer of Faith",
+        "book": "JAS",
+        "chapter": 5,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 144,
+        "numChars": 709
+    },
+    {
+        "title": "Restoring a Sinner",
+        "book": "JAS",
+        "chapter": 5,
+        "startVerse": 19,
+        "endVerse": 20,
+        "numWords": 43,
+        "numChars": 219
+    }
+]

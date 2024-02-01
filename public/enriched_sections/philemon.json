@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Greetings from Paul and Timothy",
+        "book": "PHM",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 59,
+        "numChars": 311
+    },
+    {
+        "title": "Philemon’s Faith and Love",
+        "book": "PHM",
+        "chapter": 1,
+        "startVerse": 4,
+        "endVerse": 7,
+        "numWords": 70,
+        "numChars": 375
+    },
+    {
+        "title": "Paul’s Appeal for Onesimus",
+        "book": "PHM",
+        "chapter": 1,
+        "startVerse": 8,
+        "endVerse": 22,
+        "numWords": 325,
+        "numChars": 1569
+    },
+    {
+        "title": "Additional Greetings",
+        "book": "PHM",
+        "chapter": 1,
+        "startVerse": 23,
+        "endVerse": 25,
+        "numWords": 37,
+        "numChars": 210
+    }
+]

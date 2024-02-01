@@ -1,0 +1,866 @@
+[
+    {
+        "title": "The Mission of John the Baptist",
+        "book": "MRK",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 228,
+        "numChars": 1174
+    },
+    {
+        "title": "The Temptation and Preaching of Jesus",
+        "book": "MRK",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 78,
+        "numChars": 403
+    },
+    {
+        "title": "The First Disciples",
+        "book": "MRK",
+        "chapter": 1,
+        "startVerse": 16,
+        "endVerse": 20,
+        "numWords": 95,
+        "numChars": 496
+    },
+    {
+        "title": "Jesus Expels an Unclean Spirit",
+        "book": "MRK",
+        "chapter": 1,
+        "startVerse": 21,
+        "endVerse": 28,
+        "numWords": 150,
+        "numChars": 814
+    },
+    {
+        "title": "Jesus Heals at Peter’s House",
+        "book": "MRK",
+        "chapter": 1,
+        "startVerse": 29,
+        "endVerse": 34,
+        "numWords": 117,
+        "numChars": 605
+    },
+    {
+        "title": "Jesus Prays and Preaches",
+        "book": "MRK",
+        "chapter": 1,
+        "startVerse": 35,
+        "endVerse": 39,
+        "numWords": 81,
+        "numChars": 419
+    },
+    {
+        "title": "The Leper’s Prayer",
+        "book": "MRK",
+        "chapter": 1,
+        "startVerse": 40,
+        "endVerse": 45,
+        "numWords": 121,
+        "numChars": 667
+    },
+    {
+        "title": "Jesus Heals a Paralytic",
+        "book": "MRK",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 249,
+        "numChars": 1283
+    },
+    {
+        "title": "Jesus Calls Levi",
+        "book": "MRK",
+        "chapter": 2,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 136,
+        "numChars": 721
+    },
+    {
+        "title": "Questions about Fasting",
+        "book": "MRK",
+        "chapter": 2,
+        "startVerse": 18,
+        "endVerse": 20,
+        "numWords": 71,
+        "numChars": 389
+    },
+    {
+        "title": "The Patches and the Wineskins",
+        "book": "MRK",
+        "chapter": 2,
+        "startVerse": 21,
+        "endVerse": 22,
+        "numWords": 78,
+        "numChars": 411
+    },
+    {
+        "title": "The Lord of the Sabbath",
+        "book": "MRK",
+        "chapter": 2,
+        "startVerse": 23,
+        "endVerse": 28,
+        "numWords": 123,
+        "numChars": 664
+    },
+    {
+        "title": "Jesus Heals on the Sabbath",
+        "book": "MRK",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 120,
+        "numChars": 613
+    },
+    {
+        "title": "Jesus Heals the Multitudes",
+        "book": "MRK",
+        "chapter": 3,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 114,
+        "numChars": 591
+    },
+    {
+        "title": "The Twelve Apostles",
+        "book": "MRK",
+        "chapter": 3,
+        "startVerse": 13,
+        "endVerse": 19,
+        "numWords": 118,
+        "numChars": 664
+    },
+    {
+        "title": "A House Divided",
+        "book": "MRK",
+        "chapter": 3,
+        "startVerse": 20,
+        "endVerse": 27,
+        "numWords": 163,
+        "numChars": 869
+    },
+    {
+        "title": "The Unpardonable Sin",
+        "book": "MRK",
+        "chapter": 3,
+        "startVerse": 28,
+        "endVerse": 30,
+        "numWords": 50,
+        "numChars": 278
+    },
+    {
+        "title": "Jesus’ Mother and Brothers",
+        "book": "MRK",
+        "chapter": 3,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 88,
+        "numChars": 462
+    },
+    {
+        "title": "The Parable of the Sower",
+        "book": "MRK",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 168,
+        "numChars": 889
+    },
+    {
+        "title": "The Purpose of Jesus’ Parables",
+        "book": "MRK",
+        "chapter": 4,
+        "startVerse": 10,
+        "endVerse": 12,
+        "numWords": 48,
+        "numChars": 240
+    },
+    {
+        "title": "The Parable of the Sower Explained",
+        "book": "MRK",
+        "chapter": 4,
+        "startVerse": 13,
+        "endVerse": 20,
+        "numWords": 183,
+        "numChars": 970
+    },
+    {
+        "title": "The Lesson of the Lamp",
+        "book": "MRK",
+        "chapter": 4,
+        "startVerse": 21,
+        "endVerse": 25,
+        "numWords": 109,
+        "numChars": 528
+    },
+    {
+        "title": "The Seed Growing Secretly",
+        "book": "MRK",
+        "chapter": 4,
+        "startVerse": 26,
+        "endVerse": 29,
+        "numWords": 75,
+        "numChars": 396
+    },
+    {
+        "title": "The Parable of the Mustard Seed",
+        "book": "MRK",
+        "chapter": 4,
+        "startVerse": 30,
+        "endVerse": 34,
+        "numWords": 103,
+        "numChars": 540
+    },
+    {
+        "title": "Jesus Calms the Storm",
+        "book": "MRK",
+        "chapter": 4,
+        "startVerse": 35,
+        "endVerse": 41,
+        "numWords": 143,
+        "numChars": 755
+    },
+    {
+        "title": "The Demons and the Pigs",
+        "book": "MRK",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 425,
+        "numChars": 2168
+    },
+    {
+        "title": "The Healing Touch of Jesus",
+        "book": "MRK",
+        "chapter": 5,
+        "startVerse": 21,
+        "endVerse": 43,
+        "numWords": 426,
+        "numChars": 2302
+    },
+    {
+        "title": "The Rejection at Nazareth",
+        "book": "MRK",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 148,
+        "numChars": 783
+    },
+    {
+        "title": "The Ministry of the Twelve",
+        "book": "MRK",
+        "chapter": 6,
+        "startVerse": 7,
+        "endVerse": 13,
+        "numWords": 153,
+        "numChars": 797
+    },
+    {
+        "title": "The Beheading of John",
+        "book": "MRK",
+        "chapter": 6,
+        "startVerse": 14,
+        "endVerse": 29,
+        "numWords": 379,
+        "numChars": 2019
+    },
+    {
+        "title": "The Feeding of the Five Thousand",
+        "book": "MRK",
+        "chapter": 6,
+        "startVerse": 30,
+        "endVerse": 44,
+        "numWords": 284,
+        "numChars": 1487
+    },
+    {
+        "title": "Jesus Walks on Water",
+        "book": "MRK",
+        "chapter": 6,
+        "startVerse": 45,
+        "endVerse": 52,
+        "numWords": 160,
+        "numChars": 829
+    },
+    {
+        "title": "Jesus Heals at Gennesaret",
+        "book": "MRK",
+        "chapter": 6,
+        "startVerse": 53,
+        "endVerse": 56,
+        "numWords": 77,
+        "numChars": 424
+    },
+    {
+        "title": "The Tradition of the Elders",
+        "book": "MRK",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 294,
+        "numChars": 1649
+    },
+    {
+        "title": "What Defiles a Man",
+        "book": "MRK",
+        "chapter": 7,
+        "startVerse": 14,
+        "endVerse": 23,
+        "numWords": 186,
+        "numChars": 1030
+    },
+    {
+        "title": "The Faith of the Gentile Woman",
+        "book": "MRK",
+        "chapter": 7,
+        "startVerse": 24,
+        "endVerse": 30,
+        "numWords": 162,
+        "numChars": 844
+    },
+    {
+        "title": "The Deaf and Mute Man",
+        "book": "MRK",
+        "chapter": 7,
+        "startVerse": 31,
+        "endVerse": 37,
+        "numWords": 155,
+        "numChars": 829
+    },
+    {
+        "title": "The Feeding of the Four Thousand",
+        "book": "MRK",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 211,
+        "numChars": 1132
+    },
+    {
+        "title": "The Demand for a Sign",
+        "book": "MRK",
+        "chapter": 8,
+        "startVerse": 11,
+        "endVerse": 13,
+        "numWords": 62,
+        "numChars": 325
+    },
+    {
+        "title": "The Leaven of the Pharisees and of Herod",
+        "book": "MRK",
+        "chapter": 8,
+        "startVerse": 14,
+        "endVerse": 21,
+        "numWords": 153,
+        "numChars": 844
+    },
+    {
+        "title": "The Blind Man at Bethsaida",
+        "book": "MRK",
+        "chapter": 8,
+        "startVerse": 22,
+        "endVerse": 26,
+        "numWords": 120,
+        "numChars": 608
+    },
+    {
+        "title": "Peter’s Confession of Christ",
+        "book": "MRK",
+        "chapter": 8,
+        "startVerse": 27,
+        "endVerse": 30,
+        "numWords": 65,
+        "numChars": 353
+    },
+    {
+        "title": "Christ’s Passion Foretold",
+        "book": "MRK",
+        "chapter": 8,
+        "startVerse": 31,
+        "endVerse": 33,
+        "numWords": 85,
+        "numChars": 442
+    },
+    {
+        "title": "Take Up Your Cross",
+        "book": "MRK",
+        "chapter": 8,
+        "startVerse": 34,
+        "endVerse": 38,
+        "numWords": 121,
+        "numChars": 594
+    },
+    {
+        "title": "The Transfiguration",
+        "book": "MRK",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 273,
+        "numChars": 1457
+    },
+    {
+        "title": "The Boy with an Evil Spirit",
+        "book": "MRK",
+        "chapter": 9,
+        "startVerse": 14,
+        "endVerse": 29,
+        "numWords": 335,
+        "numChars": 1785
+    },
+    {
+        "title": "The Second Prediction of the Passion",
+        "book": "MRK",
+        "chapter": 9,
+        "startVerse": 30,
+        "endVerse": 32,
+        "numWords": 65,
+        "numChars": 338
+    },
+    {
+        "title": "The Greatest in the Kingdom",
+        "book": "MRK",
+        "chapter": 9,
+        "startVerse": 33,
+        "endVerse": 41,
+        "numWords": 200,
+        "numChars": 1001
+    },
+    {
+        "title": "Temptations and Trespasses",
+        "book": "MRK",
+        "chapter": 9,
+        "startVerse": 42,
+        "endVerse": 48,
+        "numWords": 200,
+        "numChars": 982
+    },
+    {
+        "title": "Good Salt",
+        "book": "MRK",
+        "chapter": 9,
+        "startVerse": 49,
+        "endVerse": 50,
+        "numWords": 46,
+        "numChars": 250
+    },
+    {
+        "title": "Teachings about Divorce",
+        "book": "MRK",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 212,
+        "numChars": 1177
+    },
+    {
+        "title": "Jesus Blesses the Children",
+        "book": "MRK",
+        "chapter": 10,
+        "startVerse": 13,
+        "endVerse": 16,
+        "numWords": 95,
+        "numChars": 492
+    },
+    {
+        "title": "The Rich Young Man",
+        "book": "MRK",
+        "chapter": 10,
+        "startVerse": 17,
+        "endVerse": 31,
+        "numWords": 335,
+        "numChars": 1753
+    },
+    {
+        "title": "The Third Prediction of the Passion",
+        "book": "MRK",
+        "chapter": 10,
+        "startVerse": 32,
+        "endVerse": 34,
+        "numWords": 102,
+        "numChars": 518
+    },
+    {
+        "title": "The Request of James and John",
+        "book": "MRK",
+        "chapter": 10,
+        "startVerse": 35,
+        "endVerse": 45,
+        "numWords": 223,
+        "numChars": 1117
+    },
+    {
+        "title": "Jesus Heals Bartimaeus",
+        "book": "MRK",
+        "chapter": 10,
+        "startVerse": 46,
+        "endVerse": 52,
+        "numWords": 124,
+        "numChars": 660
+    },
+    {
+        "title": "The Triumphal Entry",
+        "book": "MRK",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 222,
+        "numChars": 1167
+    },
+    {
+        "title": "Jesus Curses the Fig Tree",
+        "book": "MRK",
+        "chapter": 11,
+        "startVerse": 12,
+        "endVerse": 14,
+        "numWords": 72,
+        "numChars": 354
+    },
+    {
+        "title": "Jesus Cleanses the Temple",
+        "book": "MRK",
+        "chapter": 11,
+        "startVerse": 15,
+        "endVerse": 19,
+        "numWords": 142,
+        "numChars": 780
+    },
+    {
+        "title": "The Withered Fig Tree",
+        "book": "MRK",
+        "chapter": 11,
+        "startVerse": 20,
+        "endVerse": 25,
+        "numWords": 149,
+        "numChars": 782
+    },
+    {
+        "title": "Jesus’ Authority Challenged",
+        "book": "MRK",
+        "chapter": 11,
+        "startVerse": 27,
+        "endVerse": 33,
+        "numWords": 131,
+        "numChars": 699
+    },
+    {
+        "title": "The Parable of the Wicked Tenants",
+        "book": "MRK",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 222,
+        "numChars": 1151
+    },
+    {
+        "title": "Paying Taxes to Caesar",
+        "book": "MRK",
+        "chapter": 12,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 126,
+        "numChars": 662
+    },
+    {
+        "title": "The Sadducees and the Resurrection",
+        "book": "MRK",
+        "chapter": 12,
+        "startVerse": 18,
+        "endVerse": 27,
+        "numWords": 220,
+        "numChars": 1169
+    },
+    {
+        "title": "The Greatest Commandment",
+        "book": "MRK",
+        "chapter": 12,
+        "startVerse": 28,
+        "endVerse": 34,
+        "numWords": 169,
+        "numChars": 929
+    },
+    {
+        "title": "Whose Son Is the Christ?",
+        "book": "MRK",
+        "chapter": 12,
+        "startVerse": 35,
+        "endVerse": 37,
+        "numWords": 47,
+        "numChars": 258
+    },
+    {
+        "title": "Beware of the Scribes",
+        "book": "MRK",
+        "chapter": 12,
+        "startVerse": 38,
+        "endVerse": 40,
+        "numWords": 67,
+        "numChars": 385
+    },
+    {
+        "title": "The Widow’s Offering",
+        "book": "MRK",
+        "chapter": 12,
+        "startVerse": 41,
+        "endVerse": 44,
+        "numWords": 117,
+        "numChars": 609
+    },
+    {
+        "title": "Temple Destruction and Other Signs",
+        "book": "MRK",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 165,
+        "numChars": 894
+    },
+    {
+        "title": "Witnessing to All Nations",
+        "book": "MRK",
+        "chapter": 13,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 123,
+        "numChars": 648
+    },
+    {
+        "title": "The Abomination of Desolation",
+        "book": "MRK",
+        "chapter": 13,
+        "startVerse": 14,
+        "endVerse": 23,
+        "numWords": 208,
+        "numChars": 1093
+    },
+    {
+        "title": "The Return of the Son of Man",
+        "book": "MRK",
+        "chapter": 13,
+        "startVerse": 24,
+        "endVerse": 27,
+        "numWords": 63,
+        "numChars": 312
+    },
+    {
+        "title": "The Lesson of the Fig Tree",
+        "book": "MRK",
+        "chapter": 13,
+        "startVerse": 28,
+        "endVerse": 31,
+        "numWords": 79,
+        "numChars": 411
+    },
+    {
+        "title": "Readiness at Any Hour",
+        "book": "MRK",
+        "chapter": 13,
+        "startVerse": 32,
+        "endVerse": 37,
+        "numWords": 130,
+        "numChars": 670
+    },
+    {
+        "title": "The Plot to Kill Jesus",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 56,
+        "numChars": 301
+    },
+    {
+        "title": "Jesus Anointed at Bethany",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 3,
+        "endVerse": 9,
+        "numWords": 189,
+        "numChars": 986
+    },
+    {
+        "title": "Judas Agrees to Betray Jesus",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 10,
+        "endVerse": 11,
+        "numWords": 30,
+        "numChars": 160
+    },
+    {
+        "title": "Preparing the Passover",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 12,
+        "endVerse": 16,
+        "numWords": 140,
+        "numChars": 747
+    },
+    {
+        "title": "The Last Supper",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 17,
+        "endVerse": 26,
+        "numWords": 219,
+        "numChars": 1056
+    },
+    {
+        "title": "Jesus Predicts Peter’s Denial",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 27,
+        "endVerse": 31,
+        "numWords": 97,
+        "numChars": 492
+    },
+    {
+        "title": "Jesus Prays at Gethsemane",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 32,
+        "endVerse": 42,
+        "numWords": 219,
+        "numChars": 1156
+    },
+    {
+        "title": "The Betrayal of Jesus",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 43,
+        "endVerse": 52,
+        "numWords": 180,
+        "numChars": 965
+    },
+    {
+        "title": "Jesus before the Sanhedrin",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 53,
+        "endVerse": 65,
+        "numWords": 253,
+        "numChars": 1390
+    },
+    {
+        "title": "Peter Denies Jesus",
+        "book": "MRK",
+        "chapter": 14,
+        "startVerse": 66,
+        "endVerse": 72,
+        "numWords": 126,
+        "numChars": 644
+    },
+    {
+        "title": "Jesus Delivered to Pilate",
+        "book": "MRK",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 82,
+        "numChars": 463
+    },
+    {
+        "title": "The Crowd Chooses Barabbas",
+        "book": "MRK",
+        "chapter": 15,
+        "startVerse": 6,
+        "endVerse": 11,
+        "numWords": 106,
+        "numChars": 554
+    },
+    {
+        "title": "Pilate Delivers Up Jesus",
+        "book": "MRK",
+        "chapter": 15,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 60,
+        "numChars": 316
+    },
+    {
+        "title": "The Soldiers Mock Jesus",
+        "book": "MRK",
+        "chapter": 15,
+        "startVerse": 16,
+        "endVerse": 20,
+        "numWords": 95,
+        "numChars": 495
+    },
+    {
+        "title": "The Crucifixion",
+        "book": "MRK",
+        "chapter": 15,
+        "startVerse": 21,
+        "endVerse": 32,
+        "numWords": 221,
+        "numChars": 1191
+    },
+    {
+        "title": "The Death of Jesus",
+        "book": "MRK",
+        "chapter": 15,
+        "startVerse": 33,
+        "endVerse": 41,
+        "numWords": 244,
+        "numChars": 1269
+    },
+    {
+        "title": "The Burial of Jesus",
+        "book": "MRK",
+        "chapter": 15,
+        "startVerse": 42,
+        "endVerse": 47,
+        "numWords": 139,
+        "numChars": 721
+    },
+    {
+        "title": "The Resurrection",
+        "book": "MRK",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 250,
+        "numChars": 1352
+    },
+    {
+        "title": "Jesus Appears to Mary Magdalene",
+        "book": "MRK",
+        "chapter": 16,
+        "startVerse": 9,
+        "endVerse": 11,
+        "numWords": 73,
+        "numChars": 365
+    },
+    {
+        "title": "Jesus Appears to Two Disciples",
+        "book": "MRK",
+        "chapter": 16,
+        "startVerse": 12,
+        "endVerse": 13,
+        "numWords": 36,
+        "numChars": 183
+    },
+    {
+        "title": "The Great Commission",
+        "book": "MRK",
+        "chapter": 16,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 126,
+        "numChars": 675
+    },
+    {
+        "title": "The Ascension",
+        "book": "MRK",
+        "chapter": 16,
+        "startVerse": 19,
+        "endVerse": 20,
+        "numWords": 45,
+        "numChars": 237
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "title": "The Burden against Nineveh",
+        "book": "NAM",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 109,
+        "numChars": 552
+    },
+    {
+        "title": "The Overthrow of Nineveh",
+        "book": "NAM",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 77,
+        "numChars": 396
+    },
+    {
+        "title": "Judgment on Nineveh",
+        "book": "NAM",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 126,
+        "numChars": 639
+    }
+]

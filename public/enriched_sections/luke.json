@@ -1,0 +1,1388 @@
+[
+    {
+        "title": "Dedication to Theophilus",
+        "book": "LUK",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 73,
+        "numChars": 411
+    },
+    {
+        "title": "Gabriel Foretells John’s Birth",
+        "book": "LUK",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 25,
+        "numWords": 483,
+        "numChars": 2490
+    },
+    {
+        "title": "Gabriel Foretells Jesus’ Birth",
+        "book": "LUK",
+        "chapter": 1,
+        "startVerse": 26,
+        "endVerse": 38,
+        "numWords": 280,
+        "numChars": 1393
+    },
+    {
+        "title": "Mary Visits Elizabeth",
+        "book": "LUK",
+        "chapter": 1,
+        "startVerse": 39,
+        "endVerse": 45,
+        "numWords": 117,
+        "numChars": 597
+    },
+    {
+        "title": "Mary’s Song",
+        "book": "LUK",
+        "chapter": 1,
+        "startVerse": 46,
+        "endVerse": 56,
+        "numWords": 95,
+        "numChars": 474
+    },
+    {
+        "title": "The Birth of John the Baptist",
+        "book": "LUK",
+        "chapter": 1,
+        "startVerse": 57,
+        "endVerse": 66,
+        "numWords": 174,
+        "numChars": 942
+    },
+    {
+        "title": "Zechariah’s Song",
+        "book": "LUK",
+        "chapter": 1,
+        "startVerse": 67,
+        "endVerse": 80,
+        "numWords": 129,
+        "numChars": 664
+    },
+    {
+        "title": "The Birth of Jesus",
+        "book": "LUK",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 152,
+        "numChars": 766
+    },
+    {
+        "title": "The Shepherds and the Angels",
+        "book": "LUK",
+        "chapter": 2,
+        "startVerse": 8,
+        "endVerse": 20,
+        "numWords": 250,
+        "numChars": 1284
+    },
+    {
+        "title": "Jesus Presented at the Temple",
+        "book": "LUK",
+        "chapter": 2,
+        "startVerse": 21,
+        "endVerse": 24,
+        "numWords": 95,
+        "numChars": 518
+    },
+    {
+        "title": "The Prophecy of Simeon",
+        "book": "LUK",
+        "chapter": 2,
+        "startVerse": 25,
+        "endVerse": 35,
+        "numWords": 163,
+        "numChars": 840
+    },
+    {
+        "title": "The Prophecy of Anna",
+        "book": "LUK",
+        "chapter": 2,
+        "startVerse": 36,
+        "endVerse": 38,
+        "numWords": 85,
+        "numChars": 455
+    },
+    {
+        "title": "The Return to Nazareth",
+        "book": "LUK",
+        "chapter": 2,
+        "startVerse": 39,
+        "endVerse": 40,
+        "numWords": 50,
+        "numChars": 267
+    },
+    {
+        "title": "The Boy Jesus at the Temple",
+        "book": "LUK",
+        "chapter": 2,
+        "startVerse": 41,
+        "endVerse": 52,
+        "numWords": 238,
+        "numChars": 1275
+    },
+    {
+        "title": "The Mission of John the Baptist",
+        "book": "LUK",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 423,
+        "numChars": 2269
+    },
+    {
+        "title": "The Baptism of Jesus",
+        "book": "LUK",
+        "chapter": 3,
+        "startVerse": 21,
+        "endVerse": 22,
+        "numWords": 51,
+        "numChars": 254
+    },
+    {
+        "title": "The Genealogy of Jesus",
+        "book": "LUK",
+        "chapter": 3,
+        "startVerse": 23,
+        "endVerse": 38,
+        "numWords": 242,
+        "numChars": 1076
+    },
+    {
+        "title": "The Temptation of Jesus",
+        "book": "LUK",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 252,
+        "numChars": 1277
+    },
+    {
+        "title": "Jesus Begins His Ministry",
+        "book": "LUK",
+        "chapter": 4,
+        "startVerse": 14,
+        "endVerse": 15,
+        "numWords": 30,
+        "numChars": 178
+    },
+    {
+        "title": "The Rejection at Nazareth",
+        "book": "LUK",
+        "chapter": 4,
+        "startVerse": 16,
+        "endVerse": 30,
+        "numWords": 331,
+        "numChars": 1690
+    },
+    {
+        "title": "Jesus Expels an Unclean Spirit",
+        "book": "LUK",
+        "chapter": 4,
+        "startVerse": 31,
+        "endVerse": 37,
+        "numWords": 147,
+        "numChars": 787
+    },
+    {
+        "title": "Jesus Heals at Peter’s House",
+        "book": "LUK",
+        "chapter": 4,
+        "startVerse": 38,
+        "endVerse": 41,
+        "numWords": 110,
+        "numChars": 560
+    },
+    {
+        "title": "Jesus Preaches in Judea",
+        "book": "LUK",
+        "chapter": 4,
+        "startVerse": 42,
+        "endVerse": 44,
+        "numWords": 72,
+        "numChars": 363
+    },
+    {
+        "title": "The First Disciples",
+        "book": "LUK",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 241,
+        "numChars": 1214
+    },
+    {
+        "title": "The Leper’s Prayer",
+        "book": "LUK",
+        "chapter": 5,
+        "startVerse": 12,
+        "endVerse": 16,
+        "numWords": 136,
+        "numChars": 745
+    },
+    {
+        "title": "Jesus Heals a Paralytic",
+        "book": "LUK",
+        "chapter": 5,
+        "startVerse": 17,
+        "endVerse": 26,
+        "numWords": 249,
+        "numChars": 1307
+    },
+    {
+        "title": "Jesus Calls Levi",
+        "book": "LUK",
+        "chapter": 5,
+        "startVerse": 27,
+        "endVerse": 32,
+        "numWords": 107,
+        "numChars": 573
+    },
+    {
+        "title": "Questions about Fasting",
+        "book": "LUK",
+        "chapter": 5,
+        "startVerse": 33,
+        "endVerse": 35,
+        "numWords": 56,
+        "numChars": 307
+    },
+    {
+        "title": "The Patches and the Wineskins",
+        "book": "LUK",
+        "chapter": 5,
+        "startVerse": 36,
+        "endVerse": 39,
+        "numWords": 99,
+        "numChars": 480
+    },
+    {
+        "title": "The Lord of the Sabbath",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 115,
+        "numChars": 604
+    },
+    {
+        "title": "Jesus Heals on the Sabbath",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 6,
+        "endVerse": 11,
+        "numWords": 145,
+        "numChars": 737
+    },
+    {
+        "title": "The Twelve Apostles",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 12,
+        "endVerse": 16,
+        "numWords": 78,
+        "numChars": 429
+    },
+    {
+        "title": "Jesus Heals the Multitudes",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 17,
+        "endVerse": 19,
+        "numWords": 79,
+        "numChars": 414
+    },
+    {
+        "title": "The Beatitudes",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 20,
+        "endVerse": 23,
+        "numWords": 66,
+        "numChars": 338
+    },
+    {
+        "title": "Woes to the Satisfied",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 24,
+        "endVerse": 26,
+        "numWords": 28,
+        "numChars": 102
+    },
+    {
+        "title": "Love Your Enemies",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 27,
+        "endVerse": 36,
+        "numWords": 205,
+        "numChars": 1007
+    },
+    {
+        "title": "Judging Others",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 37,
+        "endVerse": 42,
+        "numWords": 184,
+        "numChars": 919
+    },
+    {
+        "title": "A Tree and Its Fruit",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 43,
+        "endVerse": 45,
+        "numWords": 74,
+        "numChars": 381
+    },
+    {
+        "title": "The House on the Rock",
+        "book": "LUK",
+        "chapter": 6,
+        "startVerse": 46,
+        "endVerse": 49,
+        "numWords": 126,
+        "numChars": 629
+    },
+    {
+        "title": "The Faith of the Centurion",
+        "book": "LUK",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 224,
+        "numChars": 1146
+    },
+    {
+        "title": "Jesus Raises a Widow’s Son",
+        "book": "LUK",
+        "chapter": 7,
+        "startVerse": 11,
+        "endVerse": 17,
+        "numWords": 161,
+        "numChars": 827
+    },
+    {
+        "title": "John’s Inquiry",
+        "book": "LUK",
+        "chapter": 7,
+        "startVerse": 18,
+        "endVerse": 23,
+        "numWords": 167,
+        "numChars": 852
+    },
+    {
+        "title": "Jesus Testifies about John",
+        "book": "LUK",
+        "chapter": 7,
+        "startVerse": 24,
+        "endVerse": 35,
+        "numWords": 235,
+        "numChars": 1244
+    },
+    {
+        "title": "A Sinful Woman Anoints Jesus",
+        "book": "LUK",
+        "chapter": 7,
+        "startVerse": 36,
+        "endVerse": 50,
+        "numWords": 327,
+        "numChars": 1696
+    },
+    {
+        "title": "Women Minister to Jesus",
+        "book": "LUK",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 80,
+        "numChars": 443
+    },
+    {
+        "title": "The Parable of the Sower",
+        "book": "LUK",
+        "chapter": 8,
+        "startVerse": 4,
+        "endVerse": 15,
+        "numWords": 290,
+        "numChars": 1478
+    },
+    {
+        "title": "The Lesson of the Lamp",
+        "book": "LUK",
+        "chapter": 8,
+        "startVerse": 16,
+        "endVerse": 18,
+        "numWords": 85,
+        "numChars": 426
+    },
+    {
+        "title": "Jesus’ Mother and Brothers",
+        "book": "LUK",
+        "chapter": 8,
+        "startVerse": 19,
+        "endVerse": 21,
+        "numWords": 53,
+        "numChars": 278
+    },
+    {
+        "title": "Jesus Calms the Storm",
+        "book": "LUK",
+        "chapter": 8,
+        "startVerse": 22,
+        "endVerse": 25,
+        "numWords": 73,
+        "numChars": 372
+    },
+    {
+        "title": "The Demons and the Pigs",
+        "book": "LUK",
+        "chapter": 8,
+        "startVerse": 26,
+        "endVerse": 39,
+        "numWords": 367,
+        "numChars": 1876
+    },
+    {
+        "title": "The Healing Touch of Jesus",
+        "book": "LUK",
+        "chapter": 8,
+        "startVerse": 40,
+        "endVerse": 56,
+        "numWords": 325,
+        "numChars": 1758
+    },
+    {
+        "title": "The Ministry of the Twelve",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 115,
+        "numChars": 617
+    },
+    {
+        "title": "Herod Tries to See Jesus",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 7,
+        "endVerse": 9,
+        "numWords": 63,
+        "numChars": 327
+    },
+    {
+        "title": "The Feeding of the Five Thousand",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 164,
+        "numChars": 897
+    },
+    {
+        "title": "Peter’s Confession of Christ",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 18,
+        "endVerse": 20,
+        "numWords": 56,
+        "numChars": 292
+    },
+    {
+        "title": "Christ’s Passion Foretold",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 21,
+        "endVerse": 22,
+        "numWords": 46,
+        "numChars": 231
+    },
+    {
+        "title": "Take Up Your Cross",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 23,
+        "endVerse": 27,
+        "numWords": 123,
+        "numChars": 587
+    },
+    {
+        "title": "The Transfiguration",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 28,
+        "endVerse": 36,
+        "numWords": 218,
+        "numChars": 1180
+    },
+    {
+        "title": "The Boy with an Evil Spirit",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 37,
+        "endVerse": 42,
+        "numWords": 137,
+        "numChars": 719
+    },
+    {
+        "title": "The Second Prediction of the Passion",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 43,
+        "endVerse": 45,
+        "numWords": 59,
+        "numChars": 301
+    },
+    {
+        "title": "The Greatest in the Kingdom",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 46,
+        "endVerse": 50,
+        "numWords": 110,
+        "numChars": 578
+    },
+    {
+        "title": "The Samaritans Reject Jesus",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 51,
+        "endVerse": 56,
+        "numWords": 136,
+        "numChars": 710
+    },
+    {
+        "title": "The Cost of Discipleship",
+        "book": "LUK",
+        "chapter": 9,
+        "startVerse": 57,
+        "endVerse": 62,
+        "numWords": 110,
+        "numChars": 556
+    },
+    {
+        "title": "Jesus Sends the Seventy-Two",
+        "book": "LUK",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 254,
+        "numChars": 1275
+    },
+    {
+        "title": "Woe to the Unrepentant",
+        "book": "LUK",
+        "chapter": 10,
+        "startVerse": 13,
+        "endVerse": 16,
+        "numWords": 91,
+        "numChars": 486
+    },
+    {
+        "title": "The Joyful Return",
+        "book": "LUK",
+        "chapter": 10,
+        "startVerse": 17,
+        "endVerse": 20,
+        "numWords": 72,
+        "numChars": 396
+    },
+    {
+        "title": "Jesus’ Prayer of Thanksgiving",
+        "book": "LUK",
+        "chapter": 10,
+        "startVerse": 21,
+        "endVerse": 24,
+        "numWords": 136,
+        "numChars": 701
+    },
+    {
+        "title": "The Parable of the Good Samaritan",
+        "book": "LUK",
+        "chapter": 10,
+        "startVerse": 25,
+        "endVerse": 37,
+        "numWords": 305,
+        "numChars": 1543
+    },
+    {
+        "title": "Martha and Mary",
+        "book": "LUK",
+        "chapter": 10,
+        "startVerse": 38,
+        "endVerse": 42,
+        "numWords": 105,
+        "numChars": 548
+    },
+    {
+        "title": "The Lord’s Prayer",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 48,
+        "numChars": 247
+    },
+    {
+        "title": "Ask, Seek, Knock",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 5,
+        "endVerse": 13,
+        "numWords": 240,
+        "numChars": 1145
+    },
+    {
+        "title": "A House Divided",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 14,
+        "endVerse": 23,
+        "numWords": 215,
+        "numChars": 1118
+    },
+    {
+        "title": "An Unclean Spirit Returns",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 24,
+        "endVerse": 26,
+        "numWords": 76,
+        "numChars": 380
+    },
+    {
+        "title": "True Blessedness",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 27,
+        "endVerse": 28,
+        "numWords": 47,
+        "numChars": 243
+    },
+    {
+        "title": "The Sign of Jonah",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 29,
+        "endVerse": 32,
+        "numWords": 121,
+        "numChars": 615
+    },
+    {
+        "title": "The Lamp of the Body",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 33,
+        "endVerse": 36,
+        "numWords": 123,
+        "numChars": 604
+    },
+    {
+        "title": "Woes to Pharisees and Experts in the Law",
+        "book": "LUK",
+        "chapter": 11,
+        "startVerse": 37,
+        "endVerse": 54,
+        "numWords": 400,
+        "numChars": 2119
+    },
+    {
+        "title": "The Leaven of the Pharisees",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 81,
+        "numChars": 453
+    },
+    {
+        "title": "Fear God Alone",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 4,
+        "endVerse": 7,
+        "numWords": 111,
+        "numChars": 557
+    },
+    {
+        "title": "Confessing Christ",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 8,
+        "endVerse": 12,
+        "numWords": 96,
+        "numChars": 518
+    },
+    {
+        "title": "The Parable of the Rich Fool",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 13,
+        "endVerse": 21,
+        "numWords": 190,
+        "numChars": 979
+    },
+    {
+        "title": "Do Not Worry",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 22,
+        "endVerse": 31,
+        "numWords": 243,
+        "numChars": 1234
+    },
+    {
+        "title": "Treasures in Heaven",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 32,
+        "endVerse": 34,
+        "numWords": 57,
+        "numChars": 324
+    },
+    {
+        "title": "Readiness at Any Hour",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 35,
+        "endVerse": 48,
+        "numWords": 379,
+        "numChars": 1965
+    },
+    {
+        "title": "Not Peace but Division",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 49,
+        "endVerse": 53,
+        "numWords": 98,
+        "numChars": 563
+    },
+    {
+        "title": "Interpreting the Present Time",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 54,
+        "endVerse": 56,
+        "numWords": 69,
+        "numChars": 335
+    },
+    {
+        "title": "Reconciling with an Adversary",
+        "book": "LUK",
+        "chapter": 12,
+        "startVerse": 57,
+        "endVerse": 59,
+        "numWords": 87,
+        "numChars": 452
+    },
+    {
+        "title": "A Call to Repentance",
+        "book": "LUK",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 98,
+        "numChars": 538
+    },
+    {
+        "title": "The Parable of the Barren Fig Tree",
+        "book": "LUK",
+        "chapter": 13,
+        "startVerse": 6,
+        "endVerse": 9,
+        "numWords": 111,
+        "numChars": 534
+    },
+    {
+        "title": "Jesus Heals a Disabled Woman",
+        "book": "LUK",
+        "chapter": 13,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 179,
+        "numChars": 957
+    },
+    {
+        "title": "The Parable of the Mustard Seed",
+        "book": "LUK",
+        "chapter": 13,
+        "startVerse": 18,
+        "endVerse": 19,
+        "numWords": 45,
+        "numChars": 214
+    },
+    {
+        "title": "The Parable of the Leaven",
+        "book": "LUK",
+        "chapter": 13,
+        "startVerse": 20,
+        "endVerse": 21,
+        "numWords": 33,
+        "numChars": 164
+    },
+    {
+        "title": "The Narrow Door",
+        "book": "LUK",
+        "chapter": 13,
+        "startVerse": 22,
+        "endVerse": 30,
+        "numWords": 181,
+        "numChars": 935
+    },
+    {
+        "title": "Lament over Jerusalem",
+        "book": "LUK",
+        "chapter": 13,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 150,
+        "numChars": 799
+    },
+    {
+        "title": "Jesus Heals a Man with Dropsy",
+        "book": "LUK",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 91,
+        "numChars": 470
+    },
+    {
+        "title": "The Parable of the Guests",
+        "book": "LUK",
+        "chapter": 14,
+        "startVerse": 7,
+        "endVerse": 14,
+        "numWords": 212,
+        "numChars": 1111
+    },
+    {
+        "title": "The Parable of the Banquet",
+        "book": "LUK",
+        "chapter": 14,
+        "startVerse": 15,
+        "endVerse": 24,
+        "numWords": 236,
+        "numChars": 1215
+    },
+    {
+        "title": "The Cost of Discipleship",
+        "book": "LUK",
+        "chapter": 14,
+        "startVerse": 25,
+        "endVerse": 33,
+        "numWords": 195,
+        "numChars": 989
+    },
+    {
+        "title": "Good Salt",
+        "book": "LUK",
+        "chapter": 14,
+        "startVerse": 34,
+        "endVerse": 35,
+        "numWords": 33,
+        "numChars": 154
+    },
+    {
+        "title": "The Parable of the Lost Sheep",
+        "book": "LUK",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 137,
+        "numChars": 714
+    },
+    {
+        "title": "The Parable of the Lost Coin",
+        "book": "LUK",
+        "chapter": 15,
+        "startVerse": 8,
+        "endVerse": 10,
+        "numWords": 83,
+        "numChars": 425
+    },
+    {
+        "title": "The Parable of the Prodigal Son",
+        "book": "LUK",
+        "chapter": 15,
+        "startVerse": 11,
+        "endVerse": 32,
+        "numWords": 494,
+        "numChars": 2506
+    },
+    {
+        "title": "The Parable of the Shrewd Manager",
+        "book": "LUK",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 304,
+        "numChars": 1601
+    },
+    {
+        "title": "The Law and the Prophets",
+        "book": "LUK",
+        "chapter": 16,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 128,
+        "numChars": 679
+    },
+    {
+        "title": "The Rich Man and Lazarus",
+        "book": "LUK",
+        "chapter": 16,
+        "startVerse": 19,
+        "endVerse": 31,
+        "numWords": 301,
+        "numChars": 1557
+    },
+    {
+        "title": "Temptations and Trespasses",
+        "book": "LUK",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 91,
+        "numChars": 469
+    },
+    {
+        "title": "The Power of Faith",
+        "book": "LUK",
+        "chapter": 17,
+        "startVerse": 5,
+        "endVerse": 10,
+        "numWords": 130,
+        "numChars": 668
+    },
+    {
+        "title": "The Ten Lepers",
+        "book": "LUK",
+        "chapter": 17,
+        "startVerse": 11,
+        "endVerse": 19,
+        "numWords": 158,
+        "numChars": 851
+    },
+    {
+        "title": "The Coming of the Kingdom",
+        "book": "LUK",
+        "chapter": 17,
+        "startVerse": 20,
+        "endVerse": 37,
+        "numWords": 359,
+        "numChars": 1785
+    },
+    {
+        "title": "The Parable of the Persistent Widow",
+        "book": "LUK",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 156,
+        "numChars": 808
+    },
+    {
+        "title": "The Pharisee and the Tax Collector",
+        "book": "LUK",
+        "chapter": 18,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 143,
+        "numChars": 775
+    },
+    {
+        "title": "Jesus Blesses the Children",
+        "book": "LUK",
+        "chapter": 18,
+        "startVerse": 15,
+        "endVerse": 17,
+        "numWords": 81,
+        "numChars": 419
+    },
+    {
+        "title": "The Rich Young Ruler",
+        "book": "LUK",
+        "chapter": 18,
+        "startVerse": 18,
+        "endVerse": 30,
+        "numWords": 266,
+        "numChars": 1386
+    },
+    {
+        "title": "The Third Prediction of the Passion",
+        "book": "LUK",
+        "chapter": 18,
+        "startVerse": 31,
+        "endVerse": 34,
+        "numWords": 89,
+        "numChars": 469
+    },
+    {
+        "title": "Jesus Heals a Blind Beggar",
+        "book": "LUK",
+        "chapter": 18,
+        "startVerse": 35,
+        "endVerse": 43,
+        "numWords": 134,
+        "numChars": 694
+    },
+    {
+        "title": "Jesus and Zacchaeus",
+        "book": "LUK",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 179,
+        "numChars": 903
+    },
+    {
+        "title": "The Parable of the Ten Minas",
+        "book": "LUK",
+        "chapter": 19,
+        "startVerse": 11,
+        "endVerse": 27,
+        "numWords": 404,
+        "numChars": 2105
+    },
+    {
+        "title": "The Triumphal Entry",
+        "book": "LUK",
+        "chapter": 19,
+        "startVerse": 28,
+        "endVerse": 40,
+        "numWords": 223,
+        "numChars": 1133
+    },
+    {
+        "title": "Jesus Weeps over Jerusalem",
+        "book": "LUK",
+        "chapter": 19,
+        "startVerse": 41,
+        "endVerse": 44,
+        "numWords": 94,
+        "numChars": 502
+    },
+    {
+        "title": "Jesus Cleanses the Temple",
+        "book": "LUK",
+        "chapter": 19,
+        "startVerse": 45,
+        "endVerse": 48,
+        "numWords": 89,
+        "numChars": 478
+    },
+    {
+        "title": "Jesus’ Authority Challenged",
+        "book": "LUK",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 143,
+        "numChars": 760
+    },
+    {
+        "title": "The Parable of the Wicked Tenants",
+        "book": "LUK",
+        "chapter": 20,
+        "startVerse": 9,
+        "endVerse": 18,
+        "numWords": 200,
+        "numChars": 1053
+    },
+    {
+        "title": "Paying Taxes to Caesar",
+        "book": "LUK",
+        "chapter": 20,
+        "startVerse": 19,
+        "endVerse": 26,
+        "numWords": 177,
+        "numChars": 934
+    },
+    {
+        "title": "The Sadducees and the Resurrection",
+        "book": "LUK",
+        "chapter": 20,
+        "startVerse": 27,
+        "endVerse": 40,
+        "numWords": 263,
+        "numChars": 1374
+    },
+    {
+        "title": "Whose Son Is the Christ?",
+        "book": "LUK",
+        "chapter": 20,
+        "startVerse": 41,
+        "endVerse": 44,
+        "numWords": 42,
+        "numChars": 206
+    },
+    {
+        "title": "Beware of the Scribes",
+        "book": "LUK",
+        "chapter": 20,
+        "startVerse": 45,
+        "endVerse": 47,
+        "numWords": 71,
+        "numChars": 407
+    },
+    {
+        "title": "The Poor Widow’s Offering",
+        "book": "LUK",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 87,
+        "numChars": 422
+    },
+    {
+        "title": "Temple Destruction and Other Signs",
+        "book": "LUK",
+        "chapter": 21,
+        "startVerse": 5,
+        "endVerse": 9,
+        "numWords": 121,
+        "numChars": 628
+    },
+    {
+        "title": "Witnessing to All Nations",
+        "book": "LUK",
+        "chapter": 21,
+        "startVerse": 10,
+        "endVerse": 19,
+        "numWords": 161,
+        "numChars": 888
+    },
+    {
+        "title": "The Destruction of Jerusalem",
+        "book": "LUK",
+        "chapter": 21,
+        "startVerse": 20,
+        "endVerse": 24,
+        "numWords": 117,
+        "numChars": 618
+    },
+    {
+        "title": "The Return of the Son of Man",
+        "book": "LUK",
+        "chapter": 21,
+        "startVerse": 25,
+        "endVerse": 28,
+        "numWords": 96,
+        "numChars": 499
+    },
+    {
+        "title": "The Lesson of the Fig Tree",
+        "book": "LUK",
+        "chapter": 21,
+        "startVerse": 29,
+        "endVerse": 33,
+        "numWords": 75,
+        "numChars": 393
+    },
+    {
+        "title": "Be Watchful for the Day",
+        "book": "LUK",
+        "chapter": 21,
+        "startVerse": 34,
+        "endVerse": 38,
+        "numWords": 111,
+        "numChars": 561
+    },
+    {
+        "title": "The Plot to Kill Jesus",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 43,
+        "numChars": 243
+    },
+    {
+        "title": "Judas Agrees to Betray Jesus",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 3,
+        "endVerse": 6,
+        "numWords": 59,
+        "numChars": 317
+    },
+    {
+        "title": "Preparing the Passover",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 7,
+        "endVerse": 13,
+        "numWords": 122,
+        "numChars": 631
+    },
+    {
+        "title": "The Last Supper",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 14,
+        "endVerse": 23,
+        "numWords": 209,
+        "numChars": 1033
+    },
+    {
+        "title": "Who Is the Greatest?",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 24,
+        "endVerse": 30,
+        "numWords": 149,
+        "numChars": 741
+    },
+    {
+        "title": "Jesus Predicts Peter’s Denial",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 31,
+        "endVerse": 38,
+        "numWords": 164,
+        "numChars": 862
+    },
+    {
+        "title": "Jesus Prays on the Mount of Olives",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 39,
+        "endVerse": 46,
+        "numWords": 141,
+        "numChars": 762
+    },
+    {
+        "title": "The Betrayal of Jesus",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 47,
+        "endVerse": 53,
+        "numWords": 154,
+        "numChars": 790
+    },
+    {
+        "title": "Peter Denies Jesus",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 54,
+        "endVerse": 62,
+        "numWords": 144,
+        "numChars": 730
+    },
+    {
+        "title": "The Soldiers Mock Jesus",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 63,
+        "endVerse": 65,
+        "numWords": 44,
+        "numChars": 243
+    },
+    {
+        "title": "Jesus before the Sanhedrin",
+        "book": "LUK",
+        "chapter": 22,
+        "startVerse": 66,
+        "endVerse": 71,
+        "numWords": 102,
+        "numChars": 513
+    },
+    {
+        "title": "Jesus before Pilate",
+        "book": "LUK",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 96,
+        "numChars": 510
+    },
+    {
+        "title": "Jesus before Herod",
+        "book": "LUK",
+        "chapter": 23,
+        "startVerse": 6,
+        "endVerse": 12,
+        "numWords": 124,
+        "numChars": 679
+    },
+    {
+        "title": "The Crowd Chooses Barabbas",
+        "book": "LUK",
+        "chapter": 23,
+        "startVerse": 13,
+        "endVerse": 25,
+        "numWords": 236,
+        "numChars": 1285
+    },
+    {
+        "title": "The Crucifixion",
+        "book": "LUK",
+        "chapter": 23,
+        "startVerse": 26,
+        "endVerse": 43,
+        "numWords": 387,
+        "numChars": 2101
+    },
+    {
+        "title": "The Death of Jesus",
+        "book": "LUK",
+        "chapter": 23,
+        "startVerse": 44,
+        "endVerse": 49,
+        "numWords": 147,
+        "numChars": 803
+    },
+    {
+        "title": "The Burial of Jesus",
+        "book": "LUK",
+        "chapter": 23,
+        "startVerse": 50,
+        "endVerse": 56,
+        "numWords": 131,
+        "numChars": 674
+    },
+    {
+        "title": "The Resurrection",
+        "book": "LUK",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 229,
+        "numChars": 1192
+    },
+    {
+        "title": "The Road to Emmaus",
+        "book": "LUK",
+        "chapter": 24,
+        "startVerse": 13,
+        "endVerse": 35,
+        "numWords": 419,
+        "numChars": 2250
+    },
+    {
+        "title": "Jesus Appears to the Disciples",
+        "book": "LUK",
+        "chapter": 24,
+        "startVerse": 36,
+        "endVerse": 49,
+        "numWords": 255,
+        "numChars": 1317
+    },
+    {
+        "title": "The Ascension",
+        "book": "LUK",
+        "chapter": 24,
+        "startVerse": 50,
+        "endVerse": 53,
+        "numWords": 50,
+        "numChars": 262
+    }
+]

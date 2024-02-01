@@ -1,0 +1,38 @@
+[
+    {
+        "title": "A Greeting from the Elder",
+        "book": "3JN",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 60,
+        "numChars": 308
+    },
+    {
+        "title": "Gaius Commended for Hospitality",
+        "book": "3JN",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 8,
+        "numWords": 76,
+        "numChars": 397
+    },
+    {
+        "title": "Diotrephes and Demetrius",
+        "book": "3JN",
+        "chapter": 1,
+        "startVerse": 9,
+        "endVerse": 12,
+        "numWords": 122,
+        "numChars": 647
+    },
+    {
+        "title": "Conclusion",
+        "book": "3JN",
+        "chapter": 1,
+        "startVerse": 13,
+        "endVerse": 14,
+        "numWords": 53,
+        "numChars": 257
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "A Greeting from Jude",
+        "book": "JUD",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 20,
+        "numChars": 99
+    },
+    {
+        "title": "God’s Judgment on the Ungodly",
+        "book": "JUD",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 16,
+        "numWords": 393,
+        "numChars": 2292
+    },
+    {
+        "title": "A Call to Persevere",
+        "book": "JUD",
+        "chapter": 1,
+        "startVerse": 17,
+        "endVerse": 23,
+        "numWords": 129,
+        "numChars": 693
+    },
+    {
+        "title": "Doxology",
+        "book": "JUD",
+        "chapter": 1,
+        "startVerse": 24,
+        "endVerse": 25,
+        "numWords": 49,
+        "numChars": 269
+    }
+]

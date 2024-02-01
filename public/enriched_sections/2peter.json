@@ -1,0 +1,65 @@
+[
+    {
+        "title": "A Greeting from Peter",
+        "book": "2PE",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 27,
+        "numChars": 139
+    },
+    {
+        "title": "Partakers of the Divine Nature",
+        "book": "2PE",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 15,
+        "numWords": 296,
+        "numChars": 1637
+    },
+    {
+        "title": "Eyewitnesses of His Majesty",
+        "book": "2PE",
+        "chapter": 1,
+        "startVerse": 16,
+        "endVerse": 21,
+        "numWords": 173,
+        "numChars": 903
+    },
+    {
+        "title": "Deliverance from False Prophets",
+        "book": "2PE",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 615,
+        "numChars": 3477
+    },
+    {
+        "title": "The Coming Judgment",
+        "book": "2PE",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 156,
+        "numChars": 874
+    },
+    {
+        "title": "The Day of the Lord",
+        "book": "2PE",
+        "chapter": 3,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 203,
+        "numChars": 1056
+    },
+    {
+        "title": "Final Exhortations",
+        "book": "2PE",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 166,
+        "numChars": 914
+    }
+]

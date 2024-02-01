@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Naomi Becomes a Widow",
+        "book": "RUT",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 121,
+        "numChars": 635
+    },
+    {
+        "title": "Ruth’s Loyalty to Naomi",
+        "book": "RUT",
+        "chapter": 1,
+        "startVerse": 6,
+        "endVerse": 18,
+        "numWords": 309,
+        "numChars": 1637
+    },
+    {
+        "title": "The Return to Bethlehem",
+        "book": "RUT",
+        "chapter": 1,
+        "startVerse": 19,
+        "endVerse": 22,
+        "numWords": 123,
+        "numChars": 692
+    },
+    {
+        "title": "Boaz Meets Ruth",
+        "book": "RUT",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 716,
+        "numChars": 3815
+    },
+    {
+        "title": "Ruth’s Redemption Assured",
+        "book": "RUT",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 472,
+        "numChars": 2505
+    },
+    {
+        "title": "Boaz Redeems Ruth",
+        "book": "RUT",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 459,
+        "numChars": 2460
+    },
+    {
+        "title": "Boaz Marries Ruth",
+        "book": "RUT",
+        "chapter": 4,
+        "startVerse": 13,
+        "endVerse": 17,
+        "numWords": 129,
+        "numChars": 653
+    },
+    {
+        "title": "The Line of David",
+        "book": "RUT",
+        "chapter": 4,
+        "startVerse": 18,
+        "endVerse": 22,
+        "numWords": 35,
+        "numChars": 163
+    }
+]

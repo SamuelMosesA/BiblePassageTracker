@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Greetings from Paul and Timothy",
+        "book": "COL",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 2,
+        "numWords": 26,
+        "numChars": 135
+    },
+    {
+        "title": "Thanksgiving and Prayer",
+        "book": "COL",
+        "chapter": 1,
+        "startVerse": 3,
+        "endVerse": 14,
+        "numWords": 253,
+        "numChars": 1294
+    },
+    {
+        "title": "The Supremacy of the Son",
+        "book": "COL",
+        "chapter": 1,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 208,
+        "numChars": 1133
+    },
+    {
+        "title": "Paul’s Suffering for the Church",
+        "book": "COL",
+        "chapter": 1,
+        "startVerse": 24,
+        "endVerse": 29,
+        "numWords": 133,
+        "numChars": 699
+    },
+    {
+        "title": "Absent in Body, Present in Spirit",
+        "book": "COL",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 121,
+        "numChars": 612
+    },
+    {
+        "title": "Alive with Christ",
+        "book": "COL",
+        "chapter": 2,
+        "startVerse": 6,
+        "endVerse": 23,
+        "numWords": 434,
+        "numChars": 2359
+    },
+    {
+        "title": "Put On the New Self",
+        "book": "COL",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 349,
+        "numChars": 1886
+    },
+    {
+        "title": "Christian Households",
+        "book": "COL",
+        "chapter": 3,
+        "startVerse": 18,
+        "endVerse": 21,
+        "numWords": 47,
+        "numChars": 265
+    },
+    {
+        "title": "Serving with Honor",
+        "book": "COL",
+        "chapter": 3,
+        "startVerse": 22,
+        "endVerse": 25,
+        "numWords": 81,
+        "numChars": 425
+    },
+    {
+        "title": "Prayerful Speech and Actions",
+        "book": "COL",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 97,
+        "numChars": 505
+    },
+    {
+        "title": "Greetings from Paul’s Fellow Workers",
+        "book": "COL",
+        "chapter": 4,
+        "startVerse": 7,
+        "endVerse": 14,
+        "numWords": 195,
+        "numChars": 1044
+    },
+    {
+        "title": "Signature and Final Instructions",
+        "book": "COL",
+        "chapter": 4,
+        "startVerse": 15,
+        "endVerse": 18,
+        "numWords": 71,
+        "numChars": 373
+    }
+]

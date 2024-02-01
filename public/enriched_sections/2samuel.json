@@ -1,0 +1,578 @@
+[
+    {
+        "title": "Saul’s Death Reported to David",
+        "book": "2SA",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 348,
+        "numChars": 1762
+    },
+    {
+        "title": "David’s Song for Saul and Jonathan",
+        "book": "2SA",
+        "chapter": 1,
+        "startVerse": 17,
+        "endVerse": 27,
+        "numWords": 140,
+        "numChars": 699
+    },
+    {
+        "title": "David Anointed King of Judah",
+        "book": "2SA",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 204,
+        "numChars": 1107
+    },
+    {
+        "title": "Ish-bosheth Made King of Israel",
+        "book": "2SA",
+        "chapter": 2,
+        "startVerse": 8,
+        "endVerse": 11,
+        "numWords": 84,
+        "numChars": 474
+    },
+    {
+        "title": "The Battle of Gibeon",
+        "book": "2SA",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 32,
+        "numWords": 493,
+        "numChars": 2651
+    },
+    {
+        "title": "The House of David Strengthened",
+        "book": "2SA",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 77,
+        "numChars": 419
+    },
+    {
+        "title": "Abner Joins David",
+        "book": "2SA",
+        "chapter": 3,
+        "startVerse": 6,
+        "endVerse": 21,
+        "numWords": 449,
+        "numChars": 2349
+    },
+    {
+        "title": "Joab Murders Abner",
+        "book": "2SA",
+        "chapter": 3,
+        "startVerse": 22,
+        "endVerse": 30,
+        "numWords": 267,
+        "numChars": 1376
+    },
+    {
+        "title": "David Mourns for Abner",
+        "book": "2SA",
+        "chapter": 3,
+        "startVerse": 31,
+        "endVerse": 39,
+        "numWords": 196,
+        "numChars": 1017
+    },
+    {
+        "title": "The Murder of Ish-bosheth",
+        "book": "2SA",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 265,
+        "numChars": 1417
+    },
+    {
+        "title": "The Execution of Rechab and Baanah",
+        "book": "2SA",
+        "chapter": 4,
+        "startVerse": 9,
+        "endVerse": 12,
+        "numWords": 142,
+        "numChars": 718
+    },
+    {
+        "title": "David Anointed King of All Israel",
+        "book": "2SA",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 129,
+        "numChars": 671
+    },
+    {
+        "title": "David Conquers Jerusalem",
+        "book": "2SA",
+        "chapter": 5,
+        "startVerse": 6,
+        "endVerse": 11,
+        "numWords": 173,
+        "numChars": 931
+    },
+    {
+        "title": "David’s Family Grows",
+        "book": "2SA",
+        "chapter": 5,
+        "startVerse": 12,
+        "endVerse": 16,
+        "numWords": 85,
+        "numChars": 483
+    },
+    {
+        "title": "Two Victories over the Philistines",
+        "book": "2SA",
+        "chapter": 5,
+        "startVerse": 17,
+        "endVerse": 25,
+        "numWords": 234,
+        "numChars": 1291
+    },
+    {
+        "title": "David Fetches the Ark",
+        "book": "2SA",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 142,
+        "numChars": 718
+    },
+    {
+        "title": "Uzzah Touches the Ark",
+        "book": "2SA",
+        "chapter": 6,
+        "startVerse": 5,
+        "endVerse": 11,
+        "numWords": 234,
+        "numChars": 1269
+    },
+    {
+        "title": "The Ark Brought to Jerusalem",
+        "book": "2SA",
+        "chapter": 6,
+        "startVerse": 12,
+        "endVerse": 15,
+        "numWords": 86,
+        "numChars": 433
+    },
+    {
+        "title": "Michal’s Contempt for David",
+        "book": "2SA",
+        "chapter": 6,
+        "startVerse": 16,
+        "endVerse": 23,
+        "numWords": 261,
+        "numChars": 1383
+    },
+    {
+        "title": "God’s Covenant with David",
+        "book": "2SA",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 460,
+        "numChars": 2263
+    },
+    {
+        "title": "David’s Prayer of Thanksgiving",
+        "book": "2SA",
+        "chapter": 7,
+        "startVerse": 18,
+        "endVerse": 29,
+        "numWords": 408,
+        "numChars": 2131
+    },
+    {
+        "title": "David’s Triumphs",
+        "book": "2SA",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 460,
+        "numChars": 2651
+    },
+    {
+        "title": "David’s Officers",
+        "book": "2SA",
+        "chapter": 8,
+        "startVerse": 15,
+        "endVerse": 18,
+        "numWords": 44,
+        "numChars": 262
+    },
+    {
+        "title": "David and Mephibosheth",
+        "book": "2SA",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 314,
+        "numChars": 1656
+    },
+    {
+        "title": "David’s Messengers Disgraced",
+        "book": "2SA",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 229,
+        "numChars": 1258
+    },
+    {
+        "title": "David Defeats Ammon and Aram",
+        "book": "2SA",
+        "chapter": 10,
+        "startVerse": 9,
+        "endVerse": 19,
+        "numWords": 311,
+        "numChars": 1758
+    },
+    {
+        "title": "David and Bathsheba",
+        "book": "2SA",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 362,
+        "numChars": 1838
+    },
+    {
+        "title": "David Arranges Uriah’s Death",
+        "book": "2SA",
+        "chapter": 11,
+        "startVerse": 14,
+        "endVerse": 25,
+        "numWords": 305,
+        "numChars": 1582
+    },
+    {
+        "title": "David Marries Bathsheba",
+        "book": "2SA",
+        "chapter": 11,
+        "startVerse": 26,
+        "endVerse": 27,
+        "numWords": 38,
+        "numChars": 190
+    },
+    {
+        "title": "Nathan Rebukes David",
+        "book": "2SA",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 380,
+        "numChars": 1881
+    },
+    {
+        "title": "David’s Loss and Repentance",
+        "book": "2SA",
+        "chapter": 12,
+        "startVerse": 13,
+        "endVerse": 23,
+        "numWords": 337,
+        "numChars": 1718
+    },
+    {
+        "title": "Solomon’s Birth",
+        "book": "2SA",
+        "chapter": 12,
+        "startVerse": 24,
+        "endVerse": 25,
+        "numWords": 63,
+        "numChars": 333
+    },
+    {
+        "title": "The Capture of Rabbah",
+        "book": "2SA",
+        "chapter": 12,
+        "startVerse": 26,
+        "endVerse": 31,
+        "numWords": 227,
+        "numChars": 1234
+    },
+    {
+        "title": "Amnon and Tamar",
+        "book": "2SA",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 597,
+        "numChars": 3072
+    },
+    {
+        "title": "Absalom’s Revenge on Amnon",
+        "book": "2SA",
+        "chapter": 13,
+        "startVerse": 23,
+        "endVerse": 33,
+        "numWords": 310,
+        "numChars": 1580
+    },
+    {
+        "title": "Absalom Flees to Geshur",
+        "book": "2SA",
+        "chapter": 13,
+        "startVerse": 34,
+        "endVerse": 39,
+        "numWords": 181,
+        "numChars": 949
+    },
+    {
+        "title": "Absalom’s Return to Jerusalem",
+        "book": "2SA",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 27,
+        "numWords": 761,
+        "numChars": 3848
+    },
+    {
+        "title": "Absalom Reconciled to David",
+        "book": "2SA",
+        "chapter": 14,
+        "startVerse": 28,
+        "endVerse": 33,
+        "numWords": 157,
+        "numChars": 773
+    },
+    {
+        "title": "Absalom’s Conspiracy",
+        "book": "2SA",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 293,
+        "numChars": 1578
+    },
+    {
+        "title": "David Flees Jerusalem",
+        "book": "2SA",
+        "chapter": 15,
+        "startVerse": 13,
+        "endVerse": 29,
+        "numWords": 508,
+        "numChars": 2643
+    },
+    {
+        "title": "David Weeps at the Mount of Olives",
+        "book": "2SA",
+        "chapter": 15,
+        "startVerse": 30,
+        "endVerse": 37,
+        "numWords": 197,
+        "numChars": 1031
+    },
+    {
+        "title": "David and Ziba",
+        "book": "2SA",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 77,
+        "numChars": 417
+    },
+    {
+        "title": "Shimei Curses David",
+        "book": "2SA",
+        "chapter": 16,
+        "startVerse": 5,
+        "endVerse": 14,
+        "numWords": 307,
+        "numChars": 1568
+    },
+    {
+        "title": "The Counsel of Ahithophel and Hushai",
+        "book": "2SA",
+        "chapter": 16,
+        "startVerse": 15,
+        "endVerse": 23,
+        "numWords": 215,
+        "numChars": 1142
+    },
+    {
+        "title": "Hushai Counters Ahithophel’s Advice",
+        "book": "2SA",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 420,
+        "numChars": 2163
+    },
+    {
+        "title": "Hushai’s Warning Saves David",
+        "book": "2SA",
+        "chapter": 17,
+        "startVerse": 15,
+        "endVerse": 29,
+        "numWords": 483,
+        "numChars": 2617
+    },
+    {
+        "title": "Absalom Killed",
+        "book": "2SA",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 636,
+        "numChars": 3408
+    },
+    {
+        "title": "David Mourns for Absalom",
+        "book": "2SA",
+        "chapter": 18,
+        "startVerse": 19,
+        "endVerse": 33,
+        "numWords": 307,
+        "numChars": 1559
+    },
+    {
+        "title": "Joab Reproves David",
+        "book": "2SA",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 221,
+        "numChars": 1130
+    },
+    {
+        "title": "David Restored as King",
+        "book": "2SA",
+        "chapter": 19,
+        "startVerse": 8,
+        "endVerse": 15,
+        "numWords": 248,
+        "numChars": 1242
+    },
+    {
+        "title": "Shimei Pardoned",
+        "book": "2SA",
+        "chapter": 19,
+        "startVerse": 16,
+        "endVerse": 23,
+        "numWords": 210,
+        "numChars": 1047
+    },
+    {
+        "title": "Mephibosheth Excused",
+        "book": "2SA",
+        "chapter": 19,
+        "startVerse": 24,
+        "endVerse": 30,
+        "numWords": 208,
+        "numChars": 1054
+    },
+    {
+        "title": "David’s Kindness to Barzillai",
+        "book": "2SA",
+        "chapter": 19,
+        "startVerse": 31,
+        "endVerse": 40,
+        "numWords": 293,
+        "numChars": 1482
+    },
+    {
+        "title": "Contention over the King",
+        "book": "2SA",
+        "chapter": 19,
+        "startVerse": 41,
+        "endVerse": 43,
+        "numWords": 118,
+        "numChars": 599
+    },
+    {
+        "title": "Sheba’s Rebellion",
+        "book": "2SA",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 26,
+        "numWords": 740,
+        "numChars": 3903
+    },
+    {
+        "title": "David Avenges the Gibeonites",
+        "book": "2SA",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 476,
+        "numChars": 2501
+    },
+    {
+        "title": "Four Battles against the Philistines",
+        "book": "2SA",
+        "chapter": 21,
+        "startVerse": 15,
+        "endVerse": 22,
+        "numWords": 264,
+        "numChars": 1491
+    },
+    {
+        "title": "David’s Song of Deliverance",
+        "book": "2SA",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 51,
+        "numWords": 403,
+        "numChars": 1967
+    },
+    {
+        "title": "David’s Last Song",
+        "book": "2SA",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 54,
+        "numChars": 259
+    },
+    {
+        "title": "David’s Mighty Men",
+        "book": "2SA",
+        "chapter": 23,
+        "startVerse": 8,
+        "endVerse": 39,
+        "numWords": 613,
+        "numChars": 3267
+    },
+    {
+        "title": "David’s Military Census",
+        "book": "2SA",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 291,
+        "numChars": 1511
+    },
+    {
+        "title": "Judgment for David’s Sin",
+        "book": "2SA",
+        "chapter": 24,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 188,
+        "numChars": 958
+    },
+    {
+        "title": "A Plague on Israel",
+        "book": "2SA",
+        "chapter": 24,
+        "startVerse": 15,
+        "endVerse": 17,
+        "numWords": 154,
+        "numChars": 858
+    },
+    {
+        "title": "David Builds an Altar",
+        "book": "2SA",
+        "chapter": 24,
+        "startVerse": 18,
+        "endVerse": 25,
+        "numWords": 178,
+        "numChars": 891
+    }
+]

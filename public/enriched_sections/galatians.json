@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Paul’s Greeting to the Galatians",
+        "book": "GAL",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 89,
+        "numChars": 429
+    },
+    {
+        "title": "No Other Gospel",
+        "book": "GAL",
+        "chapter": 1,
+        "startVerse": 6,
+        "endVerse": 9,
+        "numWords": 102,
+        "numChars": 506
+    },
+    {
+        "title": "Paul Preaches the Gospel",
+        "book": "GAL",
+        "chapter": 1,
+        "startVerse": 10,
+        "endVerse": 24,
+        "numWords": 296,
+        "numChars": 1495
+    },
+    {
+        "title": "The Council at Jerusalem",
+        "book": "GAL",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 268,
+        "numChars": 1426
+    },
+    {
+        "title": "Paul Confronts Cephas",
+        "book": "GAL",
+        "chapter": 2,
+        "startVerse": 11,
+        "endVerse": 21,
+        "numWords": 313,
+        "numChars": 1556
+    },
+    {
+        "title": "Faith and Belief",
+        "book": "GAL",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 167,
+        "numChars": 942
+    },
+    {
+        "title": "Christ Has Redeemed Us",
+        "book": "GAL",
+        "chapter": 3,
+        "startVerse": 10,
+        "endVerse": 14,
+        "numWords": 161,
+        "numChars": 865
+    },
+    {
+        "title": "The Purpose of the Law",
+        "book": "GAL",
+        "chapter": 3,
+        "startVerse": 15,
+        "endVerse": 25,
+        "numWords": 260,
+        "numChars": 1405
+    },
+    {
+        "title": "Sons through Faith in Christ",
+        "book": "GAL",
+        "chapter": 3,
+        "startVerse": 26,
+        "endVerse": 29,
+        "numWords": 62,
+        "numChars": 328
+    },
+    {
+        "title": "Sons and Heirs",
+        "book": "GAL",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 142,
+        "numChars": 699
+    },
+    {
+        "title": "Paul’s Concern for the Galatians",
+        "book": "GAL",
+        "chapter": 4,
+        "startVerse": 8,
+        "endVerse": 20,
+        "numWords": 278,
+        "numChars": 1352
+    },
+    {
+        "title": "Hagar and Sarah",
+        "book": "GAL",
+        "chapter": 4,
+        "startVerse": 21,
+        "endVerse": 31,
+        "numWords": 214,
+        "numChars": 1150
+    },
+    {
+        "title": "Freedom in Christ",
+        "book": "GAL",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 282,
+        "numChars": 1534
+    },
+    {
+        "title": "Walking by the Spirit",
+        "book": "GAL",
+        "chapter": 5,
+        "startVerse": 16,
+        "endVerse": 26,
+        "numWords": 180,
+        "numChars": 996
+    },
+    {
+        "title": "Carry One Another’s Burdens",
+        "book": "GAL",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 194,
+        "numChars": 1020
+    },
+    {
+        "title": "Final Warnings and Blessings",
+        "book": "GAL",
+        "chapter": 6,
+        "startVerse": 11,
+        "endVerse": 18,
+        "numWords": 163,
+        "numChars": 831
+    }
+]

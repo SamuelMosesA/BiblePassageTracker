@@ -1,0 +1,236 @@
+[
+    {
+        "title": "Everything Is Futile",
+        "book": "ECC",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 126,
+        "numChars": 661
+    },
+    {
+        "title": "With Wisdom Comes Sorrow",
+        "book": "ECC",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 18,
+        "numWords": 136,
+        "numChars": 673
+    },
+    {
+        "title": "The Futility of Pleasure",
+        "book": "ECC",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 254,
+        "numChars": 1359
+    },
+    {
+        "title": "The Wise and the Foolish",
+        "book": "ECC",
+        "chapter": 2,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 129,
+        "numChars": 650
+    },
+    {
+        "title": "The Futility of Work",
+        "book": "ECC",
+        "chapter": 2,
+        "startVerse": 18,
+        "endVerse": 26,
+        "numWords": 256,
+        "numChars": 1253
+    },
+    {
+        "title": "To Everything There Is a Season",
+        "book": "ECC",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 84,
+        "numChars": 314
+    },
+    {
+        "title": "God’s Works Remain Forever",
+        "book": "ECC",
+        "chapter": 3,
+        "startVerse": 9,
+        "endVerse": 15,
+        "numWords": 145,
+        "numChars": 724
+    },
+    {
+        "title": "From Dust to Dust",
+        "book": "ECC",
+        "chapter": 3,
+        "startVerse": 16,
+        "endVerse": 22,
+        "numWords": 175,
+        "numChars": 889
+    },
+    {
+        "title": "The Evil of Oppression",
+        "book": "ECC",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 241,
+        "numChars": 1234
+    },
+    {
+        "title": "The Futility of Power",
+        "book": "ECC",
+        "chapter": 4,
+        "startVerse": 13,
+        "endVerse": 16,
+        "numWords": 98,
+        "numChars": 485
+    },
+    {
+        "title": "Approaching God with Awe",
+        "book": "ECC",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 167,
+        "numChars": 793
+    },
+    {
+        "title": "The Futility of Wealth",
+        "book": "ECC",
+        "chapter": 5,
+        "startVerse": 8,
+        "endVerse": 20,
+        "numWords": 334,
+        "numChars": 1669
+    },
+    {
+        "title": "The Futility of Life",
+        "book": "ECC",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 284,
+        "numChars": 1467
+    },
+    {
+        "title": "The Value of Wisdom",
+        "book": "ECC",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 124,
+        "numChars": 575
+    },
+    {
+        "title": "The Limits of Human Wisdom",
+        "book": "ECC",
+        "chapter": 7,
+        "startVerse": 15,
+        "endVerse": 29,
+        "numWords": 279,
+        "numChars": 1446
+    },
+    {
+        "title": "Obey the King",
+        "book": "ECC",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 200,
+        "numChars": 1008
+    },
+    {
+        "title": "Fear God",
+        "book": "ECC",
+        "chapter": 8,
+        "startVerse": 10,
+        "endVerse": 13,
+        "numWords": 125,
+        "numChars": 639
+    },
+    {
+        "title": "God’s Ways Are Mysterious",
+        "book": "ECC",
+        "chapter": 8,
+        "startVerse": 14,
+        "endVerse": 17,
+        "numWords": 172,
+        "numChars": 850
+    },
+    {
+        "title": "Death Comes to Good and Bad",
+        "book": "ECC",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 233,
+        "numChars": 1148
+    },
+    {
+        "title": "Enjoy Your Portion in This Life",
+        "book": "ECC",
+        "chapter": 9,
+        "startVerse": 7,
+        "endVerse": 12,
+        "numWords": 183,
+        "numChars": 921
+    },
+    {
+        "title": "Wisdom Is Better than Strength",
+        "book": "ECC",
+        "chapter": 9,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 102,
+        "numChars": 498
+    },
+    {
+        "title": "Wisdom and Folly",
+        "book": "ECC",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 197,
+        "numChars": 894
+    },
+    {
+        "title": "Cast Your Bread upon the Waters",
+        "book": "ECC",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 50,
+        "numChars": 212
+    },
+    {
+        "title": "Enjoy Your Years",
+        "book": "ECC",
+        "chapter": 11,
+        "startVerse": 7,
+        "endVerse": 10,
+        "numWords": 28,
+        "numChars": 119
+    },
+    {
+        "title": "Remember Your Creator",
+        "book": "ECC",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 76,
+        "numChars": 380
+    },
+    {
+        "title": "The Whole Duty of Man",
+        "book": "ECC",
+        "chapter": 12,
+        "startVerse": 9,
+        "endVerse": 14,
+        "numWords": 138,
+        "numChars": 767
+    }
+]

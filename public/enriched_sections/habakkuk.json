@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Habakkuk’s First Complaint",
+        "book": "HAB",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 34,
+        "numChars": 167
+    },
+    {
+        "title": "The LORD’s Answer",
+        "book": "HAB",
+        "chapter": 1,
+        "startVerse": 5,
+        "endVerse": 11,
+        "numWords": 49,
+        "numChars": 256
+    },
+    {
+        "title": "Habakkuk’s Second Complaint",
+        "book": "HAB",
+        "chapter": 1,
+        "startVerse": 12,
+        "endVerse": 17,
+        "numWords": 57,
+        "numChars": 264
+    },
+    {
+        "title": "The LORD Answers Again",
+        "book": "HAB",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 52,
+        "numChars": 252
+    },
+    {
+        "title": "Woe to the Chaldeans",
+        "book": "HAB",
+        "chapter": 2,
+        "startVerse": 6,
+        "endVerse": 20,
+        "numWords": 123,
+        "numChars": 584
+    },
+    {
+        "title": "Habakkuk’s Prayer",
+        "book": "HAB",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 124,
+        "numChars": 644
+    },
+    {
+        "title": "Habakkuk Rejoices",
+        "book": "HAB",
+        "chapter": 3,
+        "startVerse": 17,
+        "endVerse": 19,
+        "numWords": 20,
+        "numChars": 89
+    }
+]

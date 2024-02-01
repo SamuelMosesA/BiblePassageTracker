@@ -1,0 +1,1217 @@
+[
+    {
+        "title": "The Creation",
+        "book": "GEN",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 31,
+        "numWords": 736,
+        "numChars": 3815
+    },
+    {
+        "title": "The Seventh Day",
+        "book": "GEN",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 66,
+        "numChars": 342
+    },
+    {
+        "title": "Man and Woman in the Garden",
+        "book": "GEN",
+        "chapter": 2,
+        "startVerse": 4,
+        "endVerse": 25,
+        "numWords": 601,
+        "numChars": 2944
+    },
+    {
+        "title": "The Serpent’s Deception",
+        "book": "GEN",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 209,
+        "numChars": 1027
+    },
+    {
+        "title": "God Arraigns Adam and Eve",
+        "book": "GEN",
+        "chapter": 3,
+        "startVerse": 8,
+        "endVerse": 13,
+        "numWords": 144,
+        "numChars": 692
+    },
+    {
+        "title": "The Fate of the Serpent",
+        "book": "GEN",
+        "chapter": 3,
+        "startVerse": 14,
+        "endVerse": 15,
+        "numWords": 19,
+        "numChars": 84
+    },
+    {
+        "title": "The Punishment of Mankind",
+        "book": "GEN",
+        "chapter": 3,
+        "startVerse": 16,
+        "endVerse": 20,
+        "numWords": 53,
+        "numChars": 250
+    },
+    {
+        "title": "The Expulsion from Paradise",
+        "book": "GEN",
+        "chapter": 3,
+        "startVerse": 21,
+        "endVerse": 24,
+        "numWords": 111,
+        "numChars": 544
+    },
+    {
+        "title": "Cain and Abel",
+        "book": "GEN",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 391,
+        "numChars": 1993
+    },
+    {
+        "title": "The Descendants of Cain",
+        "book": "GEN",
+        "chapter": 4,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 136,
+        "numChars": 712
+    },
+    {
+        "title": "Seth and Enosh",
+        "book": "GEN",
+        "chapter": 4,
+        "startVerse": 25,
+        "endVerse": 26,
+        "numWords": 54,
+        "numChars": 277
+    },
+    {
+        "title": "The Descendants of Adam",
+        "book": "GEN",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 280,
+        "numChars": 1400
+    },
+    {
+        "title": "God Takes Up Enoch",
+        "book": "GEN",
+        "chapter": 5,
+        "startVerse": 18,
+        "endVerse": 24,
+        "numWords": 124,
+        "numChars": 631
+    },
+    {
+        "title": "From Methuselah to Noah",
+        "book": "GEN",
+        "chapter": 5,
+        "startVerse": 25,
+        "endVerse": 32,
+        "numWords": 137,
+        "numChars": 698
+    },
+    {
+        "title": "Corruption on the Earth",
+        "book": "GEN",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 198,
+        "numChars": 1008
+    },
+    {
+        "title": "Noah’s Favor with God",
+        "book": "GEN",
+        "chapter": 6,
+        "startVerse": 8,
+        "endVerse": 12,
+        "numWords": 86,
+        "numChars": 455
+    },
+    {
+        "title": "Preparing the Ark",
+        "book": "GEN",
+        "chapter": 6,
+        "startVerse": 13,
+        "endVerse": 22,
+        "numWords": 290,
+        "numChars": 1505
+    },
+    {
+        "title": "The Great Flood",
+        "book": "GEN",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 521,
+        "numChars": 2743
+    },
+    {
+        "title": "The Ark Rests on Ararat",
+        "book": "GEN",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 112,
+        "numChars": 589
+    },
+    {
+        "title": "Noah Sends a Raven and a Dove",
+        "book": "GEN",
+        "chapter": 8,
+        "startVerse": 6,
+        "endVerse": 12,
+        "numWords": 171,
+        "numChars": 840
+    },
+    {
+        "title": "Exiting the Ark",
+        "book": "GEN",
+        "chapter": 8,
+        "startVerse": 13,
+        "endVerse": 19,
+        "numWords": 145,
+        "numChars": 772
+    },
+    {
+        "title": "Noah Builds an Altar",
+        "book": "GEN",
+        "chapter": 8,
+        "startVerse": 20,
+        "endVerse": 22,
+        "numWords": 80,
+        "numChars": 417
+    },
+    {
+        "title": "The Covenant of the Rainbow",
+        "book": "GEN",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 374,
+        "numChars": 1894
+    },
+    {
+        "title": "Noah’s Shame and Canaan’s Curse",
+        "book": "GEN",
+        "chapter": 9,
+        "startVerse": 18,
+        "endVerse": 25,
+        "numWords": 142,
+        "numChars": 755
+    },
+    {
+        "title": "Shem’s Blessing and Noah’s Death",
+        "book": "GEN",
+        "chapter": 9,
+        "startVerse": 26,
+        "endVerse": 29,
+        "numWords": 36,
+        "numChars": 195
+    },
+    {
+        "title": "The Table of Nations",
+        "book": "GEN",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 32,
+        "numWords": 475,
+        "numChars": 2675
+    },
+    {
+        "title": "The Tower of Babel",
+        "book": "GEN",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 238,
+        "numChars": 1233
+    },
+    {
+        "title": "Genealogy from Shem to Abram",
+        "book": "GEN",
+        "chapter": 11,
+        "startVerse": 10,
+        "endVerse": 26,
+        "numWords": 369,
+        "numChars": 1922
+    },
+    {
+        "title": "Terah’s Descendants",
+        "book": "GEN",
+        "chapter": 11,
+        "startVerse": 27,
+        "endVerse": 32,
+        "numWords": 132,
+        "numChars": 707
+    },
+    {
+        "title": "The Call of Abram",
+        "book": "GEN",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 212,
+        "numChars": 1073
+    },
+    {
+        "title": "Abram and Sarai in Egypt",
+        "book": "GEN",
+        "chapter": 12,
+        "startVerse": 10,
+        "endVerse": 20,
+        "numWords": 236,
+        "numChars": 1224
+    },
+    {
+        "title": "Abram and Lot Part Ways",
+        "book": "GEN",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 212,
+        "numChars": 1095
+    },
+    {
+        "title": "Lot Proceeds toward Sodom",
+        "book": "GEN",
+        "chapter": 13,
+        "startVerse": 10,
+        "endVerse": 13,
+        "numWords": 98,
+        "numChars": 506
+    },
+    {
+        "title": "God Renews the Promise to Abram",
+        "book": "GEN",
+        "chapter": 13,
+        "startVerse": 14,
+        "endVerse": 18,
+        "numWords": 129,
+        "numChars": 637
+    },
+    {
+        "title": "The War of the Kings",
+        "book": "GEN",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 235,
+        "numChars": 1307
+    },
+    {
+        "title": "Abram Rescues Lot",
+        "book": "GEN",
+        "chapter": 14,
+        "startVerse": 10,
+        "endVerse": 16,
+        "numWords": 200,
+        "numChars": 1070
+    },
+    {
+        "title": "Melchizedek Blesses Abram",
+        "book": "GEN",
+        "chapter": 14,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 174,
+        "numChars": 893
+    },
+    {
+        "title": "God’s Covenant with Abram",
+        "book": "GEN",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 7,
+        "numWords": 169,
+        "numChars": 868
+    },
+    {
+        "title": "God Confirms His Promise",
+        "book": "GEN",
+        "chapter": 15,
+        "startVerse": 8,
+        "endVerse": 21,
+        "numWords": 266,
+        "numChars": 1473
+    },
+    {
+        "title": "Hagar and Ishmael",
+        "book": "GEN",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 367,
+        "numChars": 1928
+    },
+    {
+        "title": "Abraham to Father Many Nations",
+        "book": "GEN",
+        "chapter": 17,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 181,
+        "numChars": 975
+    },
+    {
+        "title": "The Covenant of Circumcision",
+        "book": "GEN",
+        "chapter": 17,
+        "startVerse": 9,
+        "endVerse": 27,
+        "numWords": 453,
+        "numChars": 2477
+    },
+    {
+        "title": "The Three Visitors",
+        "book": "GEN",
+        "chapter": 18,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 229,
+        "numChars": 1180
+    },
+    {
+        "title": "Sarah Laughs at the Promise",
+        "book": "GEN",
+        "chapter": 18,
+        "startVerse": 9,
+        "endVerse": 15,
+        "numWords": 134,
+        "numChars": 681
+    },
+    {
+        "title": "Abraham Intercedes for Sodom",
+        "book": "GEN",
+        "chapter": 18,
+        "startVerse": 16,
+        "endVerse": 33,
+        "numWords": 395,
+        "numChars": 2075
+    },
+    {
+        "title": "Lot Welcomes the Angels",
+        "book": "GEN",
+        "chapter": 19,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 291,
+        "numChars": 1469
+    },
+    {
+        "title": "Lot Flees to Zoar",
+        "book": "GEN",
+        "chapter": 19,
+        "startVerse": 12,
+        "endVerse": 23,
+        "numWords": 345,
+        "numChars": 1747
+    },
+    {
+        "title": "The Destruction of Sodom and Gomorrah",
+        "book": "GEN",
+        "chapter": 19,
+        "startVerse": 24,
+        "endVerse": 29,
+        "numWords": 128,
+        "numChars": 690
+    },
+    {
+        "title": "Lot and His Daughters",
+        "book": "GEN",
+        "chapter": 19,
+        "startVerse": 30,
+        "endVerse": 38,
+        "numWords": 255,
+        "numChars": 1284
+    },
+    {
+        "title": "Abraham, Sarah, and Abimelech",
+        "book": "GEN",
+        "chapter": 20,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 487,
+        "numChars": 2587
+    },
+    {
+        "title": "The Birth of Isaac",
+        "book": "GEN",
+        "chapter": 21,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 148,
+        "numChars": 736
+    },
+    {
+        "title": "Sarah Turns against Hagar",
+        "book": "GEN",
+        "chapter": 21,
+        "startVerse": 9,
+        "endVerse": 21,
+        "numWords": 348,
+        "numChars": 1779
+    },
+    {
+        "title": "The Covenant at Beersheba",
+        "book": "GEN",
+        "chapter": 21,
+        "startVerse": 22,
+        "endVerse": 34,
+        "numWords": 261,
+        "numChars": 1372
+    },
+    {
+        "title": "The Offering of Isaac",
+        "book": "GEN",
+        "chapter": 22,
+        "startVerse": 1,
+        "endVerse": 10,
+        "numWords": 235,
+        "numChars": 1226
+    },
+    {
+        "title": "The LORD Provides the Sacrifice",
+        "book": "GEN",
+        "chapter": 22,
+        "startVerse": 11,
+        "endVerse": 19,
+        "numWords": 260,
+        "numChars": 1339
+    },
+    {
+        "title": "The Sons of Nahor",
+        "book": "GEN",
+        "chapter": 22,
+        "startVerse": 20,
+        "endVerse": 24,
+        "numWords": 62,
+        "numChars": 381
+    },
+    {
+        "title": "The Death and Burial of Sarah",
+        "book": "GEN",
+        "chapter": 23,
+        "startVerse": 1,
+        "endVerse": 20,
+        "numWords": 477,
+        "numChars": 2356
+    },
+    {
+        "title": "A Wife for Isaac",
+        "book": "GEN",
+        "chapter": 24,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 418,
+        "numChars": 2148
+    },
+    {
+        "title": "Rebekah Is Chosen",
+        "book": "GEN",
+        "chapter": 24,
+        "startVerse": 15,
+        "endVerse": 61,
+        "numWords": 1110,
+        "numChars": 5582
+    },
+    {
+        "title": "Isaac Marries Rebekah",
+        "book": "GEN",
+        "chapter": 24,
+        "startVerse": 62,
+        "endVerse": 67,
+        "numWords": 101,
+        "numChars": 528
+    },
+    {
+        "title": "Abraham and Keturah",
+        "book": "GEN",
+        "chapter": 25,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 88,
+        "numChars": 484
+    },
+    {
+        "title": "The Death of Abraham",
+        "book": "GEN",
+        "chapter": 25,
+        "startVerse": 7,
+        "endVerse": 11,
+        "numWords": 83,
+        "numChars": 448
+    },
+    {
+        "title": "The Descendants of Ishmael",
+        "book": "GEN",
+        "chapter": 25,
+        "startVerse": 12,
+        "endVerse": 18,
+        "numWords": 122,
+        "numChars": 712
+    },
+    {
+        "title": "Jacob and Esau",
+        "book": "GEN",
+        "chapter": 25,
+        "startVerse": 19,
+        "endVerse": 28,
+        "numWords": 218,
+        "numChars": 1159
+    },
+    {
+        "title": "Esau Sells His Birthright",
+        "book": "GEN",
+        "chapter": 25,
+        "startVerse": 29,
+        "endVerse": 34,
+        "numWords": 102,
+        "numChars": 510
+    },
+    {
+        "title": "God’s Promise to Isaac",
+        "book": "GEN",
+        "chapter": 26,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 142,
+        "numChars": 728
+    },
+    {
+        "title": "Isaac Deceives Abimelech",
+        "book": "GEN",
+        "chapter": 26,
+        "startVerse": 6,
+        "endVerse": 11,
+        "numWords": 152,
+        "numChars": 794
+    },
+    {
+        "title": "Isaac’s Prosperity",
+        "book": "GEN",
+        "chapter": 26,
+        "startVerse": 12,
+        "endVerse": 25,
+        "numWords": 335,
+        "numChars": 1769
+    },
+    {
+        "title": "Isaac’s Covenant with Abimelech",
+        "book": "GEN",
+        "chapter": 26,
+        "startVerse": 26,
+        "endVerse": 33,
+        "numWords": 199,
+        "numChars": 988
+    },
+    {
+        "title": "Esau’s Wives",
+        "book": "GEN",
+        "chapter": 26,
+        "startVerse": 34,
+        "endVerse": 35,
+        "numWords": 32,
+        "numChars": 175
+    },
+    {
+        "title": "Isaac Blesses Jacob",
+        "book": "GEN",
+        "chapter": 27,
+        "startVerse": 1,
+        "endVerse": 29,
+        "numWords": 563,
+        "numChars": 2701
+    },
+    {
+        "title": "Esau’s Lost Hope",
+        "book": "GEN",
+        "chapter": 27,
+        "startVerse": 30,
+        "endVerse": 46,
+        "numWords": 423,
+        "numChars": 2181
+    },
+    {
+        "title": "Jacob’s Departure",
+        "book": "GEN",
+        "chapter": 28,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 139,
+        "numChars": 745
+    },
+    {
+        "title": "Esau Marries Mahalath",
+        "book": "GEN",
+        "chapter": 28,
+        "startVerse": 6,
+        "endVerse": 9,
+        "numWords": 77,
+        "numChars": 430
+    },
+    {
+        "title": "Jacob’s Ladder",
+        "book": "GEN",
+        "chapter": 28,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 240,
+        "numChars": 1178
+    },
+    {
+        "title": "The Stone of Bethel",
+        "book": "GEN",
+        "chapter": 28,
+        "startVerse": 18,
+        "endVerse": 22,
+        "numWords": 130,
+        "numChars": 602
+    },
+    {
+        "title": "Jacob Meets Rachel",
+        "book": "GEN",
+        "chapter": 29,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 290,
+        "numChars": 1517
+    },
+    {
+        "title": "Jacob Marries Leah and Rachel",
+        "book": "GEN",
+        "chapter": 29,
+        "startVerse": 14,
+        "endVerse": 30,
+        "numWords": 307,
+        "numChars": 1652
+    },
+    {
+        "title": "Reuben, Simeon, Levi, and Judah",
+        "book": "GEN",
+        "chapter": 29,
+        "startVerse": 31,
+        "endVerse": 35,
+        "numWords": 189,
+        "numChars": 992
+    },
+    {
+        "title": "Dan and Naphtali",
+        "book": "GEN",
+        "chapter": 30,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 176,
+        "numChars": 929
+    },
+    {
+        "title": "Gad and Asher",
+        "book": "GEN",
+        "chapter": 30,
+        "startVerse": 9,
+        "endVerse": 16,
+        "numWords": 190,
+        "numChars": 1023
+    },
+    {
+        "title": "Issachar, Zebulun, and Dinah",
+        "book": "GEN",
+        "chapter": 30,
+        "startVerse": 17,
+        "endVerse": 21,
+        "numWords": 101,
+        "numChars": 538
+    },
+    {
+        "title": "Joseph",
+        "book": "GEN",
+        "chapter": 30,
+        "startVerse": 22,
+        "endVerse": 24,
+        "numWords": 51,
+        "numChars": 249
+    },
+    {
+        "title": "Jacob Prospers",
+        "book": "GEN",
+        "chapter": 30,
+        "startVerse": 25,
+        "endVerse": 43,
+        "numWords": 474,
+        "numChars": 2537
+    },
+    {
+        "title": "Jacob Flees from Laban",
+        "book": "GEN",
+        "chapter": 31,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 470,
+        "numChars": 2441
+    },
+    {
+        "title": "Laban Pursues Jacob",
+        "book": "GEN",
+        "chapter": 31,
+        "startVerse": 22,
+        "endVerse": 42,
+        "numWords": 560,
+        "numChars": 2916
+    },
+    {
+        "title": "Jacob’s Covenant with Laban",
+        "book": "GEN",
+        "chapter": 31,
+        "startVerse": 43,
+        "endVerse": 55,
+        "numWords": 314,
+        "numChars": 1634
+    },
+    {
+        "title": "Jacob Prepares to Meet Esau",
+        "book": "GEN",
+        "chapter": 32,
+        "startVerse": 1,
+        "endVerse": 21,
+        "numWords": 518,
+        "numChars": 2682
+    },
+    {
+        "title": "Jacob Wrestles with God",
+        "book": "GEN",
+        "chapter": 32,
+        "startVerse": 22,
+        "endVerse": 32,
+        "numWords": 246,
+        "numChars": 1299
+    },
+    {
+        "title": "Jacob Meets Esau",
+        "book": "GEN",
+        "chapter": 33,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 384,
+        "numChars": 2016
+    },
+    {
+        "title": "Jacob Settles in Shechem",
+        "book": "GEN",
+        "chapter": 33,
+        "startVerse": 18,
+        "endVerse": 20,
+        "numWords": 96,
+        "numChars": 536
+    },
+    {
+        "title": "The Defiling of Dinah",
+        "book": "GEN",
+        "chapter": 34,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 254,
+        "numChars": 1368
+    },
+    {
+        "title": "The Revenge of Dinah’s Brothers",
+        "book": "GEN",
+        "chapter": 34,
+        "startVerse": 13,
+        "endVerse": 31,
+        "numWords": 425,
+        "numChars": 2320
+    },
+    {
+        "title": "Jacob Returns to Bethel",
+        "book": "GEN",
+        "chapter": 35,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 397,
+        "numChars": 2128
+    },
+    {
+        "title": "Benjamin Born, Rachel Dies",
+        "book": "GEN",
+        "chapter": 35,
+        "startVerse": 16,
+        "endVerse": 20,
+        "numWords": 109,
+        "numChars": 595
+    },
+    {
+        "title": "The Sons of Jacob",
+        "book": "GEN",
+        "chapter": 35,
+        "startVerse": 21,
+        "endVerse": 26,
+        "numWords": 80,
+        "numChars": 457
+    },
+    {
+        "title": "The Death of Isaac",
+        "book": "GEN",
+        "chapter": 35,
+        "startVerse": 27,
+        "endVerse": 29,
+        "numWords": 50,
+        "numChars": 272
+    },
+    {
+        "title": "The Descendants of Esau",
+        "book": "GEN",
+        "chapter": 36,
+        "startVerse": 1,
+        "endVerse": 19,
+        "numWords": 409,
+        "numChars": 2246
+    },
+    {
+        "title": "The Descendants of Seir",
+        "book": "GEN",
+        "chapter": 36,
+        "startVerse": 20,
+        "endVerse": 30,
+        "numWords": 185,
+        "numChars": 1008
+    },
+    {
+        "title": "The Kings of Edom",
+        "book": "GEN",
+        "chapter": 36,
+        "startVerse": 31,
+        "endVerse": 43,
+        "numWords": 231,
+        "numChars": 1300
+    },
+    {
+        "title": "Joseph’s Dreams",
+        "book": "GEN",
+        "chapter": 37,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 293,
+        "numChars": 1511
+    },
+    {
+        "title": "Joseph Sold into Egypt",
+        "book": "GEN",
+        "chapter": 37,
+        "startVerse": 12,
+        "endVerse": 30,
+        "numWords": 441,
+        "numChars": 2262
+    },
+    {
+        "title": "Jacob Mourns Joseph",
+        "book": "GEN",
+        "chapter": 37,
+        "startVerse": 31,
+        "endVerse": 36,
+        "numWords": 141,
+        "numChars": 751
+    },
+    {
+        "title": "Judah and Tamar",
+        "book": "GEN",
+        "chapter": 38,
+        "startVerse": 1,
+        "endVerse": 26,
+        "numWords": 603,
+        "numChars": 3172
+    },
+    {
+        "title": "The Birth of Perez and Zerah",
+        "book": "GEN",
+        "chapter": 38,
+        "startVerse": 27,
+        "endVerse": 30,
+        "numWords": 100,
+        "numChars": 525
+    },
+    {
+        "title": "Joseph and Potiphar’s Wife",
+        "book": "GEN",
+        "chapter": 39,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 300,
+        "numChars": 1570
+    },
+    {
+        "title": "Joseph Falsely Imprisoned",
+        "book": "GEN",
+        "chapter": 39,
+        "startVerse": 13,
+        "endVerse": 23,
+        "numWords": 241,
+        "numChars": 1202
+    },
+    {
+        "title": "The Cupbearer and the Baker",
+        "book": "GEN",
+        "chapter": 40,
+        "startVerse": 1,
+        "endVerse": 23,
+        "numWords": 491,
+        "numChars": 2652
+    },
+    {
+        "title": "The Dreams of Pharaoh",
+        "book": "GEN",
+        "chapter": 41,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 267,
+        "numChars": 1393
+    },
+    {
+        "title": "Joseph Interprets Pharaoh’s Dreams",
+        "book": "GEN",
+        "chapter": 41,
+        "startVerse": 14,
+        "endVerse": 36,
+        "numWords": 520,
+        "numChars": 2710
+    },
+    {
+        "title": "Joseph Given Charge of Egypt",
+        "book": "GEN",
+        "chapter": 41,
+        "startVerse": 37,
+        "endVerse": 45,
+        "numWords": 252,
+        "numChars": 1343
+    },
+    {
+        "title": "The Seven Years of Plenty",
+        "book": "GEN",
+        "chapter": 41,
+        "startVerse": 46,
+        "endVerse": 52,
+        "numWords": 179,
+        "numChars": 1005
+    },
+    {
+        "title": "The Famine Begins",
+        "book": "GEN",
+        "chapter": 41,
+        "startVerse": 53,
+        "endVerse": 57,
+        "numWords": 127,
+        "numChars": 654
+    },
+    {
+        "title": "Joseph’s Brothers Sent to Egypt",
+        "book": "GEN",
+        "chapter": 42,
+        "startVerse": 1,
+        "endVerse": 24,
+        "numWords": 528,
+        "numChars": 2713
+    },
+    {
+        "title": "Joseph’s Brothers Return to Canaan",
+        "book": "GEN",
+        "chapter": 42,
+        "startVerse": 25,
+        "endVerse": 38,
+        "numWords": 383,
+        "numChars": 1902
+    },
+    {
+        "title": "The Return to Egypt with Benjamin",
+        "book": "GEN",
+        "chapter": 43,
+        "startVerse": 1,
+        "endVerse": 15,
+        "numWords": 393,
+        "numChars": 2011
+    },
+    {
+        "title": "Joseph’s Hospitality to His Brothers",
+        "book": "GEN",
+        "chapter": 43,
+        "startVerse": 16,
+        "endVerse": 34,
+        "numWords": 499,
+        "numChars": 2649
+    },
+    {
+        "title": "Benjamin and the Silver Cup",
+        "book": "GEN",
+        "chapter": 44,
+        "startVerse": 1,
+        "endVerse": 17,
+        "numWords": 407,
+        "numChars": 2090
+    },
+    {
+        "title": "Judah Pleads for Benjamin",
+        "book": "GEN",
+        "chapter": 44,
+        "startVerse": 18,
+        "endVerse": 34,
+        "numWords": 395,
+        "numChars": 1952
+    },
+    {
+        "title": "Joseph Reveals His Identity",
+        "book": "GEN",
+        "chapter": 45,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 180,
+        "numChars": 936
+    },
+    {
+        "title": "Joseph Sends for His Father",
+        "book": "GEN",
+        "chapter": 45,
+        "startVerse": 9,
+        "endVerse": 15,
+        "numWords": 157,
+        "numChars": 858
+    },
+    {
+        "title": "Pharaoh Invites Jacob to Egypt",
+        "book": "GEN",
+        "chapter": 45,
+        "startVerse": 16,
+        "endVerse": 24,
+        "numWords": 231,
+        "numChars": 1236
+    },
+    {
+        "title": "The Revival of Jacob",
+        "book": "GEN",
+        "chapter": 45,
+        "startVerse": 25,
+        "endVerse": 28,
+        "numWords": 86,
+        "numChars": 434
+    },
+    {
+        "title": "Jacob’s Journey to Egypt",
+        "book": "GEN",
+        "chapter": 46,
+        "startVerse": 1,
+        "endVerse": 6,
+        "numWords": 145,
+        "numChars": 735
+    },
+    {
+        "title": "Those Who Went to Egypt",
+        "book": "GEN",
+        "chapter": 46,
+        "startVerse": 7,
+        "endVerse": 27,
+        "numWords": 417,
+        "numChars": 2405
+    },
+    {
+        "title": "Jacob Arrives in Egypt",
+        "book": "GEN",
+        "chapter": 46,
+        "startVerse": 28,
+        "endVerse": 34,
+        "numWords": 169,
+        "numChars": 934
+    },
+    {
+        "title": "Jacob Settles in Goshen",
+        "book": "GEN",
+        "chapter": 47,
+        "startVerse": 1,
+        "endVerse": 12,
+        "numWords": 280,
+        "numChars": 1515
+    },
+    {
+        "title": "The Famine Continues",
+        "book": "GEN",
+        "chapter": 47,
+        "startVerse": 13,
+        "endVerse": 26,
+        "numWords": 462,
+        "numChars": 2416
+    },
+    {
+        "title": "The Israelites Prosper in Goshen",
+        "book": "GEN",
+        "chapter": 47,
+        "startVerse": 27,
+        "endVerse": 31,
+        "numWords": 116,
+        "numChars": 583
+    },
+    {
+        "title": "Jacob Blesses Ephraim and Manasseh",
+        "book": "GEN",
+        "chapter": 48,
+        "startVerse": 1,
+        "endVerse": 22,
+        "numWords": 547,
+        "numChars": 2893
+    },
+    {
+        "title": "Jacob Blesses His Sons",
+        "book": "GEN",
+        "chapter": 49,
+        "startVerse": 1,
+        "endVerse": 28,
+        "numWords": 268,
+        "numChars": 1339
+    },
+    {
+        "title": "The Death of Jacob",
+        "book": "GEN",
+        "chapter": 49,
+        "startVerse": 29,
+        "endVerse": 33,
+        "numWords": 117,
+        "numChars": 610
+    },
+    {
+        "title": "Mourning and Burial for Jacob",
+        "book": "GEN",
+        "chapter": 50,
+        "startVerse": 1,
+        "endVerse": 14,
+        "numWords": 331,
+        "numChars": 1816
+    },
+    {
+        "title": "Joseph Comforts His Brothers",
+        "book": "GEN",
+        "chapter": 50,
+        "startVerse": 15,
+        "endVerse": 21,
+        "numWords": 170,
+        "numChars": 898
+    },
+    {
+        "title": "The Death of Joseph",
+        "book": "GEN",
+        "chapter": 50,
+        "startVerse": 22,
+        "endVerse": 26,
+        "numWords": 133,
+        "numChars": 669
+    }
+]

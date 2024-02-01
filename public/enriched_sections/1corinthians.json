@@ -1,0 +1,407 @@
+[
+    {
+        "title": "Greetings from Paul and Sosthenes",
+        "book": "1CO",
+        "chapter": 1,
+        "startVerse": 1,
+        "endVerse": 3,
+        "numWords": 70,
+        "numChars": 355
+    },
+    {
+        "title": "Thanksgiving",
+        "book": "1CO",
+        "chapter": 1,
+        "startVerse": 4,
+        "endVerse": 9,
+        "numWords": 100,
+        "numChars": 512
+    },
+    {
+        "title": "Unity in the Church",
+        "book": "1CO",
+        "chapter": 1,
+        "startVerse": 10,
+        "endVerse": 17,
+        "numWords": 173,
+        "numChars": 891
+    },
+    {
+        "title": "The Message of the Cross",
+        "book": "1CO",
+        "chapter": 1,
+        "startVerse": 18,
+        "endVerse": 25,
+        "numWords": 164,
+        "numChars": 849
+    },
+    {
+        "title": "Wisdom from God",
+        "book": "1CO",
+        "chapter": 1,
+        "startVerse": 26,
+        "endVerse": 31,
+        "numWords": 122,
+        "numChars": 642
+    },
+    {
+        "title": "Paul’s Message by the Spirit’s Power",
+        "book": "1CO",
+        "chapter": 2,
+        "startVerse": 1,
+        "endVerse": 5,
+        "numWords": 87,
+        "numChars": 454
+    },
+    {
+        "title": "Spiritual Wisdom",
+        "book": "1CO",
+        "chapter": 2,
+        "startVerse": 6,
+        "endVerse": 16,
+        "numWords": 252,
+        "numChars": 1317
+    },
+    {
+        "title": "God’s Fellow Workers",
+        "book": "1CO",
+        "chapter": 3,
+        "startVerse": 1,
+        "endVerse": 9,
+        "numWords": 178,
+        "numChars": 908
+    },
+    {
+        "title": "Christ Our Foundation",
+        "book": "1CO",
+        "chapter": 3,
+        "startVerse": 10,
+        "endVerse": 15,
+        "numWords": 126,
+        "numChars": 648
+    },
+    {
+        "title": "God’s Temple and God’s Wisdom",
+        "book": "1CO",
+        "chapter": 3,
+        "startVerse": 16,
+        "endVerse": 23,
+        "numWords": 155,
+        "numChars": 799
+    },
+    {
+        "title": "Servants of Christ",
+        "book": "1CO",
+        "chapter": 4,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 337,
+        "numChars": 1721
+    },
+    {
+        "title": "Paul’s Fatherly Warning",
+        "book": "1CO",
+        "chapter": 4,
+        "startVerse": 14,
+        "endVerse": 21,
+        "numWords": 176,
+        "numChars": 851
+    },
+    {
+        "title": "Immorality Rebuked",
+        "book": "1CO",
+        "chapter": 5,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 226,
+        "numChars": 1157
+    },
+    {
+        "title": "Expel the Immoral Brother",
+        "book": "1CO",
+        "chapter": 5,
+        "startVerse": 9,
+        "endVerse": 13,
+        "numWords": 129,
+        "numChars": 695
+    },
+    {
+        "title": "Lawsuits among Believers",
+        "book": "1CO",
+        "chapter": 6,
+        "startVerse": 1,
+        "endVerse": 8,
+        "numWords": 166,
+        "numChars": 895
+    },
+    {
+        "title": "Members of Christ",
+        "book": "1CO",
+        "chapter": 6,
+        "startVerse": 9,
+        "endVerse": 17,
+        "numWords": 235,
+        "numChars": 1235
+    },
+    {
+        "title": "The Temple of the Holy Spirit",
+        "book": "1CO",
+        "chapter": 6,
+        "startVerse": 18,
+        "endVerse": 20,
+        "numWords": 78,
+        "numChars": 396
+    },
+    {
+        "title": "Principles of Marriage",
+        "book": "1CO",
+        "chapter": 7,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 384,
+        "numChars": 1998
+    },
+    {
+        "title": "Live Your Calling",
+        "book": "1CO",
+        "chapter": 7,
+        "startVerse": 17,
+        "endVerse": 24,
+        "numWords": 164,
+        "numChars": 883
+    },
+    {
+        "title": "The Unmarried and Widowed",
+        "book": "1CO",
+        "chapter": 7,
+        "startVerse": 25,
+        "endVerse": 40,
+        "numWords": 481,
+        "numChars": 2383
+    },
+    {
+        "title": "Food Sacrificed to Idols",
+        "book": "1CO",
+        "chapter": 8,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 292,
+        "numChars": 1495
+    },
+    {
+        "title": "The Rights of an Apostle",
+        "book": "1CO",
+        "chapter": 9,
+        "startVerse": 1,
+        "endVerse": 18,
+        "numWords": 451,
+        "numChars": 2262
+    },
+    {
+        "title": "Paul the Servant to All",
+        "book": "1CO",
+        "chapter": 9,
+        "startVerse": 19,
+        "endVerse": 23,
+        "numWords": 139,
+        "numChars": 647
+    },
+    {
+        "title": "Run Your Race to Win",
+        "book": "1CO",
+        "chapter": 9,
+        "startVerse": 24,
+        "endVerse": 27,
+        "numWords": 97,
+        "numChars": 476
+    },
+    {
+        "title": "Warnings from Israel’s Past",
+        "book": "1CO",
+        "chapter": 10,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 281,
+        "numChars": 1470
+    },
+    {
+        "title": "Flee from Idolatry",
+        "book": "1CO",
+        "chapter": 10,
+        "startVerse": 14,
+        "endVerse": 22,
+        "numWords": 170,
+        "numChars": 872
+    },
+    {
+        "title": "All to God’s Glory",
+        "book": "1CO",
+        "chapter": 10,
+        "startVerse": 23,
+        "endVerse": 33,
+        "numWords": 241,
+        "numChars": 1265
+    },
+    {
+        "title": "Roles in Worship",
+        "book": "1CO",
+        "chapter": 11,
+        "startVerse": 1,
+        "endVerse": 16,
+        "numWords": 315,
+        "numChars": 1541
+    },
+    {
+        "title": "Sharing in the Lord’s Supper",
+        "book": "1CO",
+        "chapter": 11,
+        "startVerse": 17,
+        "endVerse": 34,
+        "numWords": 426,
+        "numChars": 2173
+    },
+    {
+        "title": "Spiritual Gifts",
+        "book": "1CO",
+        "chapter": 12,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 198,
+        "numChars": 1070
+    },
+    {
+        "title": "The Body of Christ",
+        "book": "1CO",
+        "chapter": 12,
+        "startVerse": 12,
+        "endVerse": 26,
+        "numWords": 309,
+        "numChars": 1498
+    },
+    {
+        "title": "The Greater Gifts",
+        "book": "1CO",
+        "chapter": 12,
+        "startVerse": 27,
+        "endVerse": 31,
+        "numWords": 79,
+        "numChars": 446
+    },
+    {
+        "title": "Love",
+        "book": "1CO",
+        "chapter": 13,
+        "startVerse": 1,
+        "endVerse": 13,
+        "numWords": 282,
+        "numChars": 1394
+    },
+    {
+        "title": "Prophecy and Tongues",
+        "book": "1CO",
+        "chapter": 14,
+        "startVerse": 1,
+        "endVerse": 25,
+        "numWords": 542,
+        "numChars": 2920
+    },
+    {
+        "title": "Orderly Worship",
+        "book": "1CO",
+        "chapter": 14,
+        "startVerse": 26,
+        "endVerse": 40,
+        "numWords": 305,
+        "numChars": 1646
+    },
+    {
+        "title": "The Resurrection of Christ",
+        "book": "1CO",
+        "chapter": 15,
+        "startVerse": 1,
+        "endVerse": 11,
+        "numWords": 230,
+        "numChars": 1128
+    },
+    {
+        "title": "The Resurrection of the Dead",
+        "book": "1CO",
+        "chapter": 15,
+        "startVerse": 12,
+        "endVerse": 19,
+        "numWords": 158,
+        "numChars": 786
+    },
+    {
+        "title": "The Order of Resurrection",
+        "book": "1CO",
+        "chapter": 15,
+        "startVerse": 20,
+        "endVerse": 34,
+        "numWords": 296,
+        "numChars": 1521
+    },
+    {
+        "title": "The Resurrection Body",
+        "book": "1CO",
+        "chapter": 15,
+        "startVerse": 35,
+        "endVerse": 49,
+        "numWords": 304,
+        "numChars": 1543
+    },
+    {
+        "title": "Where, O Death, Is Your Victory?",
+        "book": "1CO",
+        "chapter": 15,
+        "startVerse": 50,
+        "endVerse": 58,
+        "numWords": 194,
+        "numChars": 1069
+    },
+    {
+        "title": "The Collection for the Saints",
+        "book": "1CO",
+        "chapter": 16,
+        "startVerse": 1,
+        "endVerse": 4,
+        "numWords": 82,
+        "numChars": 407
+    },
+    {
+        "title": "Paul’s Travel Plans",
+        "book": "1CO",
+        "chapter": 16,
+        "startVerse": 5,
+        "endVerse": 9,
+        "numWords": 122,
+        "numChars": 621
+    },
+    {
+        "title": "Timothy and Apollos",
+        "book": "1CO",
+        "chapter": 16,
+        "startVerse": 10,
+        "endVerse": 12,
+        "numWords": 95,
+        "numChars": 445
+    },
+    {
+        "title": "Concluding Exhortations",
+        "book": "1CO",
+        "chapter": 16,
+        "startVerse": 13,
+        "endVerse": 18,
+        "numWords": 97,
+        "numChars": 538
+    },
+    {
+        "title": "Signature and Final Greetings",
+        "book": "1CO",
+        "chapter": 16,
+        "startVerse": 19,
+        "endVerse": 24,
+        "numWords": 96,
+        "numChars": 517
+    }
+]
