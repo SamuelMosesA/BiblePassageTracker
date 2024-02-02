@@ -52,12 +52,9 @@ async function getPassageResults(enrichedSectionInfo, bookName, startChapter, st
 
     let endIndex = startIndex;
 
-    while (curNumChars < goalLength) {
+    while (curNumChars < goalLength && endIndex < enrichedSectionInfo.length -1) {
       endIndex += 1;
       curNumChars += enrichedSectionInfo.at(endIndex).numChars;
-
-      if(endIndex == enrichedSectionInfo.length -1)
-        break
     }
 
 
