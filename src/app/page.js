@@ -9,9 +9,6 @@ import {HeaderAndFooterWrapper} from '../lib/reusable_components'
 import { getAuth, onAuthStateChanged,  signInWithPopup, signInWithRedirect, GoogleAuthProvider, setPersistence, browserLocalPersistence} from "firebase/auth";
 
 
-
-
-
 function LoginComponent(props) {
   const auth = getAuth()
   const provider = new GoogleAuthProvider()
@@ -28,47 +25,6 @@ function LoginComponent(props) {
     </div>
   )
 }
-
-
-// function AuthenticatedScreen(props) {
-
-//   let [docRef, setDocRef] = useState("loading")
-
-
-//   useEffect(() => {
-//     sendExampleData()
-
-//     async function sendExampleData() {
-//       try {
-//         console.log("sending request")
-//         await setDoc(doc(firestoreInstance, "readpoint", props.data.email), {
-//           book: "GEN",
-//           bookHumanReadable: "Genesis",
-//           chapter: 1,
-//           verse: 2
-//         });
-//         console.log("Document written with ID: ", props.data.email);
-//         let docdata = await getDoc(doc(firestoreInstance, "readpoint", props.data.email))
-//         if(docdata.exists()){
-//           console.log(docdata.data())
-//           setDocRef(JSON.stringify(docdata.data()))
-//         }
-//       } catch (error) {
-//         console.error("Error adding document: ", error);
-//         setDocRef(toString(error))
-//       }
-//     }
-//   },[]);
-
-//   return (
-//     <div>
-//       <h1> hi {props.data.displayName}</h1>
-//       <img src={props.data.photoURL} alt={props.data.displayName + ' photo'} />
-//       <h2>{docRef}</h2>
-//     </div>
-//   );
-// }
-
 
 export default function Home() {
   const auth = getAuth();
