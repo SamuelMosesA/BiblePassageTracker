@@ -22,7 +22,7 @@ function LoginComponent(props) {
       </div>
       <GoogleButton className="mt-10" onClick={() =>{ 
       setPersistence(auth, browserLocalPersistence)
-      .then(()=>signInWithRedirect(auth, provider))
+      .then(()=>signInWithPopup(auth, provider))
       .then((result => {console.log(result)}))
       .catch((error)=>console.log(error)) } }/>
     </div>
