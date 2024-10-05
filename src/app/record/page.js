@@ -1,7 +1,7 @@
 
 'use client'
 import Link from "next/link"
-import { useEffect, useState } from 'react'
+import { Suspense, useEffect, useState } from 'react'
 import { VerseSelection, HeaderAndFooterWrapper } from '../../lib/reusable_components'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
 import { firestoreInstance } from '../../lib/firebase'
@@ -11,7 +11,7 @@ import { getDoc, setDoc } from "firebase/firestore";
 import { useSearchParams } from 'next/navigation'
 
 
-export default function Record() {
+function RecordLayout() {
     const queryParams = useSearchParams();
     const series = queryParams.get("series")
     const bookName = queryParams.get("book")
@@ -83,4 +83,12 @@ export default function Record() {
             </HeaderAndFooterWrapper>
         )
     }
+}
+
+export default function Record(){
+    return(
+        <Suspense>
+            <RecordLayout/>
+        </Suspense>
+    )
 }

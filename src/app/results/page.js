@@ -2,7 +2,7 @@
 import { HeaderAndFooterWrapper } from "@/lib/reusable_components";
 import Link from "next/link"
 import { useSearchParams } from 'next/navigation'
-import { use, useEffect, useState } from "react";
+import { Suspense, use, useEffect, useState } from "react";
 
 
 
@@ -161,7 +161,7 @@ function InvalidResult() {
   );
 }
 
-export default function Results() {
+function ResultsLayout() {
   const queryParams = useSearchParams();
   const series = queryParams.get("series")
   const bookName = queryParams.get("book")
@@ -223,5 +223,13 @@ export default function Results() {
     </HeaderAndFooterWrapper>
 
     // </main>
+  )
+}
+
+export default function Results() {
+  return (
+    <Suspense>
+      <ResultsLayout/>
+    </Suspense>
   )
 }

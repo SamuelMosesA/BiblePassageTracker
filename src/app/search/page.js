@@ -1,6 +1,6 @@
 'use client'
 import Link from "next/link"
-import { useEffect, useState } from 'react'
+import { Suspense, useEffect, useState } from 'react'
 import { VerseSelection, HeaderAndFooterWrapper } from '../../lib/reusable_components'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
 import { firestoreInstance } from '../../lib/firebase'
@@ -9,7 +9,7 @@ import { doc } from "firebase/firestore"
 import { getDoc } from "firebase/firestore";
 import { useSearchParams } from 'next/navigation'
 
-export default function Search() {
+function SearchLayout() {
   const queryParams = useSearchParams();
   const auth = getAuth();
   const series = queryParams.get("series")
@@ -121,5 +121,14 @@ export default function Search() {
       </Link>
     </HeaderAndFooterWrapper>
 
+  )
+}
+
+
+export default function Search() {
+  return (
+    <Suspense>
+      <SearchLayout/>
+   </Suspense>
   )
 }
